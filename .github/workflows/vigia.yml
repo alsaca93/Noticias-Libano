@@ -23,6 +23,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_WEBHOOK_CONTEXT: ${{ secrets.DISCORD_WEBHOOK_CONTEXT }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: |
           if [ -z "$DISCORD_WEBHOOK_URL" ]; then
             echo "::error::Falta el secreto DISCORD_WEBHOOK_URL"; exit 1

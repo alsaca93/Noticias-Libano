@@ -356,24 +356,73 @@ def similar(a, b):
 # --- Traducción ---------------------------------------------------------------
 
 
+DEEPL_KEY = os.environ.get("DEEPL_API_KEY", "").strip()
+TR_FAILS = {}    # motor -> fallos seguidos en esta ejecución
+TR_USED = {}     # motor -> traducciones hechas
+
+
+def _fix_names(out):
+    # Los traductores cambian los nombres propios; se devuelven a la forma habitual.
+    out = re.sub(r"FPNUL", "FINUL", out)
+    out = re.sub(r"(?:Al-)?Jiam", "Khiam", out)
+    return out
+
+
+def _tr_deepl(text):
+    body = json.dumps({"text": [text], "target_lang": "ES"}).encode("utf-8")
+    host = "api-free.deepl.com" if DEEPL_KEY.endswith(":fx") else "api.deepl.com"
+    raw = fetch(f"https://{host}/v2/translate", data=body, timeout=15,
+                headers={"Authorization": "DeepL-Auth-Key " + DEEPL_KEY, "Content-Type": "application/json"})
+    return json.loads(raw)["translations"][0]["text"]
+
+
+def _tr_google(text):
+    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q="
+           + urllib.parse.quote(text))
+    data = json.loads(fetch(url, timeout=15).decode("utf-8"))
+    if data[2] == "es":
+        return text
+    return "".join(seg[0] for seg in data[0] if seg and seg[0])
+
+
+def _tr_google_web(text):
+    page = fetch("https://translate.google.com/m?sl=auto&tl=es&q=" + urllib.parse.quote(text), timeout=15).decode("utf-8")
+    return html.unescape(re.search(r'class="result-container">(.*?)</div>', page, re.S).group(1))
+
+
+def _tr_mymemory(text):
+    url = "https://api.mymemory.translated.net/get?langpair=Autodetect%7Ces&q=" + urllib.parse.quote(text[:480])
+    data = json.loads(fetch(url, timeout=15).decode("utf-8"))
+    out = data["responseData"]["translatedText"]
+    if data.get("responseStatus") not in (200, "200") or "MYMEMORY WARNING" in out.upper():
+        raise RuntimeError("límite de MyMemory")
+    return out
+
+
+ENGINES = ([("deepl", _tr_deepl)] if DEEPL_KEY else []) + [
+    ("google", _tr_google), ("google_web", _tr_google_web), ("mymemory", _tr_mymemory)]
+
+
 def translate(text):
-    """Traduce al español con el endpoint público de Google Translate. Si falla, devuelve el original."""
+    """Traduce al español probando varios servicios. Si todos fallan, devuelve el original."""
     text = text.strip()
     if not text:
         return text
-    try:
-        url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q="
-               + urllib.parse.quote(text[:1800]))
-        data = json.loads(fetch(url, timeout=15).decode("utf-8"))
-        if data[2] == "es":
-            return text
-        out = "".join(seg[0] for seg in data[0] if seg and seg[0]).strip() or text
-        # El traductor cambia los nombres propios; se devuelven a la forma habitual.
-        out = re.sub(r"\bFPNUL\b", "FINUL", out)
-        out = re.sub(r"\bJiam\b", "Khiam", out)
-        return out
-    except Exception:
-        return text
+    foreign = bool(AR_CHARS.search(text))
+    for name, fn in ENGINES:
+        if TR_FAILS.get(name, 0) >= 2:
+            continue  # este servicio no responde desde aquí; no se insiste
+        try:
+            out = (fn(text[:1800]) or "").strip()
+            if not out or (foreign and AR_CHARS.search(out)):
+                raise RuntimeError("sin traducir")
+            TR_FAILS[name] = 0
+            TR_USED[name] = TR_USED.get(name, 0) + 1
+            return _fix_names(out)
+        except Exception:
+            TR_FAILS[name] = TR_FAILS.get(name, 0) + 1
+    TR_USED["ninguno"] = TR_USED.get("ninguno", 0) + 1
+    return text
 
 
 # --- Sucesos ------------------------------------------------------------------
@@ -565,6 +614,20 @@ def main():
 
     # 1. Sucesos: cada noticia se suma a un suceso ya avisado o abre uno nuevo.
     touched = {}  # id(ev) -> (ev, claves de las noticias añadidas)
+    # Avisos que salieron sin traducir: se reintentan y se corrige el mensaje ya enviado.
+    for ev in events:
+        fixed = False
+        for s in ev["sources"]:
+            if AR_CHARS.search(s["title"]):
+                new = translate(s["title"])
+                fixed = fixed or new != s["title"]
+                s["title"] = new
+        if fixed:
+            touched[id(ev)] = (ev, [])
+    for p in pending:
+        m = re.match(r"• \[(.*?)\]\(<", p["line"], re.S)
+        if m and AR_CHARS.search(m.group(1)):
+            p["line"] = p["line"].replace(m.group(1), translate(m.group(1))[:150], 1)
     new_events = []
     for it, places, un, ks in ev_items:
         ts = int((it["date"] or NOW).timestamp())
@@ -626,6 +689,10 @@ def main():
           f"resúmenes: {digest} · política repetida descartada: {dups} · en espera: {len(pending)}")
 
     # 3. Guardar memoria.
+    # Diagnóstico: qué traductor funciona y qué fuentes fallan (solo cambia si cambia la situación).
+    state["diag"] = {"traductores": sorted(TR_USED) or state.get("diag", {}).get("traductores", []),
+                     "fuentes_caidas": sorted(e.split(":")[0] for e in errors)}
+    print("Traducciones:", TR_USED or "ninguna")
     state["seen"] = {k: v for k, v in seen.items() if v >= now_ts - 7 * 86400}
     state["events"] = [e for e in events if e["first_ts"] >= now_ts - 36 * 3600]
     state["ctx_titles"] = [t for t in ctx_titles if t["ts"] >= now_ts - 24 * 3600]
