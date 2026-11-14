@@ -307,6 +307,34 @@
 {
 "title": "Salam busca «más allá de la FPNUL»... e Israel continúa con los ataques y los bombardeos en el sur del Líbano",
 "ts": 1794686298
+},
+{
+"title": "Morkos visita el sur del Líbano... Garantías sobre la fase posterior a la FPNUL y la reconstrucción",
+"ts": 1794699678
+},
+{
+"title": "La alternativa a la FPNUL sobre la mesa de Beirut... ¿Qué le depara Washington al Líbano?",
+"ts": 1794699678
+},
+{
+"title": "Aoun rechaza el vacío de seguridad en el sur del Líbano y pide que UNIFIL continúe o que haya una alternativa de la ONU.",
+"ts": 1794699678
+},
+{
+"title": "La visita de Waltz y la alternativa a la FPNUL: un funcionario libanés revela los entresijos de la próxima fase",
+"ts": 1794699678
+},
+{
+"title": "Waltz visita Beirut para hablar sobre el futuro de la FPNUL, mientras Líbano insiste en que la ONU siga desempeñando su papel en el sur del país",
+"ts": 1794699678
+},
+{
+"title": "El periódico Al-Sulta espera una fórmula de compromiso y críticas contundentes a Geagea.",
+"ts": 1794699678
+},
+{
+"title": "La FPNUL bajo el mando de Waltz, la electricidad en Doha y la seguridad en Damasco",
+"ts": 1794699678
 }
 ],
 "diag": {
@@ -495,97 +523,81 @@
 ],
 "type": "explosion",
 "un": true
+},
+{
+"body": "",
+"first_ts": 1794687901,
+"msg_id": "1571309152851202121",
+"places": [
+"Marjayoun"
+],
+"sig": "Marjayoun|artilleria",
+"sources": [
+{
+"level": "B",
+"link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNd2xEenJyWVAxOHp5YXh5UDVtMlVzTVFqTzVFLWJMRXNlU1ZkVkw2Q2wxV2pLbzJDQU5wRFNka3E4QUZKZkh2bmJuenFCbVVqVUlDZm4wVFNXZ0k2aU1GcFZtRWlNeGg3SDc4XzB2T3JuSlAzZ3dBVk5kX2hSYmM2N0tNRGZFQXlQVUViSlhkTEpMUHR5SVJjUFRHeXhXNlplWHNmelRkQ0NCRFN0aVFqLVVxUjNFbk9MdlVyYUUxeGV4VWlwQXJzVk9aeS1FQ2VGelJESzRubkhuM3JSVEFjSkpMSXlBeFY5bF9UZndBZWdYMlJwU3lUdC1fTnBGUkc0WHI4cEJhMmxyMVJ0RndzU2YzN29BR1gxSFNZNlFHUWJscG56QlNzdnY3bmp4QmVwX1U4OTRGelJYclhxMUp0RDRCZUFhc3dVdGF1YnJqZ2ZTbFBETEIzOUxvN2l1QTVUcnpvamdCQm5VdmZ2RklrTkxVb0d3VDlBeElCT1FnVk5GaGo3NmMzanBjWVdBQ29aMm5FWVc3NzFsZmd2WndRdGpCX3Baa1JXVUhCcjd4T1NSSV9o?oc=5",
+"name": "Lebanon24 (vía Google News)",
+"origin": "Medio libanés o árabe",
+"title": "«Líbano24»: La artillería israelí atacó la llanura de Marjayoun",
+"ts": 1794687901
+}
+],
+"type": "artilleria",
+"un": false
+},
+{
+"body": "",
+"first_ts": 1794689830,
+"msg_id": "1571309159138201696",
+"places": [
+"Marjayoun"
+],
+"sig": "Marjayoun|aereo",
+"sources": [
+{
+"level": "?",
+"link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNaGwydDl0WWwzbW1ucWlLYTlZSVRBbWhGeGNVb3ZkQThUY1VRR2RoX1FNMHlnNk5jeUJ4UEI3SW1oaDZkcHpWLWZnUWZRMFQzNGlKY1pmT2xjWEJORmdCa3N1UHBST0U1aHpzc2g0TWZnQ2lJOWhKTlFpeC1KTmxYRVVTUTM5bk5TRDR5WkJoMWtYaFNjNVo3WWo0V2dvWGVaRWYtdUNPTF95Tnpqa29kV3Y5Y2FvWkxnak9xSmQ0YlRhZV9XNDVZcWFoUDJORk14V2R6bllkVUp3U21uNUxOT0hjMGtld0FlZHlOU1AwcWZKOC1yaXZuQ3ExdTRQNkloM1FIb2RiT2NmNlJGeGZXb3pmTUc0OFJ3VlVkUnNWYm1EcUNTYlRhTWNjR0tSOXFpT19wU3NMcG41NVFDLXRfNllTSGZtUnVVZVg5OVdTVGxnb1k2WXZ4VGJmMjVMampQTE5hN0NvejlBZFlkT1N1SGlwZHdtbHZDdjI2SUlWTktuVGtyWTRyOGtWWFc5Q0pWMk96aXhvY0hyY2I2bUZEeUNaSnRzM01pdWFwYVh5QkdjV2o4UWlXWHZxZlFfTUh4R3VDYmQ5Q182Q0NWSGtz?oc=5",
+"name": "الكتائب (vía Google News)",
+"origin": "Vía Google News",
+"title": "Ataques contra Aita al-Jabal, bombardeo del valle de Marjayoun y rastreo en dirección a Yater",
+"ts": 1794689830
+},
+{
+"level": "B",
+"link": "https://t.me/LBCI_NEWS/324917",
+"name": "LBCI (Telegram)",
+"origin": "TV libanesa",
+"title": "Agencia Nacional de Noticias: Ataques a Aita al-Jabal, bombardeo del valle de Marjayoun y rastreo en dirección a Yater",
+"ts": 1794690515
+}
+],
+"type": "aereo",
+"un": false
 }
 ],
 "pending": [
 {
-"line": "• [El sur se enfrenta a una prueba de soberanía tras la UNIFIL... Seguridad sin garantías](<https://news.google.com/rss/articles/CBMimgNBVV95cUxNb3RMYTBXM0dHOXYxdDl0YXdJODROUGVwMEg2eDBNTU9Tci0zUGY5dUVhZWQ3eHN0djdSRkxmTlVZZ0xvU1pVbG9KTGRRYnFUYlk0OXNtb1lkY2Z6QW9Sck00LXdjcDNJWS1wN25CNjl0QWJhMlRhOGotNzdSUzlyMWQ2SkVWTXJFMXhvUlhSeEphdlBLR0pWUjd1WVdJTzIzQUhYZXJYOTJjb0Z6ZEJnYS0zZHBMX2w2M255VVcyQVREZVJ5U2RheFFyLTkyaDYtMFBsLUNUSE9ZRi1xak00Zndsb3NyWllUWG8zWC0zU09XdGdhRk9fS2NFMU5MTklyUEpoc3ZhVnpVa284b1EzNzJTNmMtYVRxSE5LcGo0LXlFRFVJMTFQWFdxZmptYUtGLWxTcEFWX1VkX0stRjNRX1E3ZGczTUc4WjB2OUlDbmZpVnlxWnFmYk8yYmsybHdBbDFGRlQ1Q05FdldMNW9CbmotLUNhbjJ0WjdvUkxFVW8yNmpaODBsSXhJbU1tS1BuazFaX2gzZ2w2dw?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
-"ts": 1794686298
+"line": "• [Waltz visita Beirut para hablar sobre el futuro de la FPNUL, mientras Líbano insiste en que la ONU siga desempeñando su papel en el sur del país](<https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWRTNWoxU1FqS3poczRMYmhPVGZSVGVVd2xQcy03VEU3YmxKcEl0eDBiMzZXWXRwUzV0eXhocVUtY1FCU0dxMU9qdFZMMXVHTmFLWm1rS25SUmtPODlJTDFwWXA0RXU1MEF4a0hGTkxDZ1JLZnBYZnA0QWxMbUhTbW9uR2dMakpVUmRPNDJzTGhVSTBBYmRXRGxVSXdLMjA0d3RRRlh6REhjVFI3bXVlX1pmT2wwaXJtVEZDcGt5N3RvQQ?oc=5>)\n-# LBCI Lebanon (vía Google News) · fiabilidad B",
+"ts": 1794699678
 },
 {
-"line": "• [Marqas del Sur... Garantías sobre la etapa posterior a la UNIFIL y el expediente de repatriación...](<https://news.google.com/rss/articles/CBMi9gNBVV95cUxOS3BPRWFZY0ZCb3o2REtsOU1mSmx2bHhEOEdpQXN0S0Y1Y05jNGdmaUxnX0xtOUtQUTBuN1N6MjI2bFhsVkt5TDFfZnNXdVJLbWF2NW5BNzdIejltS2cyV1Z0N1ZUSkFOWHpNNGl4ZVQxQXBYWl95N1AxWFYzSEJPaWt3cEZmZmhJbTN2azZJYjRhNlBnMUlpeWlZbEFaMU5jY1NoQ0hvZk5SemlRT3ZBUm5PeDlmNWZseWNDLTRyelBaeFNjdHNvTWlZOWh0ZVBHRkZaZnhoZVYzNFIwb1ZzWHJyZ3VkRjc4djBkNFVxSnFTN05ZaFdCcGpMR3pFeHRSZXNRR3pJRU1jalNfbWRka3BsUnJIOUZpZnpUN0F1RVF6eUd5QTFSRlZBRVRVOGFsV0F0QWF5eFdVQUhHTDVqX2ZWM2lIbzltUlJBQkdTcGxWZWRvWlRVRFNGRXMyMmtfUjFVN2tZQnhRb0hkV2pQM1ZJaFpuYW9LT3hGWHBIMUV3aktUMk1UalJRcU0xSDRhZklXQXZwck50ZGVWeEFzNjJXaEdQT1NhT1RCRHFoREpVbkI5Y0ljWjBZTkVDa2FZNUtnMFZHalVvX3d3c1ZXckdlSy1GdUVXSGJNR0RiemN6am1kbDVFOWl1eDZURkNpNjFxVjZR?oc=5>)\n-# aljadeed (vía Google News) · fiabilidad ?",
-"ts": 1794686298
+"line": "• [El periódico Al-Sulta espera una fórmula de compromiso y críticas contundentes a Geagea.](<https://www.annahar.com/lebanon/politics/366550/السلطة-تنتظر-صيغة-والتز-وانتقادات-عالية-السقف-لجعجع>)\n-# An-Nahar · fiabilidad B",
+"ts": 1794699678
 },
 {
-"line": "• [Mardakian: Buscar fórmulas para llenar el vacío tras la retirada de la FPNUL del sur – R News LB](<https://news.google.com/rss/articles/CBMiO0FVX3lxTE53dW4xMTR0Uk43dk53ZlJXczE1dW1hMUhPbW9ockZWX1pfMDBnckNwOGI5TF9nUFNUN25Z?oc=5>)\n-# Howl.Link (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [Aoun está abierto a un mecanismo de la ONU alternativo a la FPNUL](<https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lRVF3aVk2Nk94YTRtRlRXLW8wc2FZMklUU0J6SFVXV1lpeWdRWFhMRXlzZE5relByb2liaWtiMjBwaHpwREc5akwwYVM?oc=5>)\n-# Ici Beyrouth (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [Advertencia sobre el vacío de seguridad: el presidente libanés pide la prórroga de la misión de la FPNUL | Al-Talevisión Al-Arabi](<https://news.google.com/rss/articles/CBMihwRBVV95cUxNY3lxc1ByMzVHV3V4Z3hlbzlUVFRkNWFfVWMwX0lRU1BpTlhXaDZfLVBPeGlMMktGMkw2SkRHd0Jub3YyV0JvZTNFMTJIV3VWeDZFdGRyaFllMmkweE5BTDJfMTdSM2w5UUlWR0xLQTNydmxmMGVKTXJ2dTlnQm00NElWa2hLQ3BNeXlZQ0NoUHdMamN0VmoybExtSmRhMXZPaVFkREF1TXpNUVVFUDE1dmdqVEdjdXpHR05uaVpMMTZENlNsTzk4SUhQX3o4NTMtUEhVNnhhZWJyYkY5R05ELU1RQ0ZzbmNGY1E3MWNoN1VwakpSTTMtcFFxM290SkI3OW1zeWZOTnZPY3hUU3pWSnBEWTZtWnI1YjhQbkpWdmVrXzROVmZzanlPaEh2MjY0NDdjdzFZMjhMLUNlRTByRXI4MDd1X3VZZDN1cVVxMWI0OXhvaWRybXBFTTJObEdwVklvVUpkeTA0R0NWRTRoOFllQTRlbGdMU1gzMnZUOWJRZUZ0dTNqNlRWUlB0cERqNFU0S2x5Qm5iMVE4Z1NLcXc5U2IxYUxXSWwwWFVqUUx0d0hpTXNlSUVSZmxYYjNOWEpkOFJoMndXME1lQ2FOWEtSalFkLV9wXzE4TFlCTDZVWTc0Nk5mV3dIeFBaMFIwR1N2THJXWGwyT0tCVUh5b1NFSDhoa03SAYwEQVVfeXFMTkZyeENyOWRNTm5NZl8xQlgzQmREWGFlVHBZZ0p5aXIxZmRXX1FGUHZmYVRmUEdFUTR1VmdxSFRRR1FxSnFhejNNbzJ4UDJnYWs2cF9LT09QbGRBWUpLOEFYZVota1lsODJYVHQyVHhYU1ZJdXowbzRGaUduZ1FaX1NzdnJLa3NudXVuTFp3OTM3NTVoR01lb2pHdTR0UzNVNXhyTmZBaV9hWXktS01iVjhXMGRfQWJud2NjaXNuek5aN0FLZUlGZ3JZVmhOTXhIVkFLV2dqa1VsaHhyVVdub2FRS0c3R1J3M3NDSnBLNmIwODJGQlBObTlwdVZuMDhvVlRraWJrOUkyWk1BZXc1RUZfTS1IM1NHR2Q4eTgzUkhRdTZJTEdocEZ6QzVYRlEybDA0OXdJc082M3VVR2VBMjZ2QmFjWENuYUxZWFV1SDFVZjcwcWtORUdlalU1c194SldnbmRUR2VIN1FmV2prUVVkLXZCMENBMTJJaDJZbFR2d2NHazVxLXJOT29WZTJWUUFrbXJXQmQzU2laVnoyRUhkcWFmdXlybEtqdFNZNml0VEgwVGhBanBaS05yYmJzS3paUWl1bE9YNzJaMS12SG5lYTlkY0FOWlRpUVNGZ255YVhieTVneUIzWGg2OHg5ck8tNzh6MV9PUHpXSVJyVzk2c293S1ZXdWVsZ1M?oc=5>)\n-# التلفزيون العربي (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [El presidente del Líbano pide a la ONU que renueve el mandato de mantenimiento de la paz en el sur](<https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGQ2VjU4Wl93Y1AtNEJiNUhWUFhVQVoyUTRBTm1nRURkYXZuYVdYQllFQWE1OWZsQVZJT3BsRHNmVV8tVFAzdFMyZDNJaFdUbGdhWU1aQ1RNRzF5WGRWcVFFcmZxYy1EWmRWWmVqNEVTOEVEVWxjSXd5Z2Y5TEFnZFVpRVd1VUs0Y2M1eEt0NDdZWjU2M0ZEYzUwcjgxUWF0cjlkNVJaUGZtRFJTWjRfMU0zRQ?oc=5>)\n-# Türkiye Today (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [El ministro Markos recorrió Nabatieh para evaluar los daños.](<https://www.lbcgroup.tv/news/lebanon/968003/title/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# LBCI (árabe) · fiabilidad B · Nabatieh, 12,2 km al O",
-"ts": 1794686298
-},
-{
-"line": "• [Irán vence a Palestina en el Torneo Internacional Amistoso de Basora](<https://www.annahar.com/sports/football/366446/بث-مباشر-لمباراة-فلسطين-ضد-إيران-في-دورة-البصرة-الدولية-الودية>)\n-# An-Nahar · fiabilidad B · Sarda, 9,7 km al S",
-"ts": 1794686298
-},
-{
-"line": "• [Miembros de Hezbolá en Batrun... ¿Una misión de reconocimiento?](<https://www.aljadeed.tv/news/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86/595746/%d8%b9%d9%86%d8%a7%d8%b5%d8%b1-quot%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87quot-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%86-%d9%85%d9%87%d9%85%d8%a9-%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9%d9%8a%d8%a9%d8%9f/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# Al Jadeed · fiabilidad B",
-"ts": 1794686298
-},
-{
-"line": "• [Waltz en Beirut para debatir el futuro de la FPNUL... y Líbano se aferra al papel de la ONU en el sur](<https://www.lbcgroup.tv/news/news-reports/968013/title/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# LBCI (árabe) · fiabilidad B",
-"ts": 1794686298
-},
-{
-"line": "• [Líbano se enfrenta a dos desafíos: el futuro de la FPNUL en el sur y el plan eléctrico para superar la crisis de los generadores #LBCINews https://t.c](<https://t.me/LBCI_NEWS/324903>)\n-# LBCI (Telegram) · fiabilidad B",
-"ts": 1794686298
-},
-{
-"line": "• [🔴 Estos son los titulares más destacados de la cobertura hasta las 21:00, hora de Beirut:](<https://t.me/alakhbar_news/100277>)\n-# Al Akhbar (Telegram) · fiabilidad C",
-"ts": 1794686298
-},
-{
-"line": "• [Más allá de la FPNUL... Una paz que se aferra a la presencia internacional en el sur](<https://www.aljadeed.tv/news/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86/595753/%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-quot%d8%a7%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%81%d9%8a%d9%84quot-%d8%b3%d9%84%d8%a7%d9%85-%d9%8a%d8%aa%d9%85%d8%b3%d9%91%d9%83-%d8%a8%d9%88%d8%ac%d9%88%d8%af-%d8%af%d9%88%d9%84%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# Al Jadeed · fiabilidad B",
-"ts": 1794686298
-},
-{
-"line": "• [¿Podría el «experimento del Sinaí» en el sur del Líbano ser una alternativa a la «UNIFIL»?](<https://news.google.com/rss/articles/CBMi1gRBVV95cUxOdkZKMlZHcU9hbnd5LVFWVXpiX1FCeThvRk1QNnFieFVLdkc3V1J5R1cteUFvTldILW9JTlJoYU1Wd1ZVNFFmbGo0dlRLLWZ5d2xub2VRTGhSb1V1aVFxdmpBM01KOVBNM3dhbmtma1NuakdnaVMwYXhUYjRRNWc3NHhISnotT040ZlZiOXZBNWhQeFJ3MWl1a1FIN09hbXNHMTdTOTBsSjg0Q3VOTThvN3h3ZGtzUGlETVZSa2VPRk5SNVJXTnBRaHFGX2RIVXRzZGtEbUxuVDhhQlNCaE80UmFVbVVjM18zcnFZeFhTYThEWXNkT1g5MkctcmxOUFZ6MjBRZDNxQzZvaF9qTkZhdk5Md3hJQ1dGd0lTLVZzMG1yTmNuTE1famlTekd3ZE9DaUdBekZQb1VKN184dGw2MjdmTFhuakwtWjBNUU16Z3BMMVNKRzZNaGRheWxwYldlbnlVanBkNUZqaGRYU2ZkUDhXUHpsTTdwV1RjWVhTQW5ZS2l5b2UtTlJ0b3NWXzVkZVh4WTA2dzFSVjdXajV3NnVOVl9vUU5KU3hTcXZqWUpZVlpSUmx0bHRkQzAya08xbENNa2lFWFBLVVk2NVVJbHVIVDZYQWN3REd1dTlJWEd5U19saVRJbHJJUGFuOE1JREJ0YU10cVBpS1c5c2dYVElmeGk4WURyaHpjMVdRclNXV1VzY3FIaDVFVV9hbVh4Smw1RjlfYTFjenFfNldlTDBDQ042Z2ZWQlktcjZsWkdWMWxoUERMNmZQSngxVlhxWE1KSU1B0gFYQVVfeXFMUDVPYnd1NFlqNU1rX0gxUlhpTUp0a05ycEZTRTZmSXRjbjV5b1kzNlkzNERNUWpSa1ZtWVpGWFo4eU5IdU94RGRmM0ZucHlXZWZzWGZhbmFFeQ?oc=5>)\n-# الراي (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [Salam analiza con una delegación de la ONU la salud mental y el expediente posterior a la UNIFIL](<https://www.annahar.com/lebanon/366536/سلام-يبحث-مع-وفد-أممي-الصحة-النفسية-وملف-ما-بعد-اليونيفيل>)\n-# An-Nahar · fiabilidad B",
-"ts": 1794686298
-},
-{
-"line": "• [Salam analiza el futuro del sur con Naciones Unidas... No habrá vacío internacional tras la UNIFIL](<https://t.me/lebanondebate/297027>)\n-# Lebanon Debate (Telegram) · fiabilidad C",
-"ts": 1794686298
-},
-{
-"line": "• [Presidencia del Gobierno: El presidente Salam subraya la necesidad de mantener una presencia internacional en el sur tras la finalización de la misión](<https://t.me/lebanondebate/297028>)\n-# Lebanon Debate (Telegram) · fiabilidad C",
-"ts": 1794686298
-},
-{
-"line": "• [Salam analiza con una funcionaria de la ONU el futuro de la FPNUL. El Líbano rechaza cualquier vacío internacional en el sur.](<https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTjVhTGhXcEhIZThiaFFvdUVlR0V1UGxqWDZOOFYwSW9hZ3J2bGpQcU03S2lYVTVsVFF0LWVqRkwwLXljaUpVUEo5eTY0ZGZtZFpVb1BBbWhkYzNXcVJMenUycHpwcW8wZlFEbEwyZ1B4U3VpX2NQeFVDNVhzdk8zTFVTSmpieGhfb1RpVUEyRVp3SjdURWpFT29nMnhkbnVIeTl1Y0lSVEk1Yi1pZHVKRk5DOHBCUTQ2MUF2RW01WFMweEdzZ2pZYmVNTWZaWlBUME9CUzEtLUdCVzcxRkRmbE15UE5qOGRiajZFZW5lN2lDQm5OdHZuVU93MEpCOW1ueW9Ham0tX0tLYl9vSTlwcnhFelUzVDNZd1ZMVmtlMEN6TXhuSVh2aUhIUDEtbERwV2c1MkpEU0RPOGxYOFlpUlYxZ05iR25MWUVTTDc4QnY?oc=5>)\n-# جنوبية (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [Salam: No debe haber un vacío internacional en el sur tras la finalización de las misiones de la FPNUL | Nidaa Al-Watan](<https://news.google.com/rss/articles/CBMiO0FVX3lxTE1GQk1zdmd5c1NTajFJZ2wwV1BTQzd6SjMzSUVXYTR1RF9yU2Eweld6Tk5qQnYySFR5VTZB?oc=5>)\n-# Howl.Link (vía Google News) · fiabilidad ?",
-"ts": 1794686298
-},
-{
-"line": "• [Salam busca «más allá de la FPNUL»... e Israel continúa con los ataques y los bombardeos en el sur del Líbano](<https://www.annahar.com/lebanon/politics/366542/سلام-يبحث-ما-بعد-اليونيفيل-وإسرائيل-تواصل-الغارات-والقصف-في-جنوب-لبنان>)\n-# An-Nahar · fiabilidad B · Arnoun, 9,7 km al SO",
-"ts": 1794686298
+"line": "• [La FPNUL bajo el mando de Waltz, la electricidad en Doha y la seguridad en Damasco](<https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVkkxLWhqeG1zdEFCajJtQzNuYUg0SXJiM0F1S0haWXlyTlV3a3pkR2tzUDNZQlJjNFkzQzc4Zm5fMmRGTXF4WFJiRkozMVhRSVRGSm54TEdxU1RjRWNfRHhzSWtfUXlBbzktaU5hbnFUVHd6TzlCT3EtS0N3cjVvWVh6R0FJUUJvamRJbkc2ZHRnQ2JiOHpwd3Y0UXlyWnRjUV9vU00zZ0k1MS10V2xYTHd3R1cxX0dYU2d4ZmxGa2QzVW0tU2pBdGVKQ0lOQVdKblJJeWRaZjhUZkFXYzR5QXlGRE9GREtaeFY2VU05NE00OWQzQlNTamkzTk9ocmZ0cDB4VkRQOG1RV3ZXUDc3M1h2c01ncUFxdkJ5cl9jVUdiWEFFUWlFV0Jxb1ZZSDVPS0hDMWpmN181ZHRRNExGOWQwUjFkS01KQkJVdUgycUx0QUpjTW1SZF9NSmtBUjh1cVh4RGVzYng3Njd5dmhKZXYyZ1NiMjJmWFlpTTdXbEY3R2dSV3ZBOVRUa2V3QTBfbVh6RlBkMTB6ZVpUa0V1YkQtQjR0Sm1Ya3hUSEFIOWNRQlJ1cVMtQmVhS0QtMFh1RElhaENySDJBV0hUMmJSOXllcWEycEhOWlQta09wUGtPRmV5M3kyWEpxa9IB8ANBVV95cUxQV1lTSGwzbGRfeUFyNVhGMTFPNTQwOEZlVnNHY0JTY1pJcGtPaGJXLWg1R0pIdW9wNjJGX01NaFhMXzRlRC1xNk8xa1FmeTJlVU9fT2thN21SVVpXR3NuVTdxZlpfOGhEMlNYS1otVmNva0lBUk5vX0RJSW9YV0tNZ3B6SEF6UTAyUzFfd3VkNnJCRGxPb2RsWXIwWWxoYW1UdG5LNEpXRGk3UGVjQ2JuQUJmdl8xZzl6VWprdERvaE9JR1dteFUwNUNTdDR1YTFGTGdyZ25uWU5GSElHZFFiaWxDR0NyUzFiREo2TDJkdWMyOG5Md2ZZeEI5R0NTcVF2TjRONWxPTzE5NTc4YXVNV2xiVEVqUkt3YmVEOTVMYTIxd3FaUHdOQ014TFN3NVNzSkVJZFRXbmVqZjFtQkNWS1RoUHhGa2VUdU9OQkNxT1FBenRwM0NVMl9wZWNROVl2c2JMTjdJM1BoUmp0dGZZTWJvQmxfV0RlUmZQdUNQWUZTT3lnNWVZX3MzakxaMHUxcjRpTFRiT0Z3S2dJYWtvdzlQV3VUbnpNVW9NSEl4V0tIWXRnbEpmaEpvUDdnYnJKcXlWWWgtcUM1cXJkSUVvVU9OVTd1dHd3RnVSc1R6N19WMzRia1VLNTZYUUp0TzhB?oc=5>)\n-# المدن (vía Google News) · fiabilidad ?",
+"ts": 1794699678
 }
 ],
 "seen": {
 "01f52a303e9d865b": 1794669538,
 "040549f025409ff9": 1794669538,
 "05086164563f7f94": 1794669538,
+"062985b1f9306e3e": 1794699678,
 "063a068f1c4eae04": 1794686298,
 "084ad5203477f561": 1794669538,
 "0b539edf8514fff3": 1794646595,
+"105d031540470e27": 1794699678,
 "1112308243a94ec0": 1794669538,
 "123e78ff97b42c9d": 1794686298,
 "13021fc35e35dddb": 1794669538,
@@ -606,6 +618,7 @@
 "2eff9f6bc6a31cfe": 1794669538,
 "3063c72f3f87db6d": 1794669538,
 "319234cf2ff2c07c": 1794669538,
+"31b4171af9ad9f77": 1794699678,
 "33b2a0729fa12370": 1794669538,
 "37806d47faee577d": 1794669538,
 "38440f9d33d0deae": 1794669538,
@@ -636,6 +649,7 @@
 "6124db0cd8591312": 1794686298,
 "622ed28422e84b22": 1794686298,
 "661401a186df37fb": 1794669538,
+"68567cbd7de5a35f": 1794699678,
 "68d131e0dd9829a6": 1794686298,
 "69b0edfca18ed552": 1794669538,
 "716f25c0907117cf": 1794669538,
@@ -644,14 +658,18 @@
 "72e6c00e0def5299": 1794646595,
 "73aaa3428dac1e09": 1794669538,
 "771ac794198327fc": 1794669538,
+"7756293fec94b039": 1794699678,
 "79be4e6824232284": 1794645864,
 "79cce9adb71dee7e": 1794686298,
 "7ad32282dc50e0d0": 1794669538,
 "7c0f11c8996ef4e0": 1794686298,
+"7c15d0f0a81fed00": 1794699678,
 "7cefd99eaad57446": 1794686298,
 "7d9fb90d60c3c0b3": 1794669538,
+"7dc7494b3aeea4e0": 1794699678,
 "7f52f98533b6ee0c": 1794645864,
 "81a99b0587bf3921": 1794646595,
+"82ad8a7118fb34b4": 1794699678,
 "8400b360a8563ff1": 1794645864,
 "8632ce22549e9693": 1794686298,
 "87fe23542d1036e2": 1794669538,
@@ -674,6 +692,7 @@
 "9e29083eaf71b29e": 1794669538,
 "9e67d85fd83c7d6e": 1794686298,
 "9e77f8855069ad34": 1794669538,
+"9fdb0cc8e597e679": 1794699678,
 "a1d5e4a754172dcd": 1794669538,
 "a4133f6b22e9a91c": 1794645385,
 "a577c2a77847728d": 1794645864,
@@ -727,14 +746,19 @@
 "e0503f8767d19349": 1794686298,
 "e2b3e436299c1cd2": 1794669538,
 "e36d959909af5e96": 1794686298,
+"e46f833552a2dcf7": 1794699678,
 "e675e3bc2c12d1c2": 1794646595,
 "e950abd5fe2ece17": 1794669538,
 "e9fb125443a758f5": 1794645385,
+"eaf4623be52089c2": 1794699678,
 "eb6d29fb9bd6b7f5": 1794686298,
 "eb996eae46323c08": 1794669538,
 "ed498defab2e3231": 1794669538,
+"ee796b670d20b80a": 1794699678,
+"f00900bb635f1a97": 1794699678,
 "f383b4c7236b8097": 1794686298,
 "f4cc98dd7f4c85f4": 1794645864,
+"f7a2fc742c9ddc24": 1794699678,
 "f95f395649e71d12": 1794669538,
 "fd769922ab8f710b": 1794645864,
 "fe5b3ffaa4c27259": 1794645864,
