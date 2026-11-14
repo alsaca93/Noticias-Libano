@@ -421,8 +421,9 @@ def translate(text):
             return _fix_names(out)
         except Exception:
             TR_FAILS[name] = TR_FAILS.get(name, 0) + 1
-    TR_USED["ninguno"] = TR_USED.get("ninguno", 0) + 1
-    return text
+    if foreign:
+        TR_USED["ninguno"] = TR_USED.get("ninguno", 0) + 1
+    return _fix_names(text)
 
 
 # --- Sucesos ------------------------------------------------------------------
