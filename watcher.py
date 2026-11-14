@@ -74,7 +74,7 @@ DISTRICT_CUE = re.compile(
 INCIDENT = re.compile(
     r"air ?strike|strike[sd]?\b|\braid|shell(?:ed|ing|s)?\b|bomb|blast|explosi|detonat|drone|gunfire|\bfire[ds]?\b|\bfiring"
     r"|attack|kill|wound|injur|\bdead\b|clash|incursion|\btanks?\b|artillery|missile|rocket|evacuat|demoli|destroy"
-    r"|\bpatrol|ambush|sniper|troops (?:enter|advance)|violat|violaci|خرق|خروقات"
+    r"|\bpatrol|ambush|sniper|troops (?:enter|advance)"
     r"|ataque|bombarde|\bdron|disparo|muert|herid|proyectil|misil|cohete|incursi|tanque|artiller|evacua|patrulla"
     r"|frappe|d[ée]tonation|\btirs?\b|tu[ée]s?\b|bless[ée]|attaque|\bobus\b|\bchars?\b|patrouille"
     r"|غارة|غارتان|غارتين|غارات|قصف|تفجير|انفجار|مسي[ّ]?رة|درون|استهدف|استهداف|شهيد|شهداء|جريح|جرحى|إصابة|اصابة"
@@ -141,10 +141,10 @@ def find_places(text, lebanese_source):
 # --- Descarga y lectura de fuentes -------------------------------------------
 
 
-def fetch(url, data=None, headers=None, timeout=20):
+def fetch(url, data=None, headers=None, timeout=20, method=None):
     h = {"User-Agent": UA, "Accept-Language": "en,es;q=0.8,ar;q=0.7"}
     h.update(headers or {})
-    req = urllib.request.Request(url, data=data, headers=h)
+    req = urllib.request.Request(url, data=data, headers=h, method=method)
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
@@ -261,26 +261,68 @@ def collect():
     return out, errors
 
 
-# --- Filtro -------------------------------------------------------------------
+# --- Clasificación ------------------------------------------------------------
+
+# Titulares de política, diplomacia o declaraciones: van al resumen, no a los avisos.
+POLITICAL = re.compile(
+    r"condemn|denounc|calls? (?:for|on)|\burges?\b|\bmeets?\b|met with|discuss|\btalks\b|mandate|renew|extension"
+    r"|minister|president|premier|ambassador|envoy|security council|summit|proposal|\bplans?\b|initiative"
+    r"|\bvisits?\b|\bwarns?\b|post-unifil|after unifil|withdrawal|diplomat|parliament|cabinet|election|press review"
+    r"|condena|ministr|embajador|mandato|consejo de seguridad|reuni[óo]n|se re[úu]ne|\bvisita|propuesta|advierte"
+    r"|retirada|diplom[áa]t|condamne|pr[ée]sident|mandat\b|conseil de s[ée]curit[ée]|rencontre|\bvisite\b"
+    r"|proposition|post-finul|apr[èe]s la finul|revue de presse"
+    r"|يبحث|بحث مع|بحثا|التقى|يلتقي|استقبل|يدين|أدان|ادان|استنكر|يدعو|الرئيس|وزير|مجلس الأمن|تمديد|ولاية"
+    r"|موفد|زيارة|مبادرة|ما بعد|اتصالات|مشاورات|يحذر|خطة|مقترح|انسحاب|السفير|دبلوماس|النائب|كتلة|مجلس النواب",
+    re.I,
+)
+
+# Tipo de suceso, por orden de prioridad. Se usa para saber si dos noticias cuentan lo mismo.
+EVENT_TYPES = [
+    ("explosion", "💥 Explosión o demolición", re.compile(
+        r"blast|explosi|detonat|demoli|dynamit|blown up|blew up|تفجير|نسف|انفجار|d[ée]tonation|voladura", re.I)),
+    ("aereo", "✈️ Ataque aéreo o de dron", re.compile(
+        r"air ?strike|warplane|fighter jet|\bjets?\b|drone|\bstrikes?\b|\braids?\b|غارة|غارتان|غارتين|غارات|الطيران الحربي"
+        r"|مسي[ّ]?رة|درون|محلقة|frappe|ataque a[ée]reo|\bdron", re.I)),
+    ("artilleria", "🎯 Fuego de artillería", re.compile(
+        r"shell(?:ed|ing|s)?\b|artillery|tank fire|مدفعي|قذيفة|قذائف|\bobus\b|artiller|proyectil", re.I)),
+    ("disparos", "🔫 Disparos", re.compile(
+        r"gunfire|machine.?gun|opened fire|\bfired?\b|رشقات|رصاص|تمشيط|إطلاق نار|اطلاق نار|\btirs?\b|disparo|r[áa]faga", re.I)),
+    ("incursion", "🪖 Incursión terrestre", re.compile(
+        r"incursion|توغل|tanks? (?:enter|advance)|troops (?:enter|advance)|incursi[óo]n|دبابة|دبابات", re.I)),
+]
+TYPE_LABEL = {k: lab for k, lab, _ in EVENT_TYPES}
+TYPE_LABEL["otro"] = "⚠️ Incidente"
+
+
+def event_type(item):
+    for part in (item["title"], item["title"] + "\n" + item["body"]):
+        for key, _, rx in EVENT_TYPES:
+            if rx.search(part):
+                return key
+    return "otro"
 
 
 def assess(item):
     """Devuelve (categoría, lugares, menciona_onu).
 
-    "incidente": hecho sobre el terreno cerca de la base o que afecta a UNIFIL (aviso inmediato).
-    "contexto":  resto de noticias sobre UNIFIL o la zona (resumen silencioso).
-    None:        no interesa.
+    "evento":   hecho sobre el terreno (ataque, explosión, víctimas...) cerca de la base o que afecta a UNIFIL.
+    "politica": política, diplomacia, comunicados y resto de noticias de la zona (resumen silencioso).
+    None:       no interesa.
     """
-    text = item["title"] + "\n" + item["body"]
+    title = item["title"]
+    text = title + "\n" + item["body"]
     leb = item["src"]["lebanese"]
     un = bool(UN_STRICT.search(text)) or (bool(UN_LOOSE.search(text)) and (leb or bool(LEB_CUE.search(text))))
     places = find_places(text, leb)
     near = [p for p in places if p["_km"] <= RADIUS_KM]
     if not (un or near):
         return None, places, un
-    # El titular manda: un análisis político que cita un ataque de pasada no es un incidente.
-    incident = bool(INCIDENT.search(item["title"])) or (bool(near) and bool(INCIDENT.search(text)))
-    return ("incidente" if incident else "contexto"), places, un
+    # El titular manda: una declaración que cita un ataque no es un suceso nuevo.
+    if POLITICAL.search(title):
+        return "politica", places, un
+    if INCIDENT.search(title) or (near and INCIDENT.search(text)):
+        return "evento", places, un
+    return "politica", places, un
 
 
 def norm_title(t):
@@ -293,6 +335,22 @@ def keys_for(item):
     if item["link"] and item["src"]["kind"] != "gnews":
         ks.append(hashlib.sha1(item["link"].encode()).hexdigest()[:16])
     return ks
+
+
+STOP = set("para como este esta estos estas desde hasta sobre entre tras ante pero porque cuando donde "
+           "tiene tienen haber sido será sera según segun también tambien más mas ciudad pueblo "
+           "líbano libano israelí israeli israelíes israel".split())
+
+
+def tokens(title):
+    return {w for w in norm_title(title).split() if len(w) >= 4 and w not in STOP}
+
+
+def similar(a, b):
+    ta, tb = tokens(a), tokens(b)
+    if len(ta) < 3 or len(tb) < 3:
+        return 0.0
+    return len(ta & tb) / len(ta | tb)
 
 
 # --- Traducción ---------------------------------------------------------------
@@ -318,18 +376,38 @@ def translate(text):
         return text
 
 
-# --- Discord ------------------------------------------------------------------
+# --- Sucesos ------------------------------------------------------------------
+
+PLACE_BY_NAME = {p["name"]: p for p in GEO["places"]}
+LEVEL_RANK = {"A": 0, "B": 1, "C": 2, "D": 3, "?": 4}
+SAME_EVENT_HOURS = 6        # misma localidad y mismo tipo dentro de este margen = mismo suceso
+SAME_EVENT_HOURS_LATE = 18  # los agregadores publican con horas de retraso
+SIMILAR_HOURS = 24
+SIMILAR_MIN = 0.5
 
 
 def km_txt(p):
     return f"{p['_km']:.1f}".replace(".", ",") + f" km al {p['_dir']}"
 
 
-def build_message(item, places, un):
-    title_es = translate(item["title"])
-    body = item["body"] if norm_title(item["body"]) != norm_title(item["title"]) else ""
-    body_es = translate(body[:900]) if body else ""
+def source_entry(item, title_es, ts):
+    return {"name": item["source_name"], "level": item["level"], "origin": item["origin"],
+            "title": title_es, "link": item["link"], "ts": ts}
 
+
+def find_event(events, sig, title_es, ts, late):
+    window = (SAME_EVENT_HOURS_LATE if late else SAME_EVENT_HOURS) * 3600
+    for ev in reversed(events):
+        if ev["sig"] == sig and abs(ts - ev["first_ts"]) <= window:
+            return ev
+        if abs(ts - ev["first_ts"]) <= SIMILAR_HOURS * 3600 and any(
+                similar(title_es, s["title"]) >= SIMILAR_MIN for s in ev["sources"]):
+            return ev
+    return None
+
+
+def render_event(ev):
+    places = sorted((PLACE_BY_NAME[n] for n in ev["places"] if n in PLACE_BY_NAME), key=lambda p: p["_km"])
     nearest = places[0] if places else None
     km = nearest["_km"] if nearest else None
     if km is not None and km <= 5:
@@ -340,78 +418,77 @@ def build_message(item, places, un):
         color, mark = 0xFBC02D, "🟡"
     else:
         color, mark = 0x1976D2, "🔵"
-    if un:
+    if ev["un"]:
         mark += "🇺🇳"
 
+    label = TYPE_LABEL.get(ev["type"], TYPE_LABEL["otro"])
     if places:
         dist_lines = [f"**{p['name']}**: {km_txt(p)} de la {BASE['name']}" for p in places[:4]]
-        head = f"{nearest['name']}, {km_txt(nearest)} de la base"
+        head = f"{label} · {nearest['name']}, {km_txt(nearest)} de la base"
     else:
         dist_lines = ["Sin lugar identificado en el texto; distancia a la base desconocida."]
-        head = "UNIFIL, lugar sin identificar"
+        head = f"{label} · UNIFIL, lugar sin identificar"
     dist_note = "\n".join(dist_lines) + "\n-# Distancia en línea recta al centro del pueblo; margen de 1-2 km."
 
-    level = item["level"]
-    fields = [
-        {"name": "📍 Distancia a la base", "value": dist_note[:1024], "inline": False},
-        {"name": "Fuente", "value": f"{item['source_name']}\n{item['origin']}"[:1024], "inline": True},
-        {"name": "Fiabilidad", "value": f"**{level}** · {LEVELS.get(level, '')}", "inline": True},
-    ]
-    if title_es != item["title"]:
-        fields.append({"name": "Titular original", "value": item["title"][:1024], "inline": False})
-    embed = {
-        "title": title_es[:256],
-        "url": item["link"] or None,
-        "description": body_es[:1500],
-        "color": color,
-        "fields": fields,
-    }
-    if item["date"]:
-        embed["timestamp"] = item["date"].isoformat()
-    return {
-        "content": f"{mark} **{head}** · fiabilidad {level}\n{title_es}"[:1900],
-        "embeds": [embed],
-        "allowed_mentions": {"parse": []},
-    }
+    srcs = ev["sources"]
+    best = min((s["level"] for s in srcs), key=lambda l: LEVEL_RANK.get(l, 9))
+    n_medios = len({s["name"] for s in srcs})
+    conf = f"fiabilidad {best}" + (f" · {n_medios} fuentes" if n_medios > 1 else "")
 
-
-def build_digest(rows):
-    """Un único mensaje silencioso con las noticias de contexto."""
-    lines = []
-    for it, places, un in rows:
-        where = f" · {places[0]['name']}, {km_txt(places[0])}" if places else ""
-        line = f"• [{translate(it['title'])[:150]}](<{it['link']}>)\n-# {it['source_name']} · fiabilidad {it['level']}{where}"
-        if sum(len(x) + 1 for x in lines) + len(line) > 3900:
-            break
+    lines, extra = [], 0
+    for s in srcs:
+        line = f"• <t:{int(s['ts'])}:t> **{s['name']}** ({s['level']}) — [{s['title'][:140]}](<{s['link']}>)"
+        if sum(len(x) + 1 for x in lines) + len(line) > 3700:
+            extra += 1
+            continue
         lines.append(line)
+    if extra:
+        lines.append(f"… y {extra} más")
+
+    first = srcs[0]
+    main = {
+        "title": first["title"][:256],
+        "url": first["link"] or None,
+        "description": ev.get("body", "")[:1500],
+        "color": color,
+        "fields": [
+            {"name": "📍 Distancia a la base", "value": dist_note[:1024], "inline": False},
+            {"name": "Fiabilidad", "value": f"**{best}** · {LEVELS.get(best, '')}"
+                                            + (f"\nLo recogen {n_medios} fuentes" if n_medios > 1 else f"\n{first['origin']}"),
+             "inline": False},
+        ],
+        "timestamp": dt.datetime.fromtimestamp(ev["first_ts"], dt.timezone.utc).isoformat(),
+    }
+    sources_embed = {"title": f"Fuentes ({len(srcs)})", "description": "\n".join(lines), "color": color}
     return {
-        "content": f"🗞️ **Contexto** · {len(lines)} noticias sin incidente sobre el terreno",
-        "embeds": [{"description": "\n".join(lines), "color": 0x607D8B}],
-        "flags": 4096,  # mensaje silencioso: no hace sonar el móvil
+        "content": f"{mark} **{head}** · {conf}\n{first['title']}"[:1900],
+        "embeds": [main, sources_embed],
         "allowed_mentions": {"parse": []},
-    }, len(lines)
+    }
 
 
-def send(payload, url=None):
-    url = url or WEBHOOK
+# --- Discord ------------------------------------------------------------------
+
+
+def discord(payload, url, message_id=None):
+    """Publica un mensaje o edita uno existente. Devuelve el id del mensaje, o None si falla."""
     if not url:
-        e = payload["embeds"][0]
-        print("\n--- AVISO (modo prueba, no enviado) ---")
+        print("\n--- " + ("EDICIÓN" if message_id else "AVISO") + " (modo prueba, no enviado) ---")
         print(payload["content"])
-        for f in e.get("fields", []):
-            print(f"[{f['name']}] {f['value']}")
-        if e.get("description"):
-            print("[Texto]", e["description"][:1200])
-        if e.get("url"):
-            print("[Enlace]", e["url"][:90])
-        return True
+        for e in payload["embeds"]:
+            for f in e.get("fields", []):
+                print(f"[{f['name']}] {f['value']}")
+            if e.get("title", "").startswith("Fuentes") or not e.get("title"):
+                print(re.sub(r"\]\(<[^>]*>\)", "]", e.get("description", ""))[:1500])
+        return message_id or "prueba"
     body = json.dumps(payload).encode("utf-8")
+    target = f"{url}/messages/{message_id}" if message_id else url + "?wait=true"
     for _ in range(3):
         try:
-            fetch(url + "?wait=true", data=body,
-                  headers={"Content-Type": "application/json", "User-Agent": "vigia-libano/1.0"})
+            raw = fetch(target, data=body, method="PATCH" if message_id else "POST",
+                        headers={"Content-Type": "application/json", "User-Agent": "vigia-libano/1.0"})
             time.sleep(1.2)
-            return True
+            return message_id or str(json.loads(raw).get("id", ""))
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 try:
@@ -421,21 +498,43 @@ def send(payload, url=None):
                 time.sleep(wait + 0.5)
                 continue
             print(f"  Discord respondió {e.code}: {e.read()[:200]!r}")
-            return False
+            return None
         except Exception as e:
             print(f"  Error enviando a Discord: {e}")
             time.sleep(2)
-    return False
+    return None
+
+
+def build_digest(pending):
+    lines = []
+    for p in pending:
+        if sum(len(x) + 1 for x in lines) + len(p["line"]) > 3900:
+            break
+        lines.append(p["line"])
+    return {
+        "content": f"🏛️ **Política, comunicados y otras noticias** · {len(lines)} sin suceso sobre el terreno",
+        "embeds": [{"description": "\n".join(lines), "color": 0x607D8B}],
+        "flags": 4096,  # mensaje silencioso: no hace sonar el móvil
+        "allowed_mentions": {"parse": []},
+    }, len(lines)
 
 
 # --- Principal ----------------------------------------------------------------
 
+DIGEST_MIN_ITEMS = 6      # el resumen se envía al juntar estas noticias...
+DIGEST_MAX_WAIT_MIN = 60  # ...o cuando la más antigua lleva este tiempo esperando
+
 
 def main():
-    state = {"seen": {}}
+    state = {}
     if STATE_FILE.exists():
         state = json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    seen = state["seen"]
+    seen = state.setdefault("seen", {})
+    events = state.setdefault("events", [])
+    pending = state.setdefault("pending", [])
+    ctx_titles = state.setdefault("ctx_titles", [])
+    before = json.dumps(state, sort_keys=True)
+    now_ts = int(NOW.timestamp())
 
     print(f"Vigía Líbano · {NOW:%Y-%m-%d %H:%M} UTC · radio {RADIUS_KM:g} km · "
           f"{'envío a Discord' if WEBHOOK else 'MODO PRUEBA'}")
@@ -444,7 +543,7 @@ def main():
         print("  FALLO", e)
 
     cutoff = NOW - dt.timedelta(hours=MAX_AGE_HOURS)
-    fresh, context, batch_keys = [], [], set()
+    ev_items, ctx_items, batch_keys = [], [], set()
     for it in items:
         if it["date"] and it["date"] < cutoff:
             continue
@@ -455,36 +554,83 @@ def main():
         if not kind:
             continue
         batch_keys.update(ks)
-        (fresh if kind == "incidente" else context).append((it, places, un, ks))
-
-    fresh.sort(key=lambda x: x[0]["date"] or NOW)
-    context.sort(key=lambda x: x[0]["date"] or NOW)
-    print(f"{len(items)} entradas leídas: {len(fresh)} incidentes nuevos, {len(context)} de contexto"
-          + (f" (se envían {MAX_PER_RUN} incidentes, el resto en la siguiente pasada)" if len(fresh) > MAX_PER_RUN else ""))
+        (ev_items if kind == "evento" else ctx_items).append((it, places, un, ks))
+    ev_items.sort(key=lambda x: x[0]["date"] or NOW)
+    ctx_items.sort(key=lambda x: x[0]["date"] or NOW)
+    print(f"{len(items)} entradas leídas: {len(ev_items)} de sucesos, {len(ctx_items)} de política y otras")
 
     def mark(ks):
-        if WEBHOOK:
-            for k in ks:
-                seen[k] = int(NOW.timestamp())
+        for k in ks:
+            seen[k] = now_ts
 
-    sent = 0
-    for it, places, un, ks in fresh[:MAX_PER_RUN]:
-        if send(build_message(it, places, un)):
-            sent += 1
-            mark(ks)
+    # 1. Sucesos: cada noticia se suma a un suceso ya avisado o abre uno nuevo.
+    touched = {}  # id(ev) -> (ev, claves de las noticias añadidas)
+    new_events = []
+    for it, places, un, ks in ev_items:
+        ts = int((it["date"] or NOW).timestamp())
+        title_es = translate(it["title"])
+        near = [p for p in places if p["_km"] <= RADIUS_KM] or places
+        sig = (near[0]["name"] if near else "UNIFIL") + "|" + event_type(it)
+        late = it["src"]["kind"] == "gnews"
+        ev = find_event(events + new_events, sig, title_es, ts, late)
+        if ev is None:
+            body = it["body"] if norm_title(it["body"]) != norm_title(it["title"]) else ""
+            ev = {"sig": sig, "type": sig.split("|")[1], "places": [p["name"] for p in places[:4]], "un": un,
+                  "first_ts": ts, "msg_id": None, "body": translate(body[:900]) if body else "", "sources": []}
+            new_events.append(ev)
+        ev["un"] = ev["un"] or un
+        ev["sources"].append(source_entry(it, title_es, ts))
+        touched.setdefault(id(ev), (ev, []))[1].extend(ks)
 
-    if context:
-        payload, n = build_digest([c[:3] for c in context])
-        if send(payload, WEBHOOK_CONTEXT or WEBHOOK):
-            sent += 1
-            for c in context[:n]:
-                mark(c[3])
+    posted = edited = 0
+    for ev, ks in touched.values():
+        is_new = ev["msg_id"] is None
+        if is_new and posted >= MAX_PER_RUN:
+            continue  # se quedan sin marcar y entran en la siguiente pasada
+        mid = discord(render_event(ev), WEBHOOK, ev["msg_id"])
+        if not mid:
+            continue
+        if is_new:
+            ev["msg_id"] = mid
+            events.append(ev)
+            posted += 1
+        else:
+            edited += 1
+        mark(ks)
 
-    if WEBHOOK and sent:
-        limit = NOW.timestamp() - 7 * 86400
-        state["seen"] = {k: v for k, v in seen.items() if v >= limit}
-        STATE_FILE.write_text(json.dumps(state, indent=0, sort_keys=True), encoding="utf-8")
-    print(f"Enviados: {sent}")
+    # 2. Política y otras: se descartan las repetidas y el resto espera al resumen.
+    dups = 0
+    for it, places, un, ks in ctx_items:
+        title_es = translate(it["title"])
+        mark(ks)
+        if any(similar(title_es, t["title"]) >= 0.4 for t in ctx_titles):
+            dups += 1
+            continue
+        ctx_titles.append({"title": title_es, "ts": now_ts})
+        where = f" · {places[0]['name']}, {km_txt(places[0])}" if places else ""
+        pending.append({"ts": now_ts, "line": f"• [{title_es[:150]}](<{it['link']}>)\n"
+                                              f"-# {it['source_name']} · fiabilidad {it['level']}{where}"})
+
+    digest = 0
+    due = pending and (len(pending) >= DIGEST_MIN_ITEMS
+                       or now_ts - pending[0]["ts"] >= DIGEST_MAX_WAIT_MIN * 60 or not WEBHOOK)
+    while due:
+        payload, n = build_digest(pending)
+        if not discord(payload, WEBHOOK_CONTEXT or WEBHOOK):
+            break
+        del pending[:n]
+        digest += 1
+        due = len(pending) >= DIGEST_MIN_ITEMS and digest < 3
+
+    print(f"Sucesos nuevos: {posted} · avisos ampliados con otra fuente: {edited} · "
+          f"resúmenes: {digest} · política repetida descartada: {dups} · en espera: {len(pending)}")
+
+    # 3. Guardar memoria.
+    state["seen"] = {k: v for k, v in seen.items() if v >= now_ts - 7 * 86400}
+    state["events"] = [e for e in events if e["first_ts"] >= now_ts - 36 * 3600]
+    state["ctx_titles"] = [t for t in ctx_titles if t["ts"] >= now_ts - 24 * 3600]
+    if WEBHOOK and json.dumps(state, sort_keys=True) != before:
+        STATE_FILE.write_text(json.dumps(state, indent=0, sort_keys=True, ensure_ascii=False), encoding="utf-8")
     # Si fallan todas las fuentes, que la ejecución salga en rojo en GitHub.
     if errors and len(errors) == len(CFG["sources"]):
         sys.exit(1)
