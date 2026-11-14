@@ -1,0 +1,46 @@
+{
+  "_niveles": {
+    "A": "oficial / primaria (parte interesada)",
+    "B": "medio profesional",
+    "C": "medio partidista o afiliado",
+    "D": "sin contrastar (OSINT / canal local)",
+    "?": "medio sin clasificar"
+  },
+  "sources": [
+    {"id": "nna_ar", "name": "NNA (árabe)", "kind": "rss", "url": "https://www.nna-leb.gov.lb/ar/rss", "origin": "Agencia estatal libanesa", "level": "A", "lebanese": true},
+    {"id": "nna_en", "name": "NNA (inglés)", "kind": "rss", "url": "https://www.nna-leb.gov.lb/en/rss", "origin": "Agencia estatal libanesa", "level": "A", "lebanese": true},
+    {"id": "tg_nna", "name": "NNA (Telegram, canal no verificado)", "kind": "telegram", "url": "https://t.me/s/NNA_Leb", "origin": "Agencia estatal libanesa", "level": "B", "lebanese": true},
+    {"id": "tg_mtv", "name": "MTV Lebanon (Telegram)", "kind": "telegram", "url": "https://t.me/s/mtvlebanonnews", "origin": "TV libanesa, línea crítica con Hezbolá", "level": "B", "lebanese": true},
+    {"id": "tg_lbci", "name": "LBCI (Telegram)", "kind": "telegram", "url": "https://t.me/s/LBCI_NEWS", "origin": "TV libanesa", "level": "B", "lebanese": true},
+    {"id": "lbci_ar", "name": "LBCI (árabe)", "kind": "rss", "url": "https://www.lbcgroup.tv/Rss/latest-news/ar", "origin": "TV libanesa", "level": "B", "lebanese": true},
+    {"id": "lbci_en", "name": "LBCI (inglés)", "kind": "rss", "url": "https://www.lbcgroup.tv/Rss/latest-news/en", "origin": "TV libanesa", "level": "B", "lebanese": true},
+    {"id": "aljadeed", "name": "Al Jadeed", "kind": "rss", "url": "https://www.aljadeed.tv/Rss/latest-news", "origin": "TV libanesa", "level": "B", "lebanese": true},
+    {"id": "annahar", "name": "An-Nahar", "kind": "rss", "url": "https://www.annahar.com/rss", "origin": "Diario libanés", "level": "B", "lebanese": true},
+    {"id": "almarkazia", "name": "Al Markazia", "kind": "rss", "url": "https://www.almarkazia.com/ar/rss", "origin": "Agencia libanesa privada", "level": "B", "lebanese": true},
+    {"id": "naharnet", "name": "Naharnet", "kind": "rss", "url": "https://www.naharnet.com/tags/lebanon/en/feed.atom", "origin": "Medio libanés en inglés", "level": "B", "lebanese": true},
+    {"id": "tg_debate", "name": "Lebanon Debate (Telegram)", "kind": "telegram", "url": "https://t.me/s/lebanondebate", "origin": "Web libanesa de última hora", "level": "C", "lebanese": true},
+    {"id": "tg_akhbar", "name": "Al Akhbar (Telegram)", "kind": "telegram", "url": "https://t.me/s/alakhbar_news", "origin": "Diario libanés afín a Hezbolá", "level": "C", "lebanese": true},
+    {"id": "tg_bintjbeil", "name": "Bint Jbeil News (Telegram)", "kind": "telegram", "url": "https://t.me/s/bintjbeilnews", "origin": "Canal local del sur del Líbano", "level": "D", "lebanese": true},
+    {"id": "tg_idf", "name": "IDF (Telegram)", "kind": "telegram", "url": "https://t.me/s/idfofficial", "origin": "Ejército israelí", "level": "A", "lebanese": false},
+    {"id": "toi", "name": "Times of Israel", "kind": "rss", "url": "https://www.timesofisrael.com/feed/", "origin": "Medio israelí", "level": "B", "lebanese": false},
+    {"id": "jpost", "name": "Jerusalem Post", "kind": "rss", "url": "https://www.jpost.com/rss/rssfeedsheadlines.aspx", "origin": "Medio israelí", "level": "B", "lebanese": false},
+    {"id": "tg_hadath", "name": "Al Hadath (Telegram)", "kind": "telegram", "url": "https://t.me/s/AlHadath", "origin": "TV saudí", "level": "B", "lebanese": false},
+    {"id": "tg_aja", "name": "Al Jazeera urgente (Telegram)", "kind": "telegram", "url": "https://t.me/s/ajanews", "origin": "TV catarí", "level": "B", "lebanese": false},
+    {"id": "lwj", "name": "FDD's Long War Journal", "kind": "rss", "url": "https://www.longwarjournal.org/feed", "origin": "Think tank de EE. UU., línea proisraelí", "level": "C", "lebanese": false},
+    {"id": "gn_en", "name": "Google News (EN)", "kind": "gnews", "url": "https://news.google.com/rss/search?q=(Marjayoun+OR+Marjeyoun+OR+Khiam+OR+UNIFIL)+when:1d&hl=en&gl=US&ceid=US:en", "origin": "Agregador", "level": "?", "lebanese": false},
+    {"id": "gn_ar", "name": "Google News (AR)", "kind": "gnews", "url": "https://news.google.com/rss/search?q=(%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%D9%88%D9%86+OR+%22%D8%A8%D9%84%D8%AF%D8%A9+%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%85%22+OR+%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84)+when:1d&hl=ar&gl=LB&ceid=LB:ar", "origin": "Agregador", "level": "?", "lebanese": false},
+    {"id": "gn_es", "name": "Google News (ES)", "kind": "gnews", "url": "https://news.google.com/rss/search?q=FINUL+OR+Marjay%C3%BAn+OR+%22cascos+azules%22+when:2d&hl=es&gl=ES&ceid=ES:es", "origin": "Agregador", "level": "?", "lebanese": false},
+    {"id": "gn_fr", "name": "Google News (FR)", "kind": "gnews", "url": "https://news.google.com/rss/search?q=(Marjayoun+OR+Khiam+OR+FINUL)+when:1d&hl=fr&gl=FR&ceid=FR:fr", "origin": "Agregador", "level": "?", "lebanese": false}
+  ],
+  "publishers": [
+    {"match": ["unifil", "un news", "noticias onu", "naciones unidas", "moncloa", "ministerio de defensa", "exteriores.gob", "lebarmy"], "level": "A", "origin": "Fuente oficial"},
+    {"match": ["الوكالة الوطنية", "national news agency", "nna"], "level": "A", "origin": "Agencia estatal libanesa"},
+    {"match": ["reuters", "afp", "associated press", "ap news", "efe", "europa press", "bbc", "france 24", "le monde", "el país", "el pais", "the guardian", "new york times"], "level": "B", "origin": "Agencia o medio internacional"},
+    {"match": ["l'orient", "lorient", "naharnet", "mtv lebanon", "lbci", "annahar", "النهار", "elnashra", "النشرة", "المركزية", "lebanon24", "لبنان 24", "al jadeed", "الجديد", "akhbaralyawm", "أخبار اليوم", "the national", "asharq", "الشرق الأوسط"], "level": "B", "origin": "Medio libanés o árabe"},
+    {"match": ["times of israel", "jerusalem post", "haaretz", "ynet", "i24"], "level": "B", "origin": "Medio israelí"},
+    {"match": ["al jazeera", "الجزيرة", "al arabiya", "العربية", "sky news arabia"], "level": "B", "origin": "TV panárabe"},
+    {"match": ["al manar", "المنار", "al mayadeen", "الميادين", "al akhbar", "الأخبار", "al ahed", "العهد", "press tv", "قناة العالم", "tasnim", "irna"], "level": "C", "origin": "Medio afín a Hezbolá o Irán"},
+    {"match": ["fdd", "long war journal", "israel hayom", "jns", "arutz sheva", "israel national news", "memri"], "level": "C", "origin": "Medio de línea proisraelí"},
+    {"match": ["lebanon debate", "ليبانون ديبايت", "bint jbeil", "بنت جبيل", "liveuamap"], "level": "D", "origin": "Web local u OSINT"}
+  ]
+}

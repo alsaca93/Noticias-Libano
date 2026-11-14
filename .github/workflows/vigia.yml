@@ -1,0 +1,40 @@
+name: Vigía Líbano
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # cada 5 minutos (GitHub puede retrasarlo)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vigia
+  cancel-in-progress: false
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vigilar fuentes y avisar
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_CONTEXT: ${{ secrets.DISCORD_WEBHOOK_CONTEXT }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "::error::Falta el secreto DISCORD_WEBHOOK_URL"; exit 1
+          fi
+          python3 watcher.py
+
+      - name: Guardar lo ya avisado
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name "vigia-bot"
+            git config user.email "vigia-bot@users.noreply.github.com"
+            git add state.json
+            git commit -m "Actualiza noticias ya avisadas"
+            git push
+          fi
