@@ -1,34 +1,6 @@
 {
 "ctx_titles": [
 {
-"title": "Morkos visita el sur del Líbano... Garantías sobre la fase posterior a la FPNUL y la reconstrucción",
-"ts": 1794699678
-},
-{
-"title": "La alternativa a la FPNUL sobre la mesa de Beirut... ¿Qué le depara Washington al Líbano?",
-"ts": 1794699678
-},
-{
-"title": "Aoun rechaza el vacío de seguridad en el sur del Líbano y pide que UNIFIL continúe o que haya una alternativa de la ONU.",
-"ts": 1794699678
-},
-{
-"title": "La visita de Waltz y la alternativa a la FPNUL: un funcionario libanés revela los entresijos de la próxima fase",
-"ts": 1794699678
-},
-{
-"title": "Waltz visita Beirut para hablar sobre el futuro de la FPNUL, mientras Líbano insiste en que la ONU siga desempeñando su papel en el sur del país",
-"ts": 1794699678
-},
-{
-"title": "El periódico Al-Sulta espera una fórmula de compromiso y críticas contundentes a Geagea.",
-"ts": 1794699678
-},
-{
-"title": "La FPNUL bajo el mando de Waltz, la electricidad en Doha y la seguridad en Damasco",
-"ts": 1794699678
-},
-{
 "title": "Una fórmula franco-estadounidense para el período post-FPNUL en el Líbano",
 "ts": 1794739382
 },
@@ -267,6 +239,30 @@
 {
 "title": "Discusiones estadounidenses en Beirut para organizar la retirada de las fuerzas de la FPNUL del sur del Líbano",
 "ts": 1794779796
+},
+{
+"title": "El trío de enviados eleva a Beirut a la categoría de prioridad regional... Una doble misión para Waltz y una ronda de reuniones para Faisal bin Farhan.",
+"ts": 1794792773
+},
+{
+"title": "Berri: «No recibo órdenes de nadie»... y la FPNUL es la mejor opción para el sur",
+"ts": 1794792773
+},
+{
+"title": "Waltz busca en Beirut un sustituto de la FINUL antes de que finalice su misión en el sur del Líbano.",
+"ts": 1794792773
+},
+{
+"title": "Walz en Beirut para discutir los preparativos posteriores a la UNIFIL",
+"ts": 1794792773
+},
+{
+"title": "Un convoy árabe para la misión de la UNIFIL en Beirut y la UNIFIL son una prioridad para el Líbano",
+"ts": 1794792773
+},
+{
+"title": "El Líbano está al borde... Preocupa el vacío de seguridad en el sur a medida que se acerca la retirada de la FPNUL... Aumenta el ritmo de la escalada israelí frente a la exigencia de limitar las armas de Hezbolá... El Líbano pide una resolución de la ONU que garantice la continuidad de la presencia internacional en el sur.",
+"ts": 1794792773
 }
 ],
 "diag": {
@@ -277,7 +273,7 @@
 "toi"
 ],
 "traductores": [
-"google"
+"mymemory"
 ]
 },
 "events": [
@@ -542,16 +538,12 @@
 ],
 "pending": [
 {
-"line": "• [Sitio web: Mike Waltz analiza en Beirut la alternativa a la FPNUL en el sur del Líbano](<https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEX0c0bFpzRTBaWnBJdUxBOTZKX3ZLWUZBUXlqN2UxTTcwZHFuZUpmSkhaNE8yMjRfTTdfRkFsNzhKN1FhZUFsWWtPZjlJYUFSbjlF?oc=5>)\n-# شبكة تواصل الإخبارية (vía Google News) · fiabilidad ?",
-"ts": 1794779796
+"line": "• [Un convoy árabe para la misión de la UNIFIL en Beirut y la UNIFIL son una prioridad para el Líbano](<https://news.google.com/rss/articles/CBMi8ARBVV95cUxPdEZpNFNxLWkwVjM5LVE5N3ZlSWgtWFNTZ1ZPN1ViZWJuUU8wbDN4RzgtWWZwbzdKYnExMlV1N1hUak4yYmhTbGdJU3RqMjd1eUQxRlRZTG96aXctRWxNUG9YMDB6VWYxX05vTHhaYjV3MGwwS1BSR2pieFlwWDFFc1R3MVZ4aU1VQ0kwUm8wWFFBd0JncGFFQVphT0EzLUVuel93TF9XMUk4R19NY2hDLWJFelphdmZ5V2RUUXB5Wm5rMWFBc2xqcU9IYVZFdE44aG02Rmh6OWV3UFFEZTR0TzQxeVM2Rno3WnJTT2dZbWN4TEJlbkQyRkNxcDhzUEQ2MlJVdzFWOWNjTzJYRWI1YUp4SjI5WUQ5QnJpbGJybkt3M3QzcU5XOTNQVms3a0twVmxQUnpvbjVaYkt2cFBocDNJRVUyaUhUTFpnNGI2Uk9WZkJ4VE9EQjJsRGtLSjFvM3ZHZ0dWbF9BaXdjVFBVUHE4Zi0yanpmQ2FfMlpUelZGd2tzOGlqYmt3UTJSTGtJR0VodGpQeEpaRldzaTc0Q0FadXM2SUhCOEZLa0hQa0w5T21KcnJKZ3Rpdlk3VVNNRHdOWW9hckhqa1lmSDFaQjR2Z21oVjctVjFIWUhrR0lveUpadFlXVG9RMDNUTkJzNEl1RjMtWFNNYzdhZTN5VlJHd2xMTXNOZ0R1RWRyVzFfcldQOU9ETmptdjVqYTBDUC1fNkJZdWxCMmFqc2d5akJiTmpaWjQ0N2Z5NFBhTC0zc052RndBRTdPSXhJb1ZpbUFWb19QekoyZm5SM0NELWpTd0tWMlc3em5hNnFnTWc?oc=5>)\n-# جريدة اللواء (vía Google News) · fiabilidad ?",
+"ts": 1794792773
 },
 {
-"line": "• [El embajador estadounidense está en Beirut para discutir la próxima fase de UNIFIL](<https://news.google.com/rss/articles/CBMijgRBVV95cUxQd0R4SHBuRmpneTRhc2RMMFFpOG41a2h1UmdNNUxIUTRzTVgzV0g1QjUxZVU2WjJwcmk3S2cza001Q28wQ1g4bmdybTJkdVpXeGhDbjlnby04c2p1QTNTNnp1eFFwYXAyT2N3aDQyTXROQ2VBRDUwd1hiUVFHYXFRTUZNSHAwN0ZOdTIydmp6REZLclRKcDBkeVA2MVdEUHYtLTQ2ZEhKVHI1aXo2bjJkRjZqcUQ2S1R3bEJtMnpISDIyOGdqOF9EYUFjRFByOXlRN3hjblhSamtOeDdiUG14OW1UZXJCVG13UmpsX18xUVdDLXRjX04wVnFUZXRtZ2lFN0YwYWcyVGc0dlJmVG5CekZWYlVjRXktOGdackp2bW40ODZIWnBJbUs0bHJxSTFrWmxlbFhUTmpLWEtxdUhqREwxSlZfc2hoa3pUU0VobzhzekM2UHJEQVV2RlRUbkd4dlM2VWFMQjNVcXpwZm9Yb1NMYnRZMHpZcS1JbFlfbVh1NVBBOVkybXhNaDNwNHJYRGNjUkFud2NnZ19OQkxIZ09SVDNCT2xVT0NmNW0yVEtIMk1wZThlQW4wVXUtZnNGRnJjVkRFNzBSLTNRQzhqMkhpdWtNTEdUcGF0dTNYU0VDQlFZOVA3MzUwNTdzUUc5M0NfbDdKUnhFN1BVbjRtSnRkaGM3eGxkVEZ2RXB3?oc=5>)\n-# قناة الغد (vía Google News) · fiabilidad ?",
-"ts": 1794779796
-},
-{
-"line": "• [Discusiones estadounidenses en Beirut para organizar la retirada de las fuerzas de la FPNUL del sur del Líbano](<https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNFJtSGdIWlBxVVFwc0d1Zm10a09ib013V3loWTZ5UU1zamt3YndfVTR1UzNKNmE1X2RncVVnYlpSQk1JZVhJY1NOV1U3TW5tODBVVldFLWs1em1fUmxHMVl2QUh6STcySFcycHVyU2sxSUVZVTIxT3BOSW1kSFk?oc=5>)\n-# جريدة القدس (vía Google News) · fiabilidad ?",
-"ts": 1794779796
+"line": "• [El Líbano está al borde... Preocupa el vacío de seguridad en el sur a medida que se acerca la retirada de la FPNUL... Aumenta el ritmo de la escalada ](<https://news.google.com/rss/articles/CBMi1wNBVV95cUxONFpySS16Vk54ZHo5OGFoa2lYVzhPT3NRX1VkRFd3NExNRGFWeUtSREtHVmJMUnE2WTNxTlZiMElWS1BRWWcwMVFnOV9tM3dRXy0yWmJsLWFzaDJDelpROHZKVzdKdl94QTdPSkxmVUNTZExxVHA3WGJrejVQWTEtNVRsN0JZWmpoczl5VklQV1RHblN3dEJNNnh2b0I3SklGRDJ5dW1fMHZBZTl4NE12WUlSNl8yeW5ZLWJCblVmZ256ZnhLblJkWDFaRVhNYXNqTy1NTjdiNW95WnV5V0N0dEM1MFdBeFVtdktMQnBTN1p3a0MyMDZqUmMxZk9zSFR3dGZJbld0LWFCeWxpMW9UMWh0UkgtdUtmSXNrYVZ6RjJPS01zcHcxOW0yTFN0THk2MVBlb0VqMVdfdU1NYnVCTDlTV3lKT3VTQV9jcnBzd3l4OTUwR2Y2RmxnQ01CR0xWVzhXeVRsV3AyOWFFazh1SU4tSldpVG1nMC1fZUd1d0h2OENDM3F5eEFWVTVjWFRqSTZfekpiNnBRQXN1ajFuUUU4REdkNi1INjF6QnI1QlBMSV9hMFJ3cHJkNnU2aUo3R3NLZm5GbUZfMHVzaERBSnJPY2JWQ2fSAdIDQVVfeXFMUGhxTVlqQlZvVUF4U1FxZnJtck1Vd2hwTnBRSG8zZUVPMmtVdENHb25zNmpjaDhQdVUyZnNCaDhIUnFIbFlqT3lqVFk3N3RMUjZocnpVUkxMNng1Z0FPWkZ3enc1U1dyTVFGX0FuZ2VJd19KOHBaMUMwOTlXTEZvTUJCakFxNFc3MUFSZWxGRGhmZFpnR1J2NkJWcXdDT3daX2R1UGJEMGQ2VlRpaHhuaThYOG5XTkYtM25yeG05dlVLOWhZMDN0TE1vajhMYTJoTUZ4UTFIdEw0OE9yaXlrTmJkTGxJUnFyN2p1MWxGSzFSdG9Wcjc0REt4cXlMQ2VoUEFsOF9wZllodTRJMnplVXZQZldBb2haampROG93Mmk0TEFSQ2RQTDNRSi1yZUhwcm5LeFFYWVN1U3h5UjdtRnEwRU4wZmExc0hscFZQcURLRE05ZF95d2MwYTRxRGRFZl9HcVRiZ3VOM1FxbGhvWFpVd3BKSUhmQkt0SXdXcDNhTFA5bWoweFBrNjBUb1NZRC1jbmVPVlpENTduZ3dSc2x5Zl83aWwxVXZfcW0wbWlqNVBBWi1RUjJRSzB4TjRETEdYMWJDRFU3ZjR4U2pPbmEyQQ?oc=5>)\n-# اليوم السابع (vía Google News) · fiabilidad ?",
+"ts": 1794792773
 }
 ],
 "seen": {
@@ -638,12 +630,14 @@
 "4e4a5e2d9918756b": 1794686298,
 "4ecda24a964d5ce7": 1794763512,
 "4fddf91c4fe22ee1": 1794686298,
+"4fe1b0e9cddb7641": 1794792773,
 "515e457e8c59c369": 1794669538,
 "529292d17642c5f8": 1794763512,
 "53ae696d4a6202a3": 1794645385,
 "5545acebacda444a": 1794646595,
 "55b86639b7e6ecbe": 1794669538,
 "55e632cde97c8f9b": 1794686298,
+"58771e6f2b49cd34": 1794792773,
 "58bae595b80a7db2": 1794763512,
 "58d17879f4b3f9f1": 1794645864,
 "59305a10b0b2e1a2": 1794779796,
@@ -762,7 +756,9 @@
 "b77d56b96c532818": 1794686298,
 "b82da92787fa047f": 1794763512,
 "b8aa9088db92f027": 1794779796,
+"b8adbb9b7b95c59f": 1794792773,
 "b96451e3d4b6f661": 1794739382,
+"b992986cdc2b6e89": 1794792773,
 "babf38636efb5c34": 1794669538,
 "bb0457f854aacedc": 1794739382,
 "bb0fe110d2ee0cfb": 1794669538,
@@ -796,12 +792,14 @@
 "d15846240c97db1e": 1794669538,
 "d1b0fa5327cadce0": 1794763512,
 "d28a9339220ab6ab": 1794645385,
+"d38639fe2cba13a3": 1794792773,
 "d53f9199b375cc7a": 1794779796,
 "d6892ccac315a1c3": 1794686298,
 "d76d1ac09b532be7": 1794669538,
 "d82afed8b44e7158": 1794686298,
 "d8cccb9f9dc8f100": 1794779796,
 "d9337b592e9966ef": 1794739382,
+"d959d820e1c81468": 1794792773,
 "d968c0331765837a": 1794669538,
 "da0d588a5dd216bd": 1794669538,
 "da71eba39dbaa52f": 1794669538,
@@ -821,12 +819,14 @@
 "e36d959909af5e96": 1794686298,
 "e46f833552a2dcf7": 1794699678,
 "e675e3bc2c12d1c2": 1794646595,
+"e7267ec6d163aa77": 1794792773,
 "e950abd5fe2ece17": 1794669538,
 "e9823818180b6a69": 1794779796,
 "e9fb125443a758f5": 1794645385,
 "eaf4623be52089c2": 1794699678,
 "eb6d29fb9bd6b7f5": 1794686298,
 "eb996eae46323c08": 1794669538,
+"ed27119e8b7c241d": 1794792773,
 "ed498defab2e3231": 1794669538,
 "ee796b670d20b80a": 1794699678,
 "ef89a5aba575c977": 1794739382,
