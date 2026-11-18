@@ -379,6 +379,94 @@
 {
 "title": "Francia quiere reemplazar a las fuerzas de paz de la FPNUL en el Líbano; Israel pretende bloquear el plan",
 "ts": 1794943421
+},
+{
+"title": "دانون يعلن نهاية حقبة اليونيفيل: أمن إسرائيل لن يُسلّم لقوة دولية",
+"ts": 1794966198
+},
+{
+"title": "La Finul constate l'ampleur des destructions dans plusieurs localités du Liban-Sud",
+"ts": 1794966198
+},
+{
+"title": "معلومات الجديد: وولتز أعاد طرح سيناريو تسلم الجيش اللبناني للمهام الميدانية بعد انتهاء مهمة اليونيفيل والتي رفضها لبنان الرسمي مجدداً",
+"ts": 1794966198
+},
+{
+"title": "شو الوضع؟ وقت \"اليونيفيل\" ينفَد والسلطة تنتظر زيارة والتز... أردوغان الإبن يحط في طرابلس و\"القوات\" تواصِل مسرحية الإعتكاف الوزاري",
+"ts": 1794966198
+},
+{
+"title": "والتز يُصعّد بوجه «حزب الله السرطان» وإسرائيل على خط اليوم التالي لـ «اليونيفيل»",
+"ts": 1794966198
+},
+{
+"title": "From Haiti to UNIFIL: Washington seeks to cut costs, but who will guarantee security?",
+"ts": 1794966198
+},
+{
+"title": "إسرائيل ترفض نشر قوات أوروبية في جنوب لبنان خلفًا لليونيفيل",
+"ts": 1794966198
+},
+{
+"title": "(وسائط متعددة) اليونيفيل: طبيعة مرحلة ما بعد اليونيفيل \"لم تتضح بعد\"",
+"ts": 1794966198
+},
+{
+"title": "صراع فرنسي إسرائيلي على لبنان... خطط سرّية لمرحلة ما بعد \"اليونيفيل\"",
+"ts": 1794966198
+},
+{
+"title": "اليونيفيل: طبيعة المرحلة المقبلة في جنوب لبنان لم تتضح بعد",
+"ts": 1794966198
+},
+{
+"title": "من يملأ الفراغ بعد «اليونيفيل»؟",
+"ts": 1794966198
+},
+{
+"title": "Casques bleus italiens de la FINUL : la prévention commence sur les bancs de l'école",
+"ts": 1794966198
+},
+{
+"title": "خبير قانون دولي يحذر من إنهاء مهمة «اليونيفيل» في جنوب لبنان: خطأ جسيم",
+"ts": 1794966198
+},
+{
+"title": "الخارجية الفرنسية للعربية: نعمل على تجنب حدوث فراغ أمني بلبنان بعد انتهاء مهمة يونيفيل",
+"ts": 1794966198
+},
+{
+"title": "الخارجية الفرنسية للحدث: اقتراح نشر قوات فرنسية وإيطالية مطروح بعد انتهاء مهمة \"اليونيفيل\"",
+"ts": 1794966198
+},
+{
+"title": "إسرائيل تخطف شقيقين في شبعا والثالث في أسرها منذ 2025@wissam_nasralla #LBCINews https://t.co/PZKiZgVXyP",
+"ts": 1794966198
+},
+{
+"title": "أبو شامة: تحركات أمريكية لإيجاد بديل لقوات اليونيفيل في جنوب لبنان",
+"ts": 1794966198
+},
+{
+"title": "تأجيل زيارة الزيدي إلى بيروت... والتز غداة زيارته: \"حزب الله\" ورم سرطاني",
+"ts": 1794966198
+},
+{
+"title": "اليونيفيل يكشف حجم الدمار الذي تتنتهجه إسرائيل في لبنان وتؤكد استمرار مراقبة التطورات",
+"ts": 1794966198
+},
+{
+"title": "رسائل أميركية لبيروت.. هل تتغير مهمة اليونيفيل بعد نهاية العام؟",
+"ts": 1794966198
+},
+{
+"title": "اليونيفيل ونتنياهو... حسابات واشنطن ودور فرنسا؟",
+"ts": 1794966198
+},
+{
+"title": "والتز يطرح تسليم الجيش مهام اليونيفيل.. ولبنان يرفض",
+"ts": 1794966198
 }
 ],
 "diag": {
@@ -389,119 +477,10 @@
 "toi"
 ],
 "traductores": [
-"google"
+"ninguno"
 ]
 },
 "events": [
-{
-"body": "Una fuerza israelí avanzó hacia la zona de al-Qateh en las afueras del sur del Líbano...",
-"first_ts": 1794813856,
-"msg_id": "1571805176904417333",
-"places": [
-"Shebaa"
-],
-"sig": "Shebaa|aereo",
-"sources": [
-{
-"level": "B",
-"link": "https://www.lbcgroup.tv/news/lebanon-news/968153/title/en?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss",
-"name": "LBCI (inglés)",
-"origin": "TV libanesa",
-"title": "Las fuerzas israelíes secuestran a dos hermanos en una redada cerca de Chebaa",
-"ts": 1794813856
-}
-],
-"type": "aereo",
-"un": false
-},
-{
-"body": "“Agencia Nacional”: Un dron israelí explotó en el espacio aéreo de la zona de Al-Rajm en la ciudad de Mifdoun en el distrito de Nabatieh.\n https://lbdb.co/900773",
-"first_ts": 1794813932,
-"msg_id": "1571805186387878058",
-"places": [
-"Nabatieh"
-],
-"sig": "Nabatieh|explosion",
-"sources": [
-{
-"level": "C",
-"link": "https://t.me/lebanondebate/297403",
-"name": "Lebanon Debate (Telegram)",
-"origin": "Web libanesa de última hora",
-"title": "“Agencia Nacional”: Un dron israelí explotó en el espacio aéreo de la zona de Al-Rajm en la ciudad de Mifdoun en el distrito de Nabatieh.",
-"ts": 1794813932
-},
-{
-"level": "C",
-"link": "https://t.me/alakhbar_news/100363",
-"name": "Al Akhbar (Telegram)",
-"origin": "Diario libanés afín a Hezbolá",
-"title": "“Agencia Nacional”: Un dron enemigo explotó en el espacio aéreo de la zona de Al-Rajm en la ciudad de Mifdoun en el distrito de Nabatieh.",
-"ts": 1794814989
-},
-{
-"level": "C",
-"link": "https://t.me/lebanondebate/297412",
-"name": "Lebanon Debate (Telegram)",
-"origin": "Web libanesa de última hora",
-"title": "“Agencia Nacional”: Un segundo dron israelí explotó en el espacio aéreo de la zona de Al-Rajm en la ciudad de Mifdoun en el distrito de Nabatieh, menos de 15 minutos después de la explosión del primer dron.",
-"ts": 1794815822
-},
-{
-"level": "B",
-"link": "https://t.me/MTVLebanonNews/350600",
-"name": "MTV Lebanon (Telegram)",
-"origin": "TV libanesa, línea crítica con Hezbolá",
-"title": "“Agencia Nacional”: Un segundo dron israelí explotó en el espacio aéreo de la zona de Al-Rajm en la ciudad de Mifdoun en el distrito de Nabatieh, menos de un cuarto de hora después de la primera explosión de un dron en la misma zona.",
-"ts": 1794815856
-}
-],
-"type": "explosion",
-"un": false
-},
-{
-"body": "",
-"first_ts": 1794827029,
-"msg_id": "1571960740271628341",
-"places": [
-"Kfar Tebnit",
-"Nabatieh"
-],
-"sig": "Kfar Tebnit|aereo",
-"sources": [
-{
-"level": "C",
-"link": "https://t.me/alakhbar_news/100375",
-"name": "Al Akhbar (Telegram)",
-"origin": "Diario libanés afín a Hezbolá",
-"title": "“Agencia Nacional”: aviones de combate israelíes lanzaron un ataque contra la ciudad de Kafr Tibnit en el distrito de Nabatieh",
-"ts": 1794827029
-}
-],
-"type": "aereo",
-"un": false
-},
-{
-"body": "",
-"first_ts": 1794828100,
-"msg_id": "1571960746978447412",
-"places": [
-"Zawtar"
-],
-"sig": "Zawtar|artilleria",
-"sources": [
-{
-"level": "C",
-"link": "https://t.me/alakhbar_news/100376",
-"name": "Al Akhbar (Telegram)",
-"origin": "Diario libanés afín a Hezbolá",
-"title": "“Agencia Nacional”: La zona de Ain al-Samahiya entre las ciudades de Zawtar al-Sharqiya y Mifdoun fue objeto de bombardeos de artillería intermitentes",
-"ts": 1794828100
-}
-],
-"type": "artilleria",
-"un": false
-},
 {
 "body": "",
 "first_ts": 1794839309,
@@ -611,74 +590,6 @@
 }
 ],
 "pending": [
-{
-"line": "• [El ejército israelí: dos miembros de las “Brigadas Libanesas” fueron arrestados en Shebaa (vídeo)](<https://www.annahar.com/international/israeli-issues/366999/الجيش-الإسرائيلي-اعتقال-عنصرين-من-السرايا-اللبنانية-في-شبعا-فيديو>)\n-# An-Nahar · fiabilidad B · Shebaa, 13,0 km al E",
-"ts": 1794855031
-},
-{
-"line": "• [Waltz rediseña la era posterior a la FINUL... y el 1701 se enfrenta a cambios fundamentales](<https://www.annahar.com/lebanon/politics/366933/والتز-يعيد-رسم-مرحلة-ما-بعد-اليونيفيل-والـ1701-أمام-تعديلات-جوهرية>)\n-# An-Nahar · fiabilidad B · Naqoura (cuartel general de UNIFIL), 52,7 km al SO",
-"ts": 1794855031
-},
-{
-"line": "• [La visita de Mike Waltz a Beirut y los cambios en las disposiciones de seguridad de la FPNUL](<https://news.google.com/rss/articles/CBMijwRBVV95cUxPUk5DeW9hcEdKTy16YlRNbENXbG85ZmRVcTBydW9hckxYbUotMnFDTzZ4VXFoTUotVk1sUzhQay15MnZCS3BkVmpBUUlDbGdJcFluNnFRbVZCaWhmU0MtZ3pkYzVFTHZGeGlQOVJKR2NCXzZMenppVi1BWTFmZ0JzWHotdjd3Mk93YnJJRTZMTWJBd0Q4Qld5UHdDaE5USEhHV2ViT2hpT1RfZWJKQVRDdHhWckdUQU9kSWhlNjlaY3FfMUJtNDViZC1rMUlfS1E3bDRLWlNSaFB2aVJ0QzI0Z0hFek9hNUx2Ylc0ZGhucGUwNzVVYzB6WGN1NkpKelpNc1ZsUGhVWTdocGlydC1jX3E3bmZrUTVRRWNsZWl0NnNKNm9taUxxeWdIRVN6cS1zTXA4MFZ5OF93MmktYk5FdlVtS3prVWZDWmlUeEZPcHJNT3c1SG53Ykd0ZnRKWklDdTl0eGVtZkpkN1h4Nm1ucEROSEdjSkw5dm5VRjNQdlV6UVowdUdNR1Q0U1d6a3Z0TFI1eHo2eHgyS2Jzd1V2SldRRVVBTm5URDhWNXFxaThDU2txZWNFdG9VSklQNzM0Mm5QVzJfWW9QU19ZTEhURkZzd3Z1emx6QVE3b1lEcUMxckpaWXZXbXZydTNNV0tlZzdkYjRUQ0F0YU8tOFVtV2w1VHVKMjJBRzRlUHczTQ?oc=5>)\n-# annahar.com (vía Google News) · fiabilidad A",
-"ts": 1794855031
-},
-{
-"line": "• [Waltz envía mensajes desde su reunión con Berri: los dos partidos en Estados Unidos están de acuerdo sobre el proceso de negociación, y los franceses ](<https://news.google.com/rss/articles/CBMi8AdBVV95cUxQamo3aGt2azJuQWpuSWVoV0F4WnBVR2tOMnNidE5kYThoeVg2N1FYLWJRTGdTcGpaeWNmUGpHdzVjUmVrbFdzTnA5N3pIOWF6M2s3OTVEUTJDRm5YbDd5Yy05Si0wSW9hRXU0eXJBZ3MyWGpWWnRIbHRBNzFvdEtfelF4VThUTmVmRlphUjRTWW9oalhRMWJ0VEk2bE5jYjkyVkVTampxLWpQVWhTR29id05Kczl6MlVUZG5xcjJPSlpiSzdfbFNYUVNxc2J6ZVB0WElEOEpGYWJvWV9TRnh4U2xtQnJaN0dWNW1pbXNZZTduNXdNZ3NnMW8tWTE3bndXT3g0bGlEYmZVQnA5QUhHZ3JiNGlUeVdyY1dmMDhibGRXXy01NkRSdTNDQ0ZwbDhFZWdoV2Vac0U4cG5kNGV0T1c3dUVUaE9zM1hHakw5eWhTMVZZM0ZSbUZUajNQQVhoWFphY2ZVeGE2aGRnalhWWDF0ajVNb1B1a0dFcmtqNWZQWjQ0Y1lXMzNxQVY4RGh0Q2NXZFZNOXdTbGlwZnUxQXNxZ2xsaW9DX25HS2NGdzRUVHhuSlRfeVJTcEV1NGNKWExJUjJwU19icVZUXzNaRHZNWF9YM0FENDhpaUxUOG5WMnpNb0N0QWVTVUNIVWwteVJ4c1A4VzJvTjJKM1JzSVJBbk12V1FKdVNwVlBVWmxIX181OTVSOW4zbk9PLW5KWk9CcGpKMGFlMUtxVVFxOFhLNDhmRXloZzdnUjdsZHlwUnFLX09zbEJxRVlSLWVrejNwM1BIU1N4R1NZa3haeWc4al9oRXdmT0Q1Ujl5a3hhTW5oQ19CX0p1VVR0ZEdoYTZuOWZqWk9WbDdUX1hTV3hSa0lfaVd6cU8yMjBUNUpMYW9kWXdsT2tQMmM2aWJyN3ZCd0xuNmJJb0VDZy1nWlRDVHR2bDRYLUFGd0dGbm5ENURwbV8weXFMMHBqRGlucGlPNGhud0FZYi1kU1ZvWTZUT3lSRTdxclRKR2lENmpTZ3Jma21PYXYxOGgtUUFBY21pMjNLdERJNGlEWXVjWnRsT2dxcjBiV042WEc5aGJWSldrNWpuQVB3cmdlaktHbmFFcWdLZW95UHQyX0pEbi1pTExld3ZkbzB0QTMwT2wyNk9DQW05bDl6OXhRa1AxWHhQUW15VUxYZTQ5WlNjc3hBeVlNTXYwc01kSjVaQW9td2lLbGNoWFpJdVBNT0d2MWdnRC1SekhlMGo3djQtbDdFYVhqU2JRb3N5OWRoRTFYdTdtNXNucUFXdUNZenlELS1GS3NudUE3aE8xRm1ITnFSRDVOUlVxUTFiNEhRbEo?oc=5>)\n-# tayyar.org (vía Google News) · fiabilidad ?",
-"ts": 1794855031
-},
-{
-"line": "• [Washington pide el desarme de Hezbolá y Beirut se adhiere a la presencia de la fuerza de la FPNUL](<https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZUlNS2s1ekR4eVgyRnBZcHhnVktZa3R5eFdhdHpQazJ6UnJ5TzF5NW9ESzVjZlpIUlhYOVRhN0hPZUh2TGN2RzZ1OWFHYlludjVBaEJfMFdOT29zSDJkVVctZFZoX3ZDeWg1VE1meEEtcmxDa1huX1dGR0E1akhMZG1vNldyMDRleHk0VnB1enJWWFpPSFgwczdIdTFsbDlTOHpFNHplYm1qaE5maGtTQVJkOFpkR2R4blRxbElsWFU2bzgyQVA0dlhPVWpMU1pIUjgza3ZVX3pBanB6Q0ZZcHl2cVlHeUhxNVlIenZGd3oyUWNTeXpSS0dfcDNSTHJ2S3B5eFNYZmtjaXIwb1B4RjFyTjkzRXJ1LURrV2VYbVc1amgtelpzUlZ2U0luQURmakM0WGRLbXAyc2d6NG9nOXRqTXdoVWp3SjRSWEhadlhoTHVId0dZMFUzdS0?oc=5>)\n-# الجزيرة نت (vía Google News) · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [El primer borrador del acuerdo COP31 augura difíciles negociaciones en los próximos días](<https://www.annahar.com/international/367013/المسودة-الأولى-لاتفاق-كوب31-تنذر-بمفاوضات-شاقة-في-الأيام-المقبلة>)\n-# An-Nahar · fiabilidad B · Metula (Israel), 11,3 km al S",
-"ts": 1794855031
-},
-{
-"line": "• [Berri a “An-Nahar”: Nos adherimos a la Resolución 1701... y el acuerdo marco “no es relevante para mí”](<https://www.annahar.com/lebanon/367020/بري-لـالنهار-متمسكون-بالقرار-1701-واتفاق-الإطار-مش-وارد-عندي>)\n-# An-Nahar · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [Washington se dirige al Consejo de Seguridad para enmendar la Resolución 1701 y explorar alternativas a la FPNUL.](<https://news.google.com/rss/articles/CBMihgJBVV95cUxOWHc4MkR2WGZ5TkFFTTZqVndTQm94ZmVYYXd6R0FXZEdBY2RKZ1FKNG1nYnc2S2tqR3B1cDRsREZMQVJaZFpraUpmcWRzSjJFdlY2aWRnRjlSSGVhYmw1OXBnM1ZJZ0p5Y0I4RDBvQTJIelU3R0tQODcwQ3EwcnpvM1BfUkZKZGVwSlRJMUZFVV81T0k1aXRmRVVfeVRqYVExNWR6Sk9kZzBtRTJ6MTVCQWlmYlZEc0w3Q3lnMUdDVjN1UkhTeVY5TWtGX3I5OERwYUpJbDQzMDBYQUZtWUMtdE5iejRMenE4OEhpLWNDTDVKZkxLdDVBLVpoRjh3cTJvV1Bqa2ZR?oc=5>)\n-# صوت الإمارات (vía Google News) · fiabilidad ?",
-"ts": 1794855031
-},
-{
-"line": "• [La alternativa “FPNUL”... un cambio americano y tres puntos de acuerdo con Baabda](<https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tRXRNSXE2aFVLNVNnZGNnWThXcG1idGN0RjdBZFdQSFhhVXJBU3UxX1lwbDBJRUxOQzI2MEhmdUxRbVJRclVkY2Y2eFA?oc=5>)\n-# موقع لبنان الكبير (vía Google News) · fiabilidad ?",
-"ts": 1794855031
-},
-{
-"line": "• [Washington pide a Hezbolá que entregue sus armas y advierte de la presencia de dos ejércitos en el Líbano. ¿Qué pasará después de la retirada de la FP](<https://news.google.com/rss/articles/CBMiogFBVV95cUxNdERibXVwaUdPQ190V1FyTERwV24yLS1md00ybkFGSWFKS3ZQbWx6Z2hjZEFfZXlrOFBHcUY1bEJqbGI2NWdBRUFhV253RWFqYXpveF82d3lld01NLVhqZTNWUXI0S21SNWlLNWFzaUpiR3lkeTRnOGJENGtYUjlndHlMVDV6U2xMSTRjOHBnSlptNnhFaUdoX01FQlJyUXNhRXc?oc=5>)\n-# nedaelwatan.com (vía Google News) · fiabilidad ?",
-"ts": 1794855031
-},
-{
-"line": "• [Inspectores de protección al consumidor en Nabatieh: informe de incautación contra una carnicería y compromisos escritos para los propietarios de la c](<https://www.lbcgroup.tv/news/lebanon-security/968271/title/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# LBCI (árabe) · fiabilidad B · Nabatieh, 12,2 km al O",
-"ts": 1794855031
-},
-{
-"line": "• [Wadih Al-Khazen: Existe una posición libanesa unificada en las consultas en curso sobre el futuro de la fuerza de la FPNUL.](<https://news.google.com/rss/articles/CBMi4wRBVV95cUxPckM1cWJDMzE4cGZpdVlUSXd1ZS1rX0JzbjdnUzFrdS12b2FwVnNWVldkSUlZUmlET1Nfbmx2M1lWbVByV2p6ajNfbkVISTRfM3N0Q09jb2IwSFJiWHRkMmZzOTZ6OFRKYzlTMEN3QlR3UW5GLUNjS2dJeGNWcnMwZkJxQ21fLVpKZmgwTW14NjAtekVONEJCX1k3Q3dSaTE2NTZmYlIwWkY3MWkyYnkzc3NhWFh1aTZmOWZxTi11QTNCbVF6QzllVnRnRXBnTEcxb29GQmlBVjF2WEREenl2V29rWmJyMTNnUmxoRzJSOGNpd05VZHFHbVZ6N1RuZ0YwaGxjcUhFYUlKS1hMUnNpcDgwd3FBdURhZXdtS3JLUUNzVTFaZ2JTU1pWNmc0a0QwakRjZEVqb3FSeUVTb2QwZWlRY0VsVGd4ejhDcEdfUjFjQmlYYU1WMUEtZkZFU2xHbHptVzNZaGZTSXZPdjdhclQ5X252MnE5T2xnb252dmJEWk1zX1hmNkFXbnFhRVdZS19MYjRVd1UtUHJKc21tSGF5TVJIUFpwQ24zb0JpYmNuTmxFMS1LLTJHRmt0bnFWWWtyOWdYWHBuaEliejJETWx0a2pCY29DUXZnemp0eE5FOTg1c1FPOG5GUzBZa3pVb21WQXRRNGxPblJ3d0dWSWhIdW1HaVlxOU85VURJNm0tVHR2b0ZVcWlsc1B6ek45NTNxUFJkY1hyWWlRS1NyU2EtYnNpZlh0Y1o0WHlHVURyU08zbWJ6aGlLbTFHdExyVWpFMHJUcDNwUXhMaDN0SWVvYw?oc=5>)\n-# https://www.akhbaralyawm.com/ (vía Google News) · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [En imágenes: los vehículos de la FPNUL se convierten en chatarra y sucedió algo que preocupa al ejército](<https://news.google.com/rss/articles/CBMihwRBVV95cUxPck9sXzFpUUJIMWtaeWdLc1NuQ0czMjQ0S1VQbUJmOXE0bHJGam94ZXdmY0JsX1J2NU93Wnp0RG1fRDlORGtadkxBVzVIZnhIZ3JmNFdMTnItdFBZVkRzVlI4Z2h3RkNncWl6dzNUQjgzS3dNV1pMYXF2WVk0WWlhVzFGanB5RmVlYmludHJMc19KazZmejUxeEJseGhJYnZZQ2hkTzNjTUdMQTQ1WnFtZkxFY1ZXcXVyQlVxRVpMdjBpc1dDdGp2cE40T01CeWVQdHJRSHE2NERGbzFOb0VwRUdtOXJuNW1kOFdKVlNxNnZBeVE0ZFU0YmRLSEZiVTRMZGk3cTB0UTFrN0Q4RUVLajZLeXI0Q29sU2VYcmdydnlLUjNsaXBOeWMyZ1hscnNYcFFmZDBNNXpMZVB2T1k0UTdDV2NBSUpjLWs4cmVOWFdaTjc2MmJMejJiM0lpMHBrdWJPdEwtUzhUaDVSdHhEUEp5akFvUXRMNnpNRUxkOWVwOHc4b1ByeUROX212eGdhblFMa1plSWRGTnl0Zk1LakJLaWFaNzg5cW9zUGlHN2pmMnRRRFVzMzdSSmJsYnNKNEN3T1g0bG9pSTFqVDdsQWZGTUh5RjBldEVWRnNqc3l0ajhCdjY2OVo4N3RiQzR1VFZnbVVWdWdZMnc5MTBwRXJYX3M1WVE?oc=5>)\n-# Lebanon24 (vía Google News) · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [Fuentes de MTV: Las reuniones de vals apuntan a que no se ampliará el mandato de la FPNUL y a la necesidad de implementar el acuerdo marco](<https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDSmpELVpsM2prSXVWdUNoRXFmbk5CVEZ0dXlUYnAwV01Fd0diMG9oTmxxN3BfOHpCWjF0ZTFZeTRhdk1hNTg5ZEtXYzlULVU?oc=5>)\n-# MTV Lebanon (vía Google News) · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [Una fuente oficial le dijo a Al-Jadeed sobre la visita de Waltz: No hay una propuesta oficial estadounidense ni una visión final para la fase posterio](<https://www.aljadeed.tv/news/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86/595994/%d9%85%d8%b5%d8%af%d8%b1-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d9%80%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%b9%d9%86-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b2-%d9%84%d8%a7-%d8%b7%d8%b1%d8%ad-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a7%d9%8b-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%a3%d9%88-%d8%aa%d8%b5%d9%88%d9%91%d8%b1%d8%a7%d9%8b-%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a7%d9%8b-%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%81%d9%8a%d9%84-%d9%84%d9%83%d9%86-%d9%87%d9%86%d8%a7%d9%83-%d8%aa%d9%88%d8%a7%d9%81%d9%82%d8%a7%d9%8b-%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d8%a7%d9%8b-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d9%86%d9%82%d8%a7%d8%b7-%d8%b9%d8%af%d9%91%d8%a9/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# Al Jadeed · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [Aún no hay un plan oficial post-FPNUL: el enviado estadounidense Waltz concluye las conversaciones en el Líbano](<https://www.lbcgroup.tv/news/news-bulletin-reports/968267/title/en?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# LBCI (inglés) · fiabilidad B",
-"ts": 1794855031
-},
-{
-"line": "• [Informes sobre la FPNUL... una lectura de seguridad de lo que le espera al sur del Líbano](<https://news.google.com/rss/articles/CBMizgNBVV95cUxQS2pkbmVnR0MtSVR6Z3lVRURPLWVGTV95ZHFtcE9WNllkbDdoZUFCUHFraDBvUmlXN2pFejJya1g3czJNcDZzTGlfQUZubVZzQlotMGZQaV9OcXBSOVplWDJIZ2RrTlFYVWVlVktDSkE0endtQU1FVzZyUjJ4WWFhRll6Y2FFbkhoWXFraXF6RXV0WnRKMG85SGF1THhrTmtqQ3ZtelhIX3FsXzBBQXZkbTdqUVRvdDBRSVB0eDdPWU1kaC1sdHdnN1QwNjhuSUo3eWlYSG5wSTBHQ3ZYdWhKQjNtRWU2WlZpZVdqclpJOVk5dEhjaTRBNUJWdmNRVjFIT29MdmotV2VCUV9vMElpOGJmdzBhNUlIR0JvaVRfOG5FT295Zm51anpDLXlheDRWZWFNZVBsMGkweUlsaXVfODlvNmZNOV9JSVJIanh3aWJmaEVSM2xqQ3I2THFqaUFSUDJYNklIYTQxTlJBbkhlMGQyb3FCSVY2b1ozaGppRkpGZE0yRXN4dTIwUWhvUEtEaEN4UVowakxkOXNrMEsxY2x6WnlMQmhhSWM2VUpRNjBpMjV4bUFCcEJqT3kxdkNVMng4UWp5a1NMd21WMUE?oc=5>)\n-# Lebanon24 (vía Google News) · fiabilidad B",
-"ts": 1794855031
-},
 {
 "line": "• [El Comando del Ejército desmiente lo informado sobre la situación de seguridad en Zawtar Gharbiya y confirma la continuación de sus misiones de seguri](<https://www.aljadeed.tv/news/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86/595996/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%aa%d9%86%d9%81%d9%8a-%d9%85%d8%a7-%d9%88%d8%b1%d8%af-%d8%b9%d9%86-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a-%d9%81%d9%8a-%d8%b2%d9%88%d8%b7%d8%b1-%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%88%d8%aa%d8%a4%d9%83%d8%af-%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a9-%d9%85%d9%87%d9%85%d8%a7%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%88%d9%85%d9%88%d8%a7%d9%83%d8%a8%d8%a9-%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%87%d8%a7%d9%84%d9%8a/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# Al Jadeed · fiabilidad B · Zawtar, 14,7 km al SO",
 "ts": 1794855031
@@ -1110,6 +1021,94 @@
 {
 "line": "• [Francia quiere reemplazar a las fuerzas de paz de la FPNUL en el Líbano; Israel pretende bloquear el plan](<https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzgzdTZ0dmdaSWtqSUxDcE5yUmZlb2d3VF80NVVzZld1ZmtxWEd1c0dLVTBEMXFTX0lmOGFlbXRNS3hTV08tUEM4UFRMRklaaHdWdUM5ZG1FczlLYlBuWEJsR3JMbmpaa0wtQTZOQTVoWjdmSUF2X2ZxVjg5eC1MNmt4TTVzbzAzRVdRbTREQjRIXzg5MmdYdFpYRFVXWDhBZ2RoeTY5NGJ1b21NeEFFS3gyWkFCUzBI?oc=5>)\n-# Antiwar.com (vía Google News) · fiabilidad ?",
 "ts": 1794943421
+},
+{
+"line": "• [دانون يعلن نهاية حقبة اليونيفيل: أمن إسرائيل لن يُسلّم لقوة دولية](<https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZTZubGd5RGwzWklyMV92VEh1T1V6YmtXdXRJbkhmdThoalBOWmpSSzI2ZWd2M0JTWXp0VUptU3poOTRDdk5PZ28wWXdrMXgwQXpPcEZndWQySUNZSXBzVi03S1pDWmVSZ0RJbkF5YmhmdG1hczZJM3NqQkdNZTI4cmg1SjRpUFFya1JRXzBHQWtqUWRBYnJKcXBlaFZMRHhTMGZuMlZrcnozdUUxbng5OTdsYjJkTVd4Mmt2QWQ2ZGZDNEp0ZmpaclFFTmg3NWVONEtERWFEbE9KTXJoUmRxSFowNHNYRlBNQktXdkdZZXhrNkxwV19xRkVVeUh2M0xmaE1MZ3dCV3F0eUNoUGhJSzdCb2wzYVFZcUFkNEpJME95d3JyN1QtU3BWVnc0OEtMU3QySHloUUFQek0wUG1CVXdiRnBhQTVDRGtDTXM5VG5NRmE2eGRTU1gzVmxuSzMxNUxkQWFoczV1T2R5cklEQmF3?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
+"ts": 1794966198
+},
+{
+"line": "• [La Finul constate l'ampleur des destructions dans plusieurs localités du Liban-Sud](<https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WV1k1M01qQl9VdWFvWFZBOEFSMEs5a25CeFlwdHV5ZGE5Tm1rT0drMm4telplemVXTjdMU0lVM0FTYkhJQ0lQMlcxVE4?oc=5>)\n-# Ici Beyrouth (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [معلومات الجديد: وولتز أعاد طرح سيناريو تسلم الجيش اللبناني للمهام الميدانية بعد انتهاء مهمة اليونيفيل والتي رفضها لبنان الرسمي مجدداً](<https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsNmVuY0M2Y3BCb3lsNzYtMEdwS1Y0WGtCT0NhMWxmTk9ua0pMUHVpa3RCOEN2WXpjTWZPQ3Y4RVJXMXFqS01iUXlGb2IwUQ?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [شو الوضع؟ وقت \"اليونيفيل\" ينفَد والسلطة تنتظر زيارة والتز... أردوغان الإبن يحط في طرابلس و\"القوات\" تواصِل مسرحية الإعتكاف الوزاري](<https://news.google.com/rss/articles/CBMivgdBVV95cUxPRFhjdWRqWkJHU193b095RjhnOEtYR0gtN1ZJNDdXeDVEYmhDT3FCT1czUjAxNG5YNFNXdk5Sb1hIbU5PcUsyZzloVV9QbEhfTVkxelNtLVo5dXJWY2NkX0RrQjk3WGswSEdJMTM1R1VTMVRESFZzTlV6R19Qd0RUdGg1SnZSa0M3SGlBUEVsRkU0aG9VVEd0MktZT3FEOWlTNWtra1V6dG1SSmRLTExsOFJGbEQwSXpURFU2cE1MRTNtTlRhRlBOQ2ZfaU5PdVpZZ3oyZWJYMUczTUZ6M2Y2XzJ5eGZ4bERQSVNpQng5N2JMQXVRanF4ZW9fT3R3blVvY3RaRHNPVlJXU0lkVzR2LS0zYWxRbTZNVWFjNUF0dTRZMFVJTkxQQng4OVV0dnFRdm5SMGhQNmJ0bENTTGpJZnVBYmRNd0M5ZFJXRlhWMnFUdFB2SkZCU243X05HX2lTTHdGOExhZ1pxTF95THF1VG0zTkpJZUtpc2I4VVI0d3pfT0xsR29DNWhzVl9GeDlkUzBPUXZxdFh5X282Nk1zcmNfTWtlc2JxeFc1MlpoY3NybmZ6Yk5PaG1mYktBYTNaNllJVzN0WW5oX0NQbVpKazkyUUxNT215SkU1ZUNjV2VsMDRpTWJzVzNGY2p4NS1ZNlMyaUYzdGpKSU1BWVIyT2hxQWZ6dUhHei0yQm9vYzlsZFUzdXRkVmhEWHJ0bFpjekplTzQ2eEc0em1nYVZjOHdhTzdtT09WTmk5RWxVUkpLdEp3WW1vTnY5eFBWN2JzVlBIMkZvNnVBNEEtd1JrQ3BRVWM4UmN0QUFVc1U5ZnFoVWZOUUEtbHV4bG5samQwTk9rMy0tMXE4WlBBeGpfV1RFMWVQUGNwRkxrQmtkQUh0RkpYMDduTHpUckVHWlNIeXZWazE5Slh5S0tBb3ZwOUpjU0V6S0F1RUJlVFpILUhYUG91SkRIRmpBR0ZKMjhqUDRrZ28zdHhUU2IyYXpXYTlCVU1nTm9PMkd4RXVKdFR4cFVsVklEa2haQTNmbVFTdG5ucy1BRkgzM21MUGxsV2ZqWGh3Vmd4emlMQVNiRi04Q3FzQWJZN1dkMjFLQXljQjNPRm5ndVJRbHpsWDliTld2Qlg5Y1VwVG1UMzloTHA1eGZablV5SFU3akNRM1NMRFNLOV9EQ3VDb29rb25VZ3ptMUhQSnh2NGp4bnFVd0NIaEI4NV9LTlZ4SkdGTmV6dFJuQkZtX0NZWk8tMGJVNlJ6RVMySXAtQmlhcjF3?oc=5>)\n-# tayyar.org (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [والتز يُصعّد بوجه «حزب الله السرطان» وإسرائيل على خط اليوم التالي لـ «اليونيفيل»](<https://news.google.com/rss/articles/CBMi6gVBVV95cUxPNVpyTFJBNjF1cnBKdDFNQTVHLVRpc28wNE1MRUh5enpQSHZHeTZfd2xuWmRBZnJDS1oyX2JZcGVaS190bTkteFpmNXhhM3laQ0ppVVRVZU5XUnB0N1VsZURTaWU5LURjN0lVVFc3VjU0d29RcUp3ZV9ZdWltbFhkS05aeDl0NC1QUFR0U01xRUZWcFR6Nk5TdEFuOFNpNmJsRnBOUHROMzM5LWZWTm1mTDU3WFVkSk9HbXp4SURfQ001MHRJZDdETmxueHhpYjlybVB0WXpuZXBDekhnSVhvSHNyeFUzR3JVeTBuODd2THpOVjhJZVBQMWs5VUp4ZS1ZdHMwb2o2Wnc5cEo4U09RelAyQk4zMmNmeVZmVlZGN2V6WEpXbklISDdIRjVhcEcxTXhZZ2hiWFAyWUlULXh2QzVZWGRNemdYdnpZekl1UVo5WTlVS1IwclNxQ1R4eDJDb2t1UF9iV283aDViMnhGWnAyaHRuZ0o4c0h0NWtFQ2wwYlpWMUNySVVNX3lPd3hia1NBMkk5bEpjVkk2dHNiMjdvdFdDZ1dqU2hKc3ZZZjZPZmNLb0VUbnBUeTlOb3lLOUZ6c3dlbWxsekVfVC1OWkNRalNmdTdyV0g3RXA0TC1USXFYN29HSWJvSUdWbGdQUVBYdmV6NElsWVYyWDVzcEQ3YmZaQjBpbWJfclJqX1F6ekZCY2FSYWxxZWVSSGxFZVVVVjlDUTc3ckRuVzdiOVVlN1NMS0lOR2h3bDZMMmxuQ2VIOF9HWUUweUdDbnJTV01scV9MTVduQlBWNWxhX1ZGOUxCTFNIczlRZ2FCUXpXelNfUldWYkw3eVJ5UWgzeElPS216dm9PWU8tUVJSQk81eGpQUjhOWjhqRkR4dTRSLWpuSl8zQ1E1NTA2emxfUkMzNk9kRWFWaGdwc1BBZU1URURoMW9pUEZJbVAyb3RkTTZlblhBd2VkMHVpekI2Z0NvVEd4elQyUdIBWEFVX3lxTE5fQ0dxanBlQ25vOUtrM29KY25BcDFSZV85a3VCU0wwWUF0TlFOd1doaDN4X1dCZHo5R1IzUTFOQjZMUXVsbzNEYlJjQXZHVEZCaHRPN3pVZ2M?oc=5>)\n-# الراي (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [From Haiti to UNIFIL: Washington seeks to cut costs, but who will guarantee security?](<https://news.google.com/rss/articles/CBMiwgFBVV95cUxON185VU1HN3U5ZXd0a2dST2dfSUEwSVdFZHVZUUlxQ2ItMU9tUjJkNnBxN0JBX2ozSkc1RmVBZ3VXQnlSM2xGbEROUV9hYi1nYmJ2U2pWR1pwOHF5Qlh2X05vWkRGN01ScFBQQWRHcnFjQmlJeFJacE9ROXFycnhZbEdORUczbEVKR2FzblBNTUJYNV9IZHRFc3BBY2ZXY0FyTjZnZ3FZYUxGendMYVdQdFc0aVBRRG8yRDBwdGZTY3BpZw?oc=5>)\n-# LBCI Lebanon (vía Google News) · fiabilidad B",
+"ts": 1794966198
+},
+{
+"line": "• [إسرائيل ترفض نشر قوات أوروبية في جنوب لبنان خلفًا لليونيفيل](<https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WaUlYb3RRMHFJcURuM1RNYWNja2xSVVBYMVRQb1piMVMxXy1DSUoxSmJRaW5QRTlJM1padF9sdl9xU0ppR05nQmJ5aVkzVEtnRVNF?oc=5>)\n-# شبكة تواصل الإخبارية (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [(وسائط متعددة) اليونيفيل: طبيعة مرحلة ما بعد اليونيفيل \"لم تتضح بعد\"](<https://news.google.com/rss/articles/CBMiekFVX3lxTFBqOHAxWG8xQ3B3T3pvMXRCOHpmeFZIczBGaVNTTXVXbTA0MnN0bVk3OHhrT0VDbW0zcXZJSVlib3N4Skl3enQwQUF2MWdhMEJBN1E5cS1yWmxoUkdlZjZNMjA4NUhDMklDSlo1ODRVSkdDVUdHeUk4d3dn?oc=5>)\n-# 新华网 (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [صراع فرنسي إسرائيلي على لبنان... خطط سرّية لمرحلة ما بعد \"اليونيفيل\"](<https://news.google.com/rss/articles/CBMihgRBVV95cUxNaEllUzJjTzZ6NF82RUJfblhkSUpzTndjbWt3X09VNmV0YnVRU3R0R1JZTjAtMU1oTTY0WVhuX1lCRnRCSTFCRnpQanBNZFZIcndFWHhxYnBFRjhiWS1NWjZLZXBJTlBZa2Y2QUpNRmJ4Y3IyRzUzaTlLMk16bmNBWm5SOTNPenZzbDdkWC03YV9mc3ZKTWZDa1F2SFk0NnpBYmEzcEdIMmhwNTUzZVB1ODNMRmFuWlpTbEI2TVQwa0xhdS14VzdYalpkQjVqS3ZURk92WlVqY0txYzRfdmdSUkpmSlRFVVFRUVlGVlkzeFJWYVMwVk1CNDF5NHVBdlF6djVndWllejdkUjNtSFNpOU1MbGNQLWgwU1c1MzhGN2M3UTF4OTh2T3Y5eVRQb3djNVU0SllqQWV4Qk5BeTBZVDI4bXVoWlhRV2pfOVJBQl9Pb3JCQlRmWnpzaEtXRjk5cWxzQmpRbXYyaUVZRU5zVjJjMnpDLTJDS0Jfbzl4Vlo3cVZPYmI2SXNGRXcwT3VzU2dKYk5WLVZKekU0bTRVZDZySFBwVXpUN0llMXU2VmU4UXpWZUh6cXF2UWp2NDBmU3g5YlFQQXZJNjNkeHg2enUwaHdDbzNPaFNVWVZFSklvLS1MM2ExMGR2YTBYaGxBdmMzRXg0X2Y1T2V4R0U3WnBhRjRDdw?oc=5>)\n-# Lebanon Debate (vía Google News) · fiabilidad D",
+"ts": 1794966198
+},
+{
+"line": "• [اليونيفيل: طبيعة المرحلة المقبلة في جنوب لبنان لم تتضح بعد](<https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IM0ZRUENIbFRZSWhMc2Z3b1d5LW1CeVFFYjNEM3BqTkpHZkFCTGhtMTRieGVjeDl3d1pPa05ZOHgzWEZ0VzFvazUtUl9ETmc?oc=5>)\n-# سانا (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [من يملأ الفراغ بعد «اليونيفيل»؟](<https://news.google.com/rss/articles/CBMingNBVV95cUxPUkRMZU9Ycl9BQjIydmZDMWNiaFUycUY4TktaX1BwalgyV3FJY0o3c3N5SFQ5b0NvOHlKX1pVelMyRFphamZrRzNPSTVodDRzd0Rzd1ZQelh0OElPVkFTejZrc1ExWVV1czVKdndDcW1rMEE0R1psOVN5X1BTeC05eVN4SWVERTNFcWw3OG41dnExbVhyb1dDLUtjdTgzcE1JUXRJY1czRmNfY2U4RHQwYWxHQUsxS1pENHNfbWRDNHBZdnNibTUxOHNtTjAweUdBX0w4MEk3M0phMDZ3WllGeWxwSjFfVkNueDc5YjNlT01IRk1BSWlyTGpsM29BdlJCTzJ5SDcyLWVNM3RQOV80ZHNDT2twMTV1NlVKcHBWWGJwNGlCR2VPV1dFR0hCX0h1TV9YbWQ2LVVqcTBqUEdod0loUnlrcU9UZTNPRndiUzJkZzhBLXAzLVpPd2pPWm91ZzAxTnBIR2xLZ1ZaQ0xYTzlaam12alJDb2pXSGxWMWw1WUkxZVp2MzNRLTl1SHd3WXZUYVVQYkUyTjNjYXc?oc=5>)\n-# صحيفة الخليج (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [Casques bleus italiens de la FINUL : la prévention commence sur les bancs de l'école](<https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlVpeFFIMnJaR2NOWWtmQUVIdTZfUXRwVGUwYVFmSEgza0REWHNjOGVfb1ZPbE1PaFRvc1dzOHY2XzZMUnBZNS1Yd0lXUFZvaGRYWlJWQ2g2NEhWNGZyLW95elRvVzRaU2VWcG03ejZiZW81UGZmaHRiT1NkR0psWXJ4YXRKU3RCTkt1eldlWHROd1VYYzhseGFLMDhIeEQzNjN3QTk4aVplWk51VkhEbGF1UVdjVkJ6eDJmMFd6T3BZZzI5ZnZNTk9CampvQQ?oc=5>)\n-# Ministero della Difesa (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [خبير قانون دولي يحذر من إنهاء مهمة «اليونيفيل» في جنوب لبنان: خطأ جسيم](<https://news.google.com/rss/articles/CBMiREFVX3lxTFB0ZktGYXVqR0RtZGFrS3BRZXpYN0NUREY1aTZ2UDU5UkdoaVZjLU1RR29GYkMxbXlIZ0syYy1jUWJPZlBX?oc=5>)\n-# جريدة الدستور (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [الخارجية الفرنسية للعربية: نعمل على تجنب حدوث فراغ أمني بلبنان بعد انتهاء مهمة يونيفيل](<https://news.google.com/rss/articles/CBMiygRBVV95cUxOSEIyMkFBeXR2V0Vib3dVUVY1ZnIwdW1HUTJHT1dwQ1RvU0szaXZNMEFHUUIzXzNCN3A3M0lpRDVLMnNLakZ0b3ZRaF9EOVk5Q2NMWWUtTHZRWTZHeEVjdXlGZkVlRXVpM0NNbVF6V0xlTHl4MnZ6cUdMVjNtckxqcmxnQlpTTkF1MHlOaE1IVWoxLWpMR1pCWWtiSDV6cHIyWXQwWThNWFRNb3JlWkZUSTVSX1BqRHRrOWRKTjBmNWJCekJaWXl3eUlOazdwdVlxM0kwOXZvN2VJVnFQc09ZdnpvcHV0S1VQTzVhN1R0aG1kNy1EdjF6anNmYWJ1bmVyVkplaHJ0SkV5a1RNWFlpbkt2QldtVTREV3RBMGRqb2E2U05TUDQwcWxjaVFzYm15YzVyNDgzdzdLNnNFWE1Da19wUVlUd0loU1lnUnZFeVVJeGVRVjhXcloyQzNHcW5ES1dabXE1aW1DYWdyTTQyVkExRDBQeVo4eUFjOUJPaTBBVVR5Vk16alhnZFN0TThQVFZYNC1XeW5QbTRQM013M3hYSExmNjZiZWlrSzBXZWZ1d1hLeVJnbjBIaUMzZzNUVzdTbTdRZ3M3NUluSTFZMF9RV3RPQjlaOFhpY2FVaFlIVWJ2QUxGcUNLLTVhdzBDM1UwZ1RELWJiZHR6U1hwZ181cEZ3dmhURjFaYzlSVnNOb244Um81ckYyQmhjSnVvRHoxS2hXbHVPRDY0dWdycTBZSmtZNWNzOXdrRDUzR3hTR1c5d0JHemJn?oc=5>)\n-# Lebanon 24 (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [الخارجية الفرنسية للحدث: اقتراح نشر قوات فرنسية وإيطالية مطروح بعد انتهاء مهمة \"اليونيفيل\"](<https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FejNOUVo5MllaTmNFRnBRVEJ0cTRLbDhrYTB5ZGp4US16RFNkdXc3NWxseVRHNXE4N3lsTVhDNmZMLUd5Z2JMQlJxdEdpQQ?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [إسرائيل تخطف شقيقين في شبعا والثالث في أسرها منذ 2025@wissam_nasralla #LBCINews https://t.co/PZKiZgVXyP](<https://t.me/LBCI_NEWS/325299>)\n-# LBCI (Telegram) · fiabilidad B · Shebaa, 13,0 km al E",
+"ts": 1794966198
+},
+{
+"line": "• [أبو شامة: تحركات أمريكية لإيجاد بديل لقوات اليونيفيل في جنوب لبنان](<https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OZ3NZcTJ4MWM5aUQ2SEdlb0VOODVSX0FXREdYTUQxUDNjMHktaUhwTDc2YlpZUl96YW4yLWNFZ0RtZ00?oc=5>)\n-# https://www.youlyou.com/ (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [تأجيل زيارة الزيدي إلى بيروت... والتز غداة زيارته: \"حزب الله\" ورم سرطاني](<https://www.annahar.com/lebanon/367388/الزيدي-يكمل-الاندفاعة-الديبلوماسية-نحو-بيروت-والتز-غداة-زيارته-حزب-الله-ورم-سرطاني>)\n-# An-Nahar · fiabilidad B",
+"ts": 1794966198
+},
+{
+"line": "• [اليونيفيل يكشف حجم الدمار الذي تتنتهجه إسرائيل في لبنان وتؤكد استمرار مراقبة التطورات](<https://news.google.com/rss/articles/CBMihwRBVV95cUxNODJ6NVRrb0lNbUNST3VhSHVXMjRPMkJRMkE5TUMwcjczVHhoOXZ5b1lid1FGQ1lIdjZkbUxhWXlSNHkwSUh6U292ekkzVnplZk1jUFhwWDU5SWdEU1BCc25WNkd1aXBwWm5maFBJS1RjYWtNX3FEckkzTV9kTFZmazdPb3hfQ3VMTEFXVHVQUnV4LUV6UExWRTAwc3JHQkxnREt2VTUzOTFzRE5FOGFvX0o5QVphYUdnZGMxSExOcnpGbzQtSmh0XzhrUjFUREpEelhhZzFzOXYzMXl2WTJCTE5ucGdKV21XM1ozWGxxa2VYamV6ZzZwNllRTVFvbXBxVlliSnV1SFdVZHZYX0h5eGxvU0RaTWFCbFd5TVNGNHlobTJyYWpESVB2RGxNUGNMX0M1Sk5CdW9BTlFINW9hR0JJMjRNZVhfR1N0b3p3SGJxTDMycGFaenhlRkFZQmhDdm9xM2UwbFlQRU5ISjBGZ1llaUhtYjRNRm5uOWJWWE5hUUhxQlFxYm9ETVpnc1VYWS1hd0NtQjNhUG82Z3IzWFR1SFc1UHE3cHg1bG5va09IeFV3Ry16U1B5WVluLVhIMVVacFpXZmdEZzI4RlpfMS1TSEVRNjh1ZC1lSXJwSktCNVhxSGZXTjh5aFJzTU0xblJxU0x5T3R2cHBsdW5RTnBuVTJKdTQ?oc=5>)\n-# اليوم السابع (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [رسائل أميركية لبيروت.. هل تتغير مهمة اليونيفيل بعد نهاية العام؟](<https://news.google.com/rss/articles/CBMi1wRBVV95cUxQUDFkcWNxZ0QyMmY3NFU2NXhqaVlSTWxtc1ZoaFowNzk5SE5BNVQ5TU9JWWI4VUhxRHlzWDlUQkRHMnZiRTFScEQ4T3dzMzJhejVCcHpnT3hZSVNTcWt4ZnJEZ0FlelphWDczMy1SMWtaRmlUTHU1eDhFZkVqRjQxdkx2ZkRNODVJSld0NWRuTWF6Q3cxZ3pEZzRrbkowWkxoMlZ0MzBiazNUUnpQeG9SQ1kxM0h6OENyNTZVdjRQMVVsNVdmbzhMTERlcXRHNWNUQ0tZRDVFdUtTNmlzVDlzZmE5eDR4bGphb05HTGplYUxqc3AxN3A1S1diSElocDJhV0xyUzF1WlBWUjZNNWhjNjIwN1Jvd3o3VW1KZFZuTks2S1JONTFjZUVUdllsYnBvTnhNU2FKMWtjQ21BYzlwUmVxdU1YQjB3VWFXRlRTbExVUDZoLTRQZ0JtTWtXOUxhR3B2aGR2N09URHA1SlotX0JIcDQzQWZ2TUwwUXhyWjhLem93QmpjQUtraC1WLVRLNnJwdVdUc01SbmF4MzNQUjFDMS1OemZpNU5RT3RQbEhQM1FFdXdyZlEyY1VuWUhDdnpreEdsREJGNU9rcTNPVlpIbFRabEp6dm1raVZYa2lNLUpmQmlMT3JWQk1FdUxDRjRsSUM1OWtzMndSWG5GWmNFQW1aN19abFhBTVBwSDlNYW5ab0JxdVcxUEg2azA1MzNMOXdwZldIZjBydGpoUF9YMTg3U0s2Y3R1VHZVWFN4ZGVXNHpEbjJDODRrYzF3WW5ER3lfVQ?oc=5>)\n-# Shams TV (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [اليونيفيل ونتنياهو... حسابات واشنطن ودور فرنسا؟](<https://news.google.com/rss/articles/CBMijARBVV95cUxNSXZySHA5MW5pTFRVT0ZndXIwXzNMY0VSSHE3WW9sZmhMQ0pvM2dLQUpNRDRKRjNtNTNaZTJOdTdJYmdqYVQ0NWNfQVhHOUU1QlVKZTVyRG5NTG5aam9pci1xLWtLVHJwTGVhb3FZemg4b0JtZDYyZ3VKTGRmbUNYZTlPWWhoUkhicmNXaUxMX29kaXVyOWIwZTMwbFlHWTU5MEJPdUdnM3lnVUVfNUMyWjZJakM0bk9FUTNZdXhDdmFSM29vdDBKMUFTdmlJYjNncGYwWWZhS2hua0ZpTG5VbFdtNFhqb2VKYjlxcGg2c3I3YXVwZkZaLW9RVk5salJrMG5qYlBDZDRnTk1SbnZFU1puOGJHSEdacFJZSHpsTmljcFBqTHRfNlEycU1rdVoyVm5BZHVuWnR5dFZ0LWFfRXZ4TGRQZVJOc1BXTEt2OTQ1QkhOVjlnc056NTU4YVlJVFBvX0I0MkhsQ3c3enJlU09MSHRJUGlkYzF4dF9KYXFrMEk3S1dnQ20xT0N3Nmg0UktHeTVEeTNCc3E3dVRJUTNPYXlZQk94MldTSEFYc25yNFduLVZtaWpyYzVnVzRtZE1SS3ZDNldidEFyenlCR2hvSlJlU0E0ZHV4dWMwcV9PT1d3cUtsNVMwZmJnMHZVejlsT01UVURqLVVuZW5kTGNlUVRLRHdQUy1DbQ?oc=5>)\n-# جريدة اللواء (vía Google News) · fiabilidad ?",
+"ts": 1794966198
+},
+{
+"line": "• [والتز يطرح تسليم الجيش مهام اليونيفيل.. ولبنان يرفض](<https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMWpRNVZLcWJNS0RFSEdVQ2VXc19BTmw4OFFCd0hkbVloWFlEbDRlcnk2TmV1QUw0aHNqSHhFQlY0Wnl3akQyTXZjVnMxV2d2M2NPMjR0OG1jR19kS05HMFdiV2FPcnNyMmhIcGg1WVBWcUh3NTRuNGNFU0dMMXR4SHRGOG1pazF6dFFDZEtiUDRCc2tDX2tKOUttN24wMWJXdnhoZkUyWFRwVE5ha290QnlPanhyRXExUUhtbjByZnp3dEMxdjExdFVUQ0tGR053ckhmaWJXVF9ETFZFUkNkOG9sd0UtdURNbEZYOUtlOFhqd2l1SVpvcVJocHZVMEIxd0ppV0tGeXJPMUdqeDRfMEs4eDdEZHhuWFhYM1VZQVMtTHZ0TkhSOEZ4cExrTTVQSWNvLUpydHBGdFU4Snl1Q0p6MWQyWWVGejJ6LWNOR2xPbW51bHpYZk9obGs?oc=5>)\n-# نافذة العرب (vía Google News) · fiabilidad ?",
+"ts": 1794966198
 }
 ],
 "seen": {
@@ -1120,6 +1119,7 @@
 "02115bbd3f87f274": 1794855031,
 "02980831b0e983c0": 1794817931,
 "03190ed4fe9ff58b": 1794943421,
+"034ecb4804557b43": 1794966198,
 "03af43a1b65e3315": 1794943421,
 "040549f025409ff9": 1794669538,
 "0478bfd4b2821d30": 1794779796,
@@ -1130,6 +1130,7 @@
 "078f168ebf25fc64": 1794911969,
 "07ea0e97e1a42e34": 1794739382,
 "07fc55514ca11ef7": 1794943421,
+"080023a77eab1686": 1794966198,
 "084ad5203477f561": 1794669538,
 "0926ab1e92fbe6d1": 1794855031,
 "095ad3e87cb96a76": 1794943421,
@@ -1146,6 +1147,7 @@
 "0d09cb17d4997edc": 1794943421,
 "0d27bfafadb6c95e": 1794817931,
 "0d3cb84689278bbb": 1794943421,
+"0d4ec0fdfa4f1603": 1794966198,
 "0d59ecefba91a199": 1794817931,
 "0ddb40c7094c415c": 1794855031,
 "0e90267fceb75ee1": 1794779796,
@@ -1154,6 +1156,7 @@
 "0f2c0657fdf66293": 1794943421,
 "0fa474c8a81faf9a": 1794779796,
 "0fb170f251d17642": 1794855031,
+"0fd4504faf48ca6c": 1794966198,
 "100ede3d7c1ab861": 1794817931,
 "105d031540470e27": 1794699678,
 "10f690f566d084c5": 1794763512,
@@ -1183,6 +1186,7 @@
 "1be6153388da5dca": 1794763512,
 "1c38cc41acfb36bd": 1794943421,
 "1c5dea2eed1fe68e": 1794911969,
+"1c6b8937487f3a8d": 1794966198,
 "1cd2715075297926": 1794911969,
 "1cd8e7b5b9648037": 1794817931,
 "1d2bc7084ae48264": 1794739382,
@@ -1212,6 +1216,7 @@
 "26df9d1f16ecf068": 1794763512,
 "2736545bab6bec6b": 1794881347,
 "27c9b39bc17049c6": 1794817931,
+"27fd68f454e40e30": 1794966198,
 "280adca0118b3e2a": 1794943421,
 "283d610d1d31c51e": 1794817931,
 "2863af0c1fd3b3a6": 1794686298,
@@ -1221,6 +1226,7 @@
 "299f6243c9766d07": 1794779796,
 "2a5decda9c73cf6e": 1794763512,
 "2a8401f7ce7bb24b": 1794817931,
+"2bcbb26cb68bdc91": 1794966198,
 "2c30ea91dcf8d57b": 1794779796,
 "2c438495b1d42d67": 1794855031,
 "2c63114f29e175cf": 1794779796,
@@ -1337,6 +1343,8 @@
 "5d975350d9efdcc7": 1794669538,
 "5e3567581e0ab1d3": 1794779796,
 "5f4a23bf864f49ca": 1794817931,
+"5faa4f8ed134ceed": 1794966198,
+"5fe9c0e22b76bcb8": 1794966198,
 "6124db0cd8591312": 1794686298,
 "61284beba8bb6f6e": 1794817931,
 "61ce6c42f6cc381b": 1794817931,
@@ -1357,6 +1365,7 @@
 "6b1cce293c6facd2": 1794855031,
 "6b97a91e9904e80c": 1794855031,
 "6bd131d7e3653535": 1794855031,
+"6cb6faa5ae8c69bb": 1794966198,
 "6cfa18f0eff027ee": 1794855031,
 "6d0d4cb14a2168dd": 1794817931,
 "6d136e90ccbb3e66": 1794855031,
@@ -1394,6 +1403,8 @@
 "7b2c2ef19e8c4693": 1794855031,
 "7b34d8a65a381cee": 1794943421,
 "7b4305d1e5ae26c5": 1794779796,
+"7b59a9fc0e28c856": 1794966198,
+"7bd96b832952836d": 1794966198,
 "7bf4c4fda21e1f6c": 1794943421,
 "7c0f11c8996ef4e0": 1794686298,
 "7c15d0f0a81fed00": 1794699678,
@@ -1407,6 +1418,7 @@
 "7df0fc85bb9a2d77": 1794817931,
 "7e2ccedf4e98c027": 1794739382,
 "7eab0a7e528cde3f": 1794911969,
+"7f36d25ce184c321": 1794966198,
 "7f52f98533b6ee0c": 1794645864,
 "7f869070c96afe18": 1794855031,
 "7ff78086ea4695a5": 1794817931,
@@ -1428,6 +1440,7 @@
 "842eab3b267187fa": 1794943421,
 "843661fb0e384ec9": 1794943421,
 "8474159797a09cb8": 1794817931,
+"85366ce004510338": 1794966198,
 "857a489dfed1ee26": 1794943421,
 "8598dc607fc23f3f": 1794943421,
 "8632ce22549e9693": 1794686298,
@@ -1436,12 +1449,14 @@
 "872e00ac320a972a": 1794779796,
 "874bd4ecb08f9e34": 1794911969,
 "877ee395b1899462": 1794817931,
+"878b3cd8c89d6842": 1794966198,
 "87fe23542d1036e2": 1794669538,
 "87ffda88412d615c": 1794855031,
 "89f24db2f766a39e": 1794943421,
 "89fdb1e1dea5ce09": 1794686298,
 "8a06e99f379af20c": 1794855031,
 "8a6c471fa849c990": 1794779796,
+"8a9f47ccf243b834": 1794966198,
 "8aa8b3120866363b": 1794763512,
 "8ae3c5e9d4351bd2": 1794739382,
 "8bb401b4866f6ecf": 1794817931,
@@ -1475,6 +1490,7 @@
 "97623464afc43f20": 1794817931,
 "979b4b27b9c9bfe6": 1794763512,
 "980c64751ee63fb9": 1794645864,
+"9874db49d082701a": 1794966198,
 "98ab25a23446890e": 1794779796,
 "98e817e337e4f887": 1794645864,
 "98e9e57feb5e5c62": 1794943421,
@@ -1524,19 +1540,24 @@
 "aa930ef791e70f42": 1794739382,
 "ab7a7b3b367ec8ba": 1794817931,
 "ac9dc3ba5518705a": 1794943421,
+"acd100f0cdce25cd": 1794966198,
 "ad0ee1eaa4f759a9": 1794669538,
 "ad761f825b14207f": 1794943421,
 "ada07ed8705bee32": 1794943421,
 "adb49417b13e28ef": 1794855031,
 "ae606dd6ee11f9cc": 1794669538,
 "af47803da70fb25d": 1794855031,
+"b01ee4faeff9d17e": 1794966198,
 "b04745bbcca71305": 1794686298,
 "b0bac07683c4514b": 1794881347,
 "b0f604b468204307": 1794669538,
 "b0f924b601a35e77": 1794669538,
+"b10d5db721ca51ca": 1794966198,
 "b11770cbd0702172": 1794669538,
+"b1338636a40bb7d1": 1794966198,
 "b2076df7522393db": 1794739382,
 "b23dd2df039b9d9a": 1794817931,
+"b2e7cca04644ed0c": 1794966198,
 "b326ee7d2af1740f": 1794669538,
 "b360928a293d723a": 1794855031,
 "b36a4c016d81919b": 1794739382,
@@ -1566,6 +1587,7 @@
 "bb389a7002c75ba1": 1794855031,
 "bb7ae74272ada15b": 1794855031,
 "bb9eeed94ee7e633": 1794669538,
+"bbc94e558081cb27": 1794966198,
 "bc2fde71f44f5952": 1794855031,
 "bcbf6c7774cb36b8": 1794763512,
 "bce5f50e3c22d077": 1794739382,
@@ -1611,9 +1633,11 @@
 "cb05dd9859616a28": 1794739382,
 "cc40a12026323c0d": 1794943421,
 "cd0768c611bddd6c": 1794855031,
+"cd14b00ff074aa19": 1794966198,
 "cdd72e1a66da50db": 1794669538,
 "ce691770305b6bb1": 1794943421,
 "ceadffc99c333742": 1794855031,
+"ceedfb8bdd9edbb3": 1794966198,
 "cef67bcf3ebcd8de": 1794669538,
 "cf1143b60fdced06": 1794645385,
 "cf6a73534bba047a": 1794669538,
@@ -1660,6 +1684,7 @@
 "dd61522e7d32cc08": 1794855031,
 "de3733cfdb16f2b1": 1794763512,
 "de594c218fce3c20": 1794669538,
+"de827e40c33ca987": 1794966198,
 "debb4f717c65a6cc": 1794645864,
 "dec4d5670ace3924": 1794763512,
 "def88dd81ec77b50": 1794911969,
@@ -1705,6 +1730,8 @@
 "ef2b04defa861274": 1794855031,
 "ef89a5aba575c977": 1794739382,
 "f00900bb635f1a97": 1794699678,
+"f0aaa391e9d5ffda": 1794966198,
+"f125e36e4c9603f7": 1794966198,
 "f197ca457cf7b78b": 1794943421,
 "f1ecb3b6071ab84f": 1794911969,
 "f27f47246c79ee4d": 1794911969,
@@ -1725,6 +1752,7 @@
 "f8b5153d7ce88198": 1794817931,
 "f8fcd5185e0c2ba6": 1794943421,
 "f95f395649e71d12": 1794669538,
+"f9681ab3480ebfe5": 1794966198,
 "f9e25185069619a0": 1794881347,
 "fa31ed76010a369d": 1794817931,
 "faa8cf6d03c58e20": 1794855031,
