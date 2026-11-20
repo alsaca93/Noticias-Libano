@@ -1,82 +1,6 @@
 {
 "ctx_titles": [
 {
-"title": "Francia advierte de un vacío de seguridad en el sur del Líbano tras el final del mandato de la FPNUL",
-"ts": 1795072828
-},
-{
-"title": "¿Está Washington allanando el camino para poner fin al papel de la FPNUL?",
-"ts": 1795072828
-},
-{
-"title": "Lucha por el futuro de la FPNUL: Francia presentará a la ONU un plan para una nueva fuerza internacional en el Líbano",
-"ts": 1795072828
-},
-{
-"title": "La FPNUL pondrá fin a las operaciones de mantenimiento de la paz en el Líbano el 31 de diciembre",
-"ts": 1795072828
-},
-{
-"title": "Líbano espera una fórmula franco-estadounidense para sustituir a la FPNUL... La aprobación de la partida presupuestaria para la electricidad pone fin al boicot al Gobierno.",
-"ts": 1795072828
-},
-{
-"title": "Baabda y el Palacio Presidencial se aferran al amparo de la ONU... y el Ejército se enfrenta al desafío de la etapa posterior a la UNIFIL.",
-"ts": 1795072828
-},
-{
-"title": "UNIFIL se marcha... Una nueva fuerza internacional enciende la disputa entre los pilares del poder",
-"ts": 1795072828
-},
-{
-"title": "Fuentes de «Al-Diyar»: El Poder Ejecutivo es consciente de que el rechazo de la fórmula estadounidense-francesa conducirá inevitablemente, el 31 de diciembre, a la finalización de la misión de la FPNUL sin una alternativa, lo que dejará al Ejército libanés solo en una línea de contacto candente.",
-"ts": 1795072828
-},
-{
-"title": "El sustituto de la FPNUL... ¡antes de que acabe el año!",
-"ts": 1795072828
-},
-{
-"title": "Rechazo estadounidense a la prórroga de la UNIFIL... Trump cierra la puerta a la propuesta libanesa.",
-"ts": 1795072828
-},
-{
-"title": "Sabah «An-Nahar»: Un mensaje crucial para «el partido» y un regreso a la mesa del acuerdo tripartito... ¿Qué quiere Trump?",
-"ts": 1795072828
-},
-{
-"title": "La propuesta alternativa para la FPNUL... Fuerzas con participación estadounidense",
-"ts": 1795072828
-},
-{
-"title": "Fuentes de «Al-Liwa»: La composición final de las fuerzas que sustituirán a la FPNUL se determinará antes de finales de año, es decir, antes de que finalice el mandato de la FPNUL, y contará con el respaldo de Naciones Unidas, bajo la supervisión del Consejo de Seguridad.",
-"ts": 1795072828
-},
-{
-"title": "Francia estudia poner fin a la misión de la FPNUL y sustituirla por una fuerza multinacional",
-"ts": 1795072828
-},
-{
-"title": "Olvidaos de la FPNUL.",
-"ts": 1795072828
-},
-{
-"title": "Comandante del Ejército: La delicada fase por la que estamos atravesando exige que mantengamos el máximo nivel de preparación, especialmente a medida que se acerca el final de las misiones de la FPNUL, por lo que es cada vez más importante prepararse para la próxima fase.",
-"ts": 1795072828
-},
-{
-"title": "El comandante del Ejército, general Rodolfo Heikal, con motivo del 83.º aniversario de la independencia: «La delicada fase actual exige el máximo nivel de preparación para el final de la misión de la FPNUL».",
-"ts": 1795072828
-},
-{
-"title": "Urgente | Comandante del Ejército Libanés: La situación actual exige mantener el máximo nivel de preparación a medida que se acerca el final de la misión de la FPNUL.",
-"ts": 1795072828
-},
-{
-"title": "Hekal Youssef dirige un mensaje a los militares en el aniversario de la independencia: La fiesta no estará completa hasta que se libere el territorio y se establezca la autoridad del Estado.",
-"ts": 1795072828
-},
-{
 "title": "El Consejo de Seguridad de la ONU considera que una fuerza u observadores europeos sucederán a la FPNUL en el sur del Líbano",
 "ts": 1795106364
 },
@@ -283,11 +207,80 @@
 {
 "title": "«Comprensión estadounidense» de los esfuerzos de Francia por crear una fuerza alternativa a la FPNUL",
 "ts": 1795147112
+},
+{
+"title": "Consultas entre Estados Unidos y Francia sobre una fórmula viable para la etapa posterior a la UNIFIL, y Washington intensifica su presión",
+"ts": 1795178098
+},
+{
+"title": "Fuentes políticas a «Al-Diyar»: He criticado la ausencia del Ministerio de Asuntos Exteriores libanés de la escena en este momento tan crucial, especialmente porque el vacío tras la FPNUL podría ser menos peligroso que la aprobación de una resolución de la ONU que no tenga en cuenta los intereses libaneses.",
+"ts": 1795178098
+},
+{
+"title": "Advertencias sobre la etapa posterior a la FPNUL... y la ausencia del Ministerio de Asuntos Exteriores plantea interrogantes sobre el destino del sur.",
+"ts": 1795178098
+},
+{
+"title": "Más allá de la FPNUL... Concesiones francesas a Israel y una propuesta estadounidense paralela",
+"ts": 1795178098
+},
+{
+"title": "Después de la FPNUL: los corredores humanitarios deben seguir estando en manos libanesas",
+"ts": 1795178098
+},
+{
+"title": "Resumen de prensa del 20 de noviembre: el sur del Líbano y la etapa posterior a la FPNUL",
+"ts": 1795178098
+},
+{
+"title": "La FPNUL observa continuas violaciones israelíes en el sur del Líbano",
+"ts": 1795178098
+},
+{
+"title": "La ONU reafirma su apoyo a la fuerza en el sur del Líbano a medida que se acerca la fecha límite para su retirada",
+"ts": 1795178098
+},
+{
+"title": "Después de la FPNUL... ¿Quién llenará el vacío de seguridad en el sur del Líbano?",
+"ts": 1795178098
+},
+{
+"title": "La FINUL denuncia nuevas violaciones israelíes en el sur del Líbano",
+"ts": 1795178098
+},
+{
+"title": "La FPNUL prosigue su labor mientras las comunidades se enfrentan a desafíos continuos en el sur del Líbano",
+"ts": 1795178098
+},
+{
+"title": "Después de la FPNUL, ¿qué pasa con los observadores de la ONU?",
+"ts": 1795178098
+},
+{
+"title": "Violaciones sionistas en la zona de operaciones de la FPNUL en el Líbano",
+"ts": 1795178098
+},
+{
+"title": "El Consejo de Seguridad respalda los esfuerzos de paz en el Líbano y pide la protección de la FPNUL",
+"ts": 1795178098
+},
+{
+"title": "En su búsqueda de un papel en Oriente Medio, los europeos presionan para sustituir a los cascos azules de la ONU en el Líbano",
+"ts": 1795178098
+},
+{
+"title": "Mansour recibió al embajador de Estados Unidos: Es necesario aplicar los términos del Acuerdo Marco y encontrar una fórmula para la etapa posterior a la FPNUL.",
+"ts": 1795178098
+},
+{
+"title": "🚨 La ocupación provoca un incendio en la Ciudad Scout de Zoutar",
+"ts": 1795178098
 }
 ],
 "diag": {
 "fuentes_caidas": [
 "almarkazia",
+"annahar",
 "nna_ar",
 "nna_en",
 "toi"
@@ -297,152 +290,6 @@
 ]
 },
 "events": [
-{
-"body": "Agencia Nacional de Noticias: Las afueras de las localidades de Mayfadun y Zawtar al-Sharqiya sufrieron bombardeos de artillería israelíes intermitentes.\n https://x.com/LBCI_NEWS/status/2123103453111292201 \n18 de noviembre de 2024 a las 18:18",
-"first_ts": 1795022593,
-"msg_id": "1572672970902601750",
-"places": [
-"Zawtar"
-],
-"sig": "Zawtar|artilleria",
-"sources": [
-{
-"level": "B",
-"link": "https://t.me/LBCI_NEWS/325393",
-"name": "LBCI (Telegram)",
-"origin": "TV libanesa",
-"title": "Agencia Nacional de Noticias: Las afueras de las localidades de Mayfadun y Zawtar al-Sharqiya fueron objeto de bombardeos de artillería israelíes intermitentes.",
-"ts": 1795022593
-},
-{
-"level": "C",
-"link": "https://t.me/alakhbar_news/100552",
-"name": "Al Akhbar (Telegram)",
-"origin": "Diario libanés afín a Hezbolá",
-"title": "«Agencia Nacional»: El bombardeo de artillería israelí se dirigió contra las afueras de Mefdun y Zoutar al-Sharqiya.",
-"ts": 1795022626
-},
-{
-"level": "B",
-"link": "https://t.me/NNA_Leb/224047",
-"name": "NNA (Telegram, canal no verificado)",
-"origin": "Agencia estatal libanesa",
-"title": "La artillería enemiga atacó las afueras de Mayfadun y Zawtar al-Sharqiya https://co/url/1/",
-"ts": 1795023432
-}
-],
-"type": "artilleria",
-"un": false
-},
-{
-"body": "Gran explosión en la localidad de Zawtar al-Sharqiya\n\n\n————\nPara seguir las últimas novedades al instante, uníos a nuestro canal de WhatsApp:\n https://whatsapp.com/channel/0029VaG3H3R8fewmfDqRKX0Q",
-"first_ts": 1795033912,
-"msg_id": "1572766167574122508",
-"places": [
-"Zawtar"
-],
-"sig": "Zawtar|explosion",
-"sources": [
-{
-"level": "D",
-"link": "https://t.me/bintjbeilnews/200777",
-"name": "Bint Jbeil News (Telegram)",
-"origin": "Canal local del sur del Líbano",
-"title": "Gran explosión en la localidad de Zoutar al-Sharqiya",
-"ts": 1795033912
-}
-],
-"type": "explosion",
-"un": false
-},
-{
-"body": "El ejército israelí llevó a cabo una gran explosión en la localidad de Zawtar al-Sharqiya, en el distrito de Nabatiye, cuyo estruendo se escuchó en varias zonas y pueblos del sur.\n https://x.com/MTVLebanonNews/status/2123151840124813708 \n18 de noviembre de 2024 a las 21:30",
-"first_ts": 1795033951,
-"msg_id": "1572766173718782014",
-"places": [
-"Nabatieh",
-"Zawtar"
-],
-"sig": "Nabatieh|explosion",
-"sources": [
-{
-"level": "B",
-"link": "https://t.me/MTVLebanonNews/351003",
-"name": "MTV Lebanon (Telegram)",
-"origin": "TV libanesa, línea crítica con Hezbolá",
-"title": "El ejército israelí llevó a cabo una gran explosión en la localidad de Zawtar al-Sharqiya, en el distrito de Nabatiye, cuyo estruendo se escuchó en varias zonas y pueblos del sur.",
-"ts": 1795033951
-}
-],
-"type": "explosion",
-"un": false
-},
-{
-"body": "Corresponsal de «Lebanon Debate»: Un ataque israelí tiene como objetivo la localidad de Kafr Tibnit, en el sur del país\n https://lbdb.co/902068",
-"first_ts": 1795033955,
-"msg_id": "1572766180840710196",
-"places": [
-"Kfar Tebnit"
-],
-"sig": "Kfar Tebnit|aereo",
-"sources": [
-{
-"level": "C",
-"link": "https://t.me/lebanondebate/298623",
-"name": "Lebanon Debate (Telegram)",
-"origin": "Web libanesa de última hora",
-"title": "Corresponsal de «Lebanon Debate»: Un ataque israelí se dirige contra la localidad de Kafr Tibnit, en el sur del país",
-"ts": 1795033955
-}
-],
-"type": "aereo",
-"un": false
-},
-{
-"body": "Agencia Nacional de Noticias: El ejército israelí lleva a cabo una explosión en Kafr Tibnit\n https://x.com/LBCI_NEWS/status/2123160605594947609 \n18 de noviembre de 2024 a las 22:05",
-"first_ts": 1795036091,
-"msg_id": "1572766187522101413",
-"places": [
-"Kfar Tebnit"
-],
-"sig": "Kfar Tebnit|explosion",
-"sources": [
-{
-"level": "B",
-"link": "https://t.me/LBCI_NEWS/325427",
-"name": "LBCI (Telegram)",
-"origin": "TV libanesa",
-"title": "Agencia Nacional de Noticias: El ejército israelí lleva a cabo una explosión en Kafr Tibnit",
-"ts": 1795036091
-},
-{
-"level": "C",
-"link": "https://t.me/alakhbar_news/100576",
-"name": "Al Akhbar (Telegram)",
-"origin": "Diario libanés afín a Hezbolá",
-"title": "«Agencia Nacional»: El enemigo israelí perpetró una explosión en la localidad de Kafr Tibnit",
-"ts": 1795036321
-},
-{
-"level": "B",
-"link": "https://t.me/NNA_Leb/224068",
-"name": "NNA (Telegram, canal no verificado)",
-"origin": "Agencia estatal libanesa",
-"title": "El enemigo israelí lleva a cabo una explosión en Kafr Tibnit https://co/url/1/",
-"ts": 1795036645
-},
-{
-"level": "B",
-"link": "https://t.me/MTVLebanonNews/351007",
-"name": "MTV Lebanon (Telegram)",
-"origin": "TV libanesa, línea crítica con Hezbolá",
-"title": "Explosión israelí en la localidad de Kafr Tibnit y bombardeo de artillería en la localidad de Beit Yahun",
-"ts": 1795038149
-}
-],
-"type": "explosion",
-"un": false
-},
 {
 "body": "Una fuerza israelí se adentra en la zona de Al-Krum, al noreste de la localidad de Kafr Shuba.\n\n\n————\nPara seguir las últimas novedades al instante, uníos a nuestro canal de WhatsApp:\n https://whatsapp.com/channel/0029VaG3H3R8fewmfDqRKX0Q",
 "first_ts": 1795069838,
@@ -623,97 +470,69 @@
 "origin": "Vía Google News",
 "title": "FPNUL: Alrededor de 35 violaciones aéreas israelíes diarias y 90 incidentes de bombardeo de artillería en el sur del Líbano",
 "ts": 1795132085
+},
+{
+"level": "?",
+"link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94M0FkU1J4X1lIYmNOc3RlSndybFE1Wlc1S3VvQkhFa1RLd1c5T2g1TzM0TEt2RWVxeE1waGgydXhiWmxtUHlCZVNxTUgxNW8?oc=5",
+"name": "وكالة سبأ (vía Google News)",
+"origin": "Vía Google News",
+"title": "FPNUL: Alrededor de 35 violaciones del espacio aéreo israelí y 90 incidentes de bombardeo de artillería diarios en el Líbano",
+"ts": 1795165995
+},
+{
+"level": "?",
+"link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94cGxUS0FqVUg2VG5COWJSdzY2OGl2MWJORjdNaGZWQmg5Z0VXc015Z1lKWmxYc0ZVdnNrWEs4TFo2cFQyQl9QaGhwcjFjU1k?oc=5",
+"name": "وكالة سبأ (vía Google News)",
+"origin": "Vía Google News",
+"title": "FPNUL: Alrededor de 35 violaciones del espacio aéreo israelí y 90 incidentes de fuego de artillería al día en el Líbano",
+"ts": 1795172908
 }
 ],
 "type": "artilleria",
 "un": true
+},
+{
+"body": "",
+"first_ts": 1795161748,
+"msg_id": "1573315788549394504",
+"places": [
+"Kfar Tebnit"
+],
+"sig": "Kfar Tebnit|aereo",
+"sources": [
+{
+"level": "C",
+"link": "https://t.me/alakhbar_news/100733",
+"name": "Al Akhbar (Telegram)",
+"origin": "Diario libanés afín a Hezbolá",
+"title": "«Agencia Nacional»: La aviación militar enemiga lanzó un ataque en dos tandas contra la localidad de Kafr Tibnit.",
+"ts": 1795161748
+}
+],
+"type": "aereo",
+"un": false
+},
+{
+"body": "El ministro de Defensa Nacional, el general de división Michel Menassa, recibió hoy en su despacho de Yarzeh al embajador de Estados Unidos en el Líbano, Michael A.T.h. Issa. La reunión abordó los acontecimientos políticos y de seguridad en el Líbano y en la región, el curso de las reuniones tripartitas y las negociaciones relacionadas con el Acuerdo Marco, así como las orientaciones relativas al futuro de la FPNUL tras la finalización de su mandato y las fórmulas propuestas para la próxima etapa. También se expusieron las impresiones de la visita del representante de Estados Unidos ante las Naciones Unidas, el embajador Mike Waltz, al Líbano y los temas que abordó.",
+"first_ts": 1795177043,
+"msg_id": "1573315800951951533",
+"places": [],
+"sig": "UNIFIL|otro",
+"sources": [
+{
+"level": "B",
+"link": "https://www.aljadeed.tv/news/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86/596428/%d9%85%d9%86%d8%b3%d9%8a-%d9%84%d9%84%d8%b3%d9%81%d9%8a%d8%b1-%d8%b9%d9%8a%d8%b3%d9%89-%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a8%d9%86%d9%88%d8%af-%d8%a5%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1-%d9%88%d9%88%d9%82%d9%81-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1%d8%a7%d8%aa/ar?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss",
+"name": "Al Jadeed",
+"origin": "TV libanesa",
+"title": "Mansi al embajador Issa: Para aplicar los términos del Acuerdo Marco y poner fin a las agresiones",
+"ts": 1795177043
+}
+],
+"type": "otro",
+"un": true
 }
 ],
 "pending": [
-{
-"line": "• [Las alternativas a la FPNUL no deciden el destino de la ocupación](<https://news.google.com/rss/articles/CBMi7gJBVV95cUxQU0NMNEFQZ2h4cDcxOWRlOUI3a1YxZXFpVGhXVHlFTHVtOHJ4V05xR3Vod1k2SlhWV3oxSlVXQ3pKOGNHMEJhWkF1YThOSkxfbkJzYUZldEJ6WFdMcmZXMnY0NVd5WmxqRUxNRTRTN09KYkVoekE3clpOanZ5blUtbnJZZExZOExNSlo3ZlAzMS1xUTNudV9LaG9QYWt1Umk4WFJMWkdiaUhNMVhoNWhKdWlIbWhWT1d2dlRONndrUFRhb1dVMndaT21QYkx1T0lhVmdZZXhyaUtOZDNDLURBT0V3ZjV6elFXMkVVNFBMYzBGNHM0N0YtSVFlc1V6OGdKSy04NnRTTnJwZnJjRkQtRzRDcm5KX2xTTkVEVHRjQ0lralRzTG9uQTM5RmMtZG1mSHd3MEhyVkVoWXdyNUN4QjRKVE9XQU1tcjI0WDdQVDBpcHU3bDJ3QzVHaVUxYVhNOTNzc0lzWkhDcVdOUVE?oc=5>)\n-# annahar.com (vía Google News) · fiabilidad A",
-"ts": 1794993036
-},
-{
-"line": "• [Las alternativas de UNIFIL no resuelven el destino de la ocupación, y Waltz continúa ocupándose del 1701 con \"otras herramientas\".](<https://news.google.com/rss/articles/CBMipwRBVV95cUxQem1vLVBMRjE1RDJYVmVpWS1icy02ajdtbG5PWnhEUkFEX3U2V3RTQnVLdExrLU9qeXdRX0Mzb3hIUXlCZ3NFMzJFWk5YNW1EdGg4dEpiVEI2ektVaWdzWW54X3BHa0oyVWRRZHRVS1RzX1p5czZKcHhnZ3pkSVY4d3VvR0d5UnJfblFWdEhMY0dJNW5pZnFFVWJ3UmJ0YjJrdmpWQ2RqYTJKTTVLUTZ5NUJQMEUzWlZqMWxpQzlwb2pIVHNwRmFsbl91TndzbjRuN3B2Ukp6cmNCSUc4YzB1cUxqcnJTSEhSTmRZblI2LVlBX01KSXhRVDIzQi0tTks3TWpOSDFVOEVEanFlZXU5Y0I2MzBRSnNHNWx3dExBMk41dFBndXp5WHdQeE16ZVVYNW1QNk8wcEV3TjZOVWtJX2oxR3hpT2t4UFR3TkY0WUNoeWxGS1VFZHR5S2hwdmNrR0gxX2JqdWlNZ2NRekxFSjBCYVJTTmZUbHRudUEtcXBkV0VKU05oaTZwZFNvenhuUFptdmFSYTdBa3BPUTFCeFlSWXRQRFEzM1NiU3gtME05c1RPeGR6WXU3a2NrNlhrSE0ybEQ2ajZGVkJNeGVqNk8xQ29vUl9VLTdhc0VIaHFoRW53aFdTZmRhR01qT2o1RFBURTVxaEFoYlBQRW5QZF9sVGhPejN4QlNzdUoxYlJyMndWX2JhQ0szd1NsZXRnNGMwZWNLMA?oc=5>)\n-# Lebanon24 (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [¿Qué gana el Líbano con la Resolución 1701?](<https://www.annahar.com/articles/annahar-writers/367261/ماذا-يستعيد-لبنان-من-القرار-1701>)\n-# An-Nahar · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Sabah Al-Nahar: El Líbano se enfrenta a los derechos de la FPNUL... Putin va a una cumbre tripartita y continúan los disturbios en Estados Unidos](<https://www.annahar.com/lebanon/367462/صباح-النهار>)\n-# An-Nahar · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Una carrera franco-estadounidense para la era post-FPNUL... una guerra psicológica mutua entre el partido e Israel que amenaza con la guerra](<https://news.google.com/rss/articles/CBMi6gJBVV95cUxNREpIeVMxSS1TaVdPMHItdHFqT0JLSXU2UVlPdURpTUQ2bUVlbkRUSVBzeFJ4MTVEdlhPNUhjWXBld2h2U1FkTm5KX3ByamxvT3d3c1VEUFE3YUVaQlMyU0ozeUdUOFJFT1pzdEVlcWFIOTBmZkZ5N3dzeGpWMThSTWFMV0NBUWlhZDBUNlp1NlR2cDVOWE9TcDRRWXFWQjd4Q2kxemhpaTR5R3FMVGZIWUM5ODVQTmpNazEtN3k5azU3aW1KYkdLNkRfa1ExQnFqLXAweTFIeWtGbG9qeDVQZjcycnVHRFFSUW9qNU10Ti1CMlJUeVpnRDc4anlDLUdXaE1Hc0g1WmxYM0lzV2VBWGU0WjBjQklDaWpzN05DTXFNdXpEcG1ndGJpUUxnS0I1c0NSa1hWU3lLcDY3RkJJRG5USzc4UXdVNHVpMUZ0TXU1eVo5QTg3LWZtaFJNN2Z6YXFITEdJVGlKQQ?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Un vals en el Líbano para discutir la fase post-FPNUL](<https://news.google.com/rss/articles/CBMiogJBVV95cUxQR25kQzRZNzRHSkJyemtnbVJYYWJ0RVYyZHBRcmpTbU9WR2dTbnYzY1BFN29ldFZ4YzJTdzFlcWtiWWs0cERQckNrRzVrSUpNZnF5SHhTY1duUVlKcVFMSjFpTU5PNW1MeUNuQ0o2NVZrZnlqdDJjYl9pVnlWTDZpNnA1RVNRY19MX3NRNW5qdlFxRDFzNlZKaGlVU1hoNklDOWVQNWtyNnZNal9jeFBrdzJxTnFWNW1lUllibDhtUDFKS05HbXFVTXJrZ19FaHAxWkRqTE90RWtVb0lzM3dSOGFheF9NMkxJbEUtTGUyeEtXcTItV1h5YkpqVm5GWk9iWGJoQXYyekNEcHRsMUNJWnRIbGgycGowQW1CWmhYa21aZw?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Fuentes estadounidenses dijeron a Al-Diyar: El fin de la FPNUL no significa el fin de la necesidad de un paraguas internacional, pero pone al Líbano a](<https://news.google.com/rss/articles/CBMiS0FVX3lxTE93WVM1MS1LWUVIQWxibDA1bkpmTDhVS1prRWVyVjdYZ0dKdFlZTFFtRnlKT1lBOEh2eXJybF91RGFveGliLWZIdXNqYw?oc=5>)\n-# VDL NEWS (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Todos los intentos de ampliar las fuerzas de la FPNUL han fracasado debido a la negativa estadounidense e israelí.](<https://news.google.com/rss/articles/CBMi-wRBVV95cUxNM2dmTndmZVpHXzlhbFJZbnVJNUw1eDF6MDRVcXBHbW1RV0o4V1RvbGZVY1MzU1dpZFpwbWxWMHh0UXpBMTczbEgtUDI0RkxjSVl4UlJHRFN3YlE1QUVYdTM3M0c2dkNUVk9YT25rODNXS2d2aUIwb2JFOG9iWEQ3cVJUQzBwc1VnbHJnc2hnaEYydzVCWmFkclliYjlOT0xMb0JkSE9fWnVrQkVjMGxMNkdJajJTUnNPbWpaajkzWFVPZ0JJV2NnSzFlSmtqYnFYdVRkYlF3SWlaLWl6dVN1S0Z3WEtWRWktY1VwOWl3b3NIR1ZTUkZXWWtOS3BpQ3RZZkFFSklmNHpxMkpiMm5rR0FUWWY1XzFHVVhQNEpsNWw3TlRjZnl3eTZJZmJyTTVvZjU4U3JmNEVSQUxYb3NoVks2MWJnZnRLd2hCdmU1UFd6QXdOSU45dVMtcFhIVXBOSTVhU1V5T09RdVhOUGllTWhSUWhneXRBckM2LTZPV2VxakF3VUlKRDVmN19FMHhmZUV1MVVVcjh2MEZ6a3VlSHhCRjV1ZXQ2TzhsNU5ETFhmSnhrbnVGSGtaUXl4bHhEQVdkbEo0TldXUmhzLVFUSHRQdjhCRnlaa1RpdGRGXzVqcjhKOFNOVVZfRFExMWlHV28xcDdHLTNHWEl0T3NCdWlPOWZIdXlyY3YtUk9MQ0ljTGF3X1FhMXQwUjE5ZGV3SGsxUFM0NHhMYmY2X0dRWjZ0SWxDM0psQXRVWFoyRGNIeXZqQmxLNXlzTVVXeXFNSk1KaE5LUnNNWHJyekNXcUVKV2syMHRxQllvX3Rvb25XOVBMYnQ4cG1Gcw?oc=5>)\n-# tayyar.org (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Washington somete al Líbano a una prueba post-FPNUL](<https://news.google.com/rss/articles/CBMihgNBVV95cUxPUlZfcXJHR1RFSkhmWGlxSDlnWGlXcFk3dTFtZ2p3cnp5S3VxY291N1hhV2ozYjdFWEJCVHFldmpaVkpVMXpOR1ROQ01CTjZydVNZb1JmbUxRNFNfREZJcjd4b1hFeGpReGM3V1dtWXdLeVJpaXJWS3V1Yl9aUk1adzFrNElQNENlX1JST1F1dldrMWJheWpjb01MOHRqeGZlTUduS0tFaVBMWjlESnAzUDlpV3FhTUNJODFhX0FqUW45NmQydjkydDFGT0lvSGtpWmV0ZzVSNm1WdW5LZHdRQ3hua0hvb1huWllqcE5UWnYtYmdRaE5YNWxwVlFJMUlkbm51WENReXRzRTVEUVVFcnllXzhQYjJNbHowMGc3S1I1UEFXX19lOUFQNXFNUHNkeXBnQVFjZVFJRmNleXBHbnA0NndWN3VsVEpfQ2gtN3FCMVdBc0c0RTJ0czJWN2Q0WUVPUEJjVjk3MG02cEtHc0tvNFpoYUZaRWkzWm5pZ1lDYUFWSGc?oc=5>)\n-# الديار (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [¿Ha decidido Waltz la posición de Washington sobre la alternativa de la FPNUL?](<https://news.google.com/rss/articles/CBMi8wJBVV95cUxOY2tGdk9NNy1xNkdmbmgtREFqc3RYY0ZlY3FPcElXbUJIa05ieVY3WWJDY2EwNFgweXFNWXg0TkEtZU9USEpTM3pVRVhFNFZMaEdaaXd2emxpQW9pWkQtLW5RbUtiNDM1ZVdpc3p6aHBWcnJsZTZoRzR1RmtwdjB0b2lVcUJvNFM1Y3JxRk8td1J1cVJWMHZmTWoyMEpKWnlNcDF2NlA1eUJPMVNRMHZqSjlYVFBXcVZReXN0X0thWFNGcWNSMFVBODc0cXhBVzlpWTY5OEpfZHhKNGtSdm9JVjNSMzA0Y2NxalJXVDMwc3ZIWjNNaGk5Tl9EcXhkcDJxTk9PSGVMNTQ5WFR3bnFvUnFRRG1Td2lTbUJ1NmcxSHZSRlhIWWR4SjZab05fRlpoZzFPekQtNEhTNG5rcTlsb3NxcTlzYkhXYVMxblVLazl5c0ZidEVhNmw4OGtrMjY2TnkwRzlnLVdfaHhZYU9wLVYxUQ?oc=5>)\n-# الكتائب (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [¿Por qué la reunión de Trump, Xi y Putin esta semana no será \"Yalta 2\"?](<https://www.annahar.com/international/world/367334/لماذا-لن-يكون-اجتماع-ترامب-وشي-وبوتين-هذا-الأسبوع-يالطا-2>)\n-# An-Nahar · fiabilidad B · Arnoun, 9,7 km al SO",
-"ts": 1794993036
-},
-{
-"line": "• [Después de la FPNUL, en la mesa de París y Washington... 3 fórmulas y la alternativa no está decidida](<https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFNWpVLS1uZmVRUDBnV0ZKa2NZbm12LVNkRU1ybmNNLUM0SUhXQWhIajBVWDVlRTdOUEJ1NHlGZmJPNVRsWnBqcUhVM0hHZw?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Una fuente diplomática dijo a Al-Jumhuriya: París está intensificando sus contactos para preparar una iniciativa destinada a garantizar que no se prod](<https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UTTNST2tSMmVIbzV1cHpXTDBObDJtTVhXMk5RRkFFbzdSTHQ4R050N1dFN1M1OFZEVlNCWTVHa2Z5bWdTME5lQUFvMVl1QQ?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Emiratos Al-Khaleej: El Líbano está buscando a alguien que llene el vacío de la FPNUL mientras las fuerzas israelíes continúan sus ataques diarios](<https://news.google.com/rss/articles/CBMitwNBVV95cUxPN2QxZUxrbVQ2X1JFQm5LelpNVWRZUlJxZmNNUVlQbm0zS0ZjRXUxUTYtSXo1bE9TVTNOTTRiVy1XMDFuLU5NVjIyZWRSM0NnVEdZTDRDSHUtVEtydDFCUG5KUlYxZkVSQ1luYy12ODVoSG4yd2s1c0EwN3lLejNaME5sMkRKcDU5RTV2VUt5YXhSeGVoYmZvSWhnZmxKWEFEQ0FST1FTX3N5ZExLVGMxa0lQTlZaVjZ1VnBYTTZReVFBdzZJcmJVV3UweWlPTzlTc0w5ZERMRTNlQXB6Tno1NVpzeUVmZko5c1ZrcUVhbnZJcWVJQmlsblQ0clJkZ1k3RXUzcGxOeHF5OTRvSDlMWlFJYzN6MDk5cEotUWI0amY4bXhrUUlqY0w5RllXUXBnamJhalRvaUV2M1lhWjdjWmdLcEFvM0NlMVI2a09FV2tyVWF0d3JBVjBGQjlLQTlkbnVUaDdKWGhpUlBWcGhmVnZTNlJDV2o1QmtCNGFIeEJKTmFYekJBX2JDeXprN29fUGk5TXpwbktsc1ZZYTZhVUVGWnVEMHFmVnFRb0VhaXB2ODJCZzNV?oc=5>)\n-# Elnashra (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Alternativa a \"UNIFIL\"... ¿Waltz reveló el enfoque de Washington?](<https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6Uk55U0h0UGpIUkdpN0l5by0tN01iYWxiR3g2RmVwS3JpT3hOWS1zbFRtUkN1OHlJSldaTGhBY01ZUV9YWjRFSnlVUUVMMHVXQjZYMXhoNFlOVE5VTzhr?oc=5>)\n-# Alkalima Online (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Hashem: No hay una posición final en la etapa post-FPNUL.](<https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DNXlMZTE4M1hrdFlMdkpiY3lNUVZwbks0M2ltaFRNZndBRWdoYmx5YlkyRWhWR0FIMHBOaHctTm94ajFnV2diOU9GMA?oc=5>)\n-# MTV Lebanon (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
-{
-"line": "• [Hashem: Cualquier fuerza alternativa a la FPNUL debe operar bajo la bandera de las Naciones Unidas](<https://news.google.com/rss/articles/CBMihARBVV95cUxPemNpbkVDNklEa2lrTTZ5SjZzQlB2YmhLOUZ4enEtX2l4aTI3Ti1pU3NpdWR4MllnV1JzanZmMzFlYTA2NXgwRktCVUtiWmpIQm02aWs3a1BuSm5pbkp2TlpZNEptem1LTmFnazRheGM5LUU5LXRhQ2FsUERVdEh3TUQwNlNhM2RkLU1RUFZRdnBmTDQwaDVaejZOR0hIRGE5SU0zUUkxSUJFTzE3S19zS0VPTmwtYkVBVTdLSGRYeW5jWFllVk1tSy12VkRjR21HdUpTVGtOVWtNdUdjM0hfTldMM0xXZ1lSTmhqMDg2NmlkRGgwVTBlM1JhclBDSWRPdnZuazJZbWJpeXMyTFpKNGZxaFhrY1B0eUFkOXFjemQwdS1wX2I1WG93bTZKVWhTRmk5QnhUSExSTHA2eVc2R1JzOTFJUjlnWUJLbnZkSkVKcE9hWHBKbGJkWDFlTVF2NWNUUmtFOFI2R1FjUG95YlotaUFfdjJYS21XcjVyamt2NDRKUjZwT21pQWkzbHlOczVweHU1ZmJsLUpBdkphcF9MYjRaYXh4NlA1WHhnVHc0OHAtZEVrUmxVcXJGeTJqMm1qTGtnNkZ6a2lZUEp2WDdMWUpPSzU0OWE5dEtLZHhrdjB4RVJKTFhtVUFxaVBIbDNRWHd2TWpUal9yejI2NUpLcjY?oc=5>)\n-# الديار (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Vídeo - El ejército israelí: se encontró un túnel de Hezbolá en la zona de Shebaa, en el sur del Líbano](<https://www.annahar.com/lebanon/367505/الجيش-الإسرائيلي-العثور-على-نفق-لـحزب-الله-في-منطقة-شبعا-في-جنوب-لبنان>)\n-# An-Nahar · fiabilidad B · Shebaa, 13,0 km al E",
-"ts": 1794993036
-},
-{
-"line": "• [\"No es opcional\". Mensajes apasionados del enviado estadounidense desde Beirut sobre las armas de Hezbolá y el futuro de la FPNUL.](<https://news.google.com/rss/articles/CBMivwJBVV95cUxQYmVGSVA5OUpjb3hwTU0tVEtaRG5DcVNvdUJrQTNwTmpYR3N0ZlY4ck96YW44WDB5WU5jRXEtVkxqYWtfMkE4S3FDczQxMDZpUWlGXzd6NG5GM3VxemtkblFtNU1UWkUtdWp3b183NVRVeUdzMl9fYWVHVEVnZjliQXBDeFVrMU5jc200MDhUM3Y2WlpNaXg4NENySk1ucnNaZ0dlSXdfUGxsTk94U1Q5YVI0Mk5DQXFqcnB6WFN1LUcwTEtwQWlVLUVta0hta2VHRDBlZlBKR3hBT2tjMzY4Vk82ckdPMU05d3NQT0dNTGtubFlFWWRWV3RlMEVZUHN0TkFjWDhheGd2TFVxSVZlSHFlQ3J1QzZad25jaVY5NGdRWGVXZFItZGJqeHM5THZvV0FxMkQ2WExsYWx1MUpr?oc=5>)\n-# جنوبية (vía Google News) · fiabilidad ?",
-"ts": 1794993036
-},
-{
-"line": "• [Urgente | El ejército israelí: Destruimos una vía subterránea perteneciente a Hezbolá en Jabal Rous, en las granjas de Shebaa, en el sur del #Líbano.](<https://t.me/AjaNews/521962>)\n-# Al Jazeera urgente (Telegram) · fiabilidad B · Shebaa, 13,0 km al E",
-"ts": 1794993036
-},
-{
-"line": "• [Video: Un túnel para la “fiesta” en Shebaa... salas de mando y más https://t.co/d8tZAQAn0N https://t.co/2IvXM1sfmS](<https://t.me/MTVLebanonNews/350878>)\n-# MTV Lebanon (Telegram) · fiabilidad B · Shebaa, 13,0 km al E",
-"ts": 1794993036
-},
 {
 "line": "• [De la FPNUL a una nueva fuerza internacional... Detalles de la propuesta estadounidense sobre el sur del Líbano](<https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYUlEZllTZkl5RG1kYUpfZzZ0aWJ5bElUY3Z5TEU4WkFwYWtuRDdXLWJ6c3hJcGh3MWkxVXNkNFFwSkhYUW5PRlZrNTExVC1nVG5EU01sbmJjV01WYUtObjJPTHpJQlZQblA3ckxEVWVNTUhJV0RYUXNaLUNmSGsxM29Wc0xGdGI0R2JlNXJQYk1QV09tNTFER1dEeDRuWXdIU2FmT1JIWWQzNVlRd21GYjFkLVRPWXlnU1RxQkdkbnI3eG1GdEg2dEQzWXFscDNQSFNsMUpFSk8zOUUtQzVhbkpxLXBjZi1HLUFIZXVZMEo4eHU2M04xd2ZsMWdHS3lVX29sREt4SGszeG1xYTBCQ1Y3UUMwd3V6Wk0yYzNOU3ZaYTUzVG9vdlpsMmFyejRmRWFtM2d2a0RKbGYya19mZkhVRXdLTmdGbnRkSjdjV1VjUQ?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
 "ts": 1794993036
@@ -1205,6 +1024,74 @@
 {
 "line": "• [«Comprensión estadounidense» de los esfuerzos de Francia por crear una fuerza alternativa a la FPNUL](<https://www.annahar.com/lebanon/politics/367986/تفهم-اميركي-لمساعي-فرنسا-لانشا-قوة-بديلة-لـاليونفيل>)\n-# An-Nahar · fiabilidad B · Nabatieh, 12,2 km al O",
 "ts": 1795147112
+},
+{
+"line": "• [Consultas entre Estados Unidos y Francia sobre una fórmula viable para la etapa posterior a la UNIFIL, y Washington intensifica su presión](<https://news.google.com/rss/articles/CBMixgRBVV95cUxPX0pwVGxpZ1I1Y0pMY1RvNnBlOW15MmlUc1I2UnZBY1VHSUNVLXcyQWotUWI1ay1jVjhSSkxnbm9sQjVxVlFfUFM0cnNGT21zY19oc2tEaGZEc0F0MndlOU1zbzBiSjFLLUVQQjZjSXl3T09LdnJnQ3VBRmp4VkRSbExnWWlKd3pMd2V5OGN4Q1ZPX0l0NXBkV1VWSVRMbmdZQThzbE5jTFlwS3B3Y2s0ZEE1RWFLdW0zbXl4bUplZmFwdWxfRGtfdDFlSGM0NnJweVZWZ1VWTXRCS2JMeUdTT05Rb0UxY2VYYmc0dGRYaDdQTUF6bTRDM1dyTmI5dnNfa0RISklpT3BxZTE0Wl80NGVYNms3TWc2Rm4weFhBdDlTZ09DYXI4NlJJR2RNaXJSSEhzZFlUWmtRbksyVFN2Sk9mclItdnlKcnlIVEtIZW5fWGhlSlpDYUFWVUw0WDNDYW1RU2hUc1lIejRGbjZ6ejBWVXUyel90R2tRWXZzZHdvcUI0ZWQtX1VhbmV0bTBfaE1GUFd1TnBCbFlTYTVkMmRwazFoUlExT25CTlV3Q3hqbklSTkZTQ1hwVnQ4RVExVVotNWw2RnI2MWJRbEJ3SDllNTFBUnF2c3B0QnB4ZnJKeVc5YmMya0k4NE0wRDdhNWpDa0pKX0tqRjZ5MDF4X3VVb25VVE9lZzJJY0FkSU02eFRwQV9GWGJQTDB6NF90aUlpdVlIbktDX1d4SWkxRFpYNm9EdGpUd0x5Rm96SlUweW9iaVE?oc=5>)\n-# Lebanon 24 (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Fuentes políticas a «Al-Diyar»: He criticado la ausencia del Ministerio de Asuntos Exteriores libanés de la escena en este momento tan crucial, especi](<https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qODhDNzBUVEZUM3R6NnFOYTJBV196R1duMG44a1pSY3dVbGJXQ1VwV0MzMWJXc0k1SktPXy1DRXJwM1VLVXhxeWx1QUN0Zw?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Advertencias sobre la etapa posterior a la FPNUL... y la ausencia del Ministerio de Asuntos Exteriores plantea interrogantes sobre el destino del sur.](<https://news.google.com/rss/articles/CBMi5ARBVV95cUxPdzk1RDhtX2Y2aDFlWkp0bHdDd1lXY1JfSlVtdE9ZT2ZNYk5zRm1obDdJeG9yb0hXZ29wN2xYZXFkMGgtWkhBWUtnd1JzUWdYSWdsWGR3bFRvZ2JUYUk0cHkyZld3NnZyMzRQYmtaT3JKcnpiaGc0dWhOZ28zblo2bDZCY2tvd1hoRHY4VWlpZXpOdTR3VWN0ekNFd081UEk2a3ZKSzllbjdCT3RTdGRXVmhfSG85Q1NaZzJDVVZ1bVFNdnNUTnZHWUVxZUxYTUNKWS1iOFlZa09LU2RDNWw0NXFreUdwY3dYYWZjcHZJa1QtOTRGZnY2SjVCQ2pmRmczczBNd1huZkJzTXhrRGFaaE1LLXFZOGVSdnY1UkxOd3hKaDlCdmFPb25Kb0tPSUJwVmNORGJ5cXJENkNSRjVCb3ZxM0NPNktlQU55Q2Fva0stWmJieV9FczdSaXdzY21LbkRKNk1PWHZxdkVGQ1g3Tk5MQ0ZMS1dXcjBOYVdCVlBPUXk2UXhfRF9uT21MRTJoYjFaSURQMzMxRk1DWWNsZ3l5c2Jvc2dvTnVDYkVxV0hySFR3ZVh3dkJHdXk3NTRLbUtmNm1lZWZQUmdZUklLTWRSd3JpbTVoakZQMER2Q2liSzBMY2h0RElNZmlNVDE4UW1xcDVERWlFUE04RkM4ZHJic1FOajNpZldLdURmdml4akNfZWRYQksxSHpELWlrTlJJOG1KVERsS1lFNGFLTFh6S1VGaVBKWUY3X3kxRnE2WHNLNm5nN0owRko3bVRlYXRfZXZUOF9wSkdKT1AtcmZPOUw?oc=5>)\n-# الديار (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Más allá de la FPNUL... Concesiones francesas a Israel y una propuesta estadounidense paralela](<https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SRVd2Sld5ZzRVMUQzYUNLSUFpejJJTjhlaVZVTnFsM19NeUNWZUlMRVc4dUYxZXpLam4wcjlkNXlSRURNVnMyblhEQnR4Zw?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Después de la FPNUL: los corredores humanitarios deben seguir estando en manos libanesas](<https://news.google.com/rss/articles/CBMi9wNBVV95cUxNandDTm4zZUpaN1YtNDdQcVZQenlxcHJ6X3dXS0h0SDlOQ0FRU1dkU1hGVTNBa05zdzBGUkY1aXpqUFpDem1OdW44aTU2VGhrQzRmSExoQkE5UV90d3hNYkZOdjY1QVU0ck14NXV3MlltZ2JteUtmLWJpc183MlJ1bExvb3Nqbk82dHFVMUxtTEQyLWVPSXVxcXJTQnlFa2M2UXN3VWRuMjhtWWYxOGFvdWJ3WUtOWEhSWnQwNG41a0JZWmk4QTVpWHN6bUVVTDFEakZZWTI3d2V5TDVfOE9nVS11cVBhSEFTWG54OWlqWGwtcXpjQzVRR0hDVVBXSTNzY0YxZHFkU3lfU0hhXzRzdnpEVGRXdlkxMnB6TUNKb01pcjczOE95c2pLd3RQZTMxcmRrMkNUWlJIOEVMdmNEWWg3WW05MGJjQTE2b2MzTldoY0plQ0RKeEU4R05FNmV5dmlIZUtUWTMtaFNFbmtrWUlZbTZOdjRxU1NEVDYySG51V05pSXFmdEdDOVhER1NQaWptS1Bqb1hsd0xzNEFEVHJaWXBETlo4bTlZYmhGOHRCOUh3RjRwSjhOdUpuWGRYU1llVHNMN0pHaE5XTUo0di1keVhmZ3NleVFBY2N5NEtIbGs1cnZ2eXNkaDFYOXRqcllfQ2NKSQ?oc=5>)\n-# annahar.com (vía Google News) · fiabilidad A",
+"ts": 1795178098
+},
+{
+"line": "• [Resumen de prensa del 20 de noviembre: el sur del Líbano y la etapa posterior a la FPNUL](<https://news.google.com/rss/articles/CBMiigFBVV95cUxNOXBwTElMN1pBVXQ3emM2Rm12MTJlcF83aDJocDRpdmlHQS1HLUFvVFZTbVFVeVE2YWd6X082NDRGSzNrUm9Hc20wNlJKc1pnYmlKa2tPNEFCdl9tMVJfcjFqcTRMX2FWVDRhaTUyM01qcm9iSkEtTlBMbExvTmM3M2F4cV9WOTRiWnc?oc=5>)\n-# Libnanews (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [La FPNUL observa continuas violaciones israelíes en el sur del Líbano](<https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uci1hM0xrS3JHVl9OX2Fnb3AtZ1hjQkpjMGY3MVVmTWx2ZnhxTml5RTB2ZEd2aVRFc1pseHh5ZEdzNkxpcUVYcDVKZWxLVk0?oc=5>)\n-# سانا (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [La ONU reafirma su apoyo a la fuerza en el sur del Líbano a medida que se acerca la fecha límite para su retirada](<https://www.naharnet.com/stories/en/323913-un-reaffirms-support-for-force-in-southern-lebanon-as-deadline-for-its-termination-nears>)\n-# Naharnet · fiabilidad B",
+"ts": 1795178098
+},
+{
+"line": "• [Después de la FPNUL... ¿Quién llenará el vacío de seguridad en el sur del Líbano?](<https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUHhPcF9KY2ttenBOVXNIVlBBOVdBRlpLNGVBbzlrcGF0ajFHdlU2UVU5ZzhmYTVkR0FQcEhtcWhIRkJlNVhaVjBRdUhSZGhlanhla3pxYWRRUnJ1a1c0?oc=5>)\n-# Alkalima Online (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [La FINUL denuncia nuevas violaciones israelíes en el sur del Líbano](<https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hS2J0OTVvUlBjdE1BSW9sMXY2WjBCU1FoY2RaYkhYNTd0emRrTElsYjNmeTNfVnp5Rnh2YlNoc195OVJsZDM4dkQtUXBDUFNO?oc=5>)\n-# سانا (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [La FPNUL prosigue su labor mientras las comunidades se enfrentan a desafíos continuos en el sur del Líbano](<https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUlLSUNaUDFVZmJZMjUzZVlnUUNRRmh1Vjd2ZG1ucGYxUG12WTlEcXQxeGE3VEdEcWk4MGNZVVR1M01VVlFvRkhXMlBQbzN5cWNEZGRiX1hBbHVXRFh5My1TZ0d6NUQ5QWpMS0YzRk9sd0xSVjhsWHZtUGZhMm45dmNwWmt6MFBJYzJDTGpFd29IN25YRFZNUUJ0emFSOUlYdHJiWF9wTWN5dFExeGlCNUkwdmpoR2F3b3J3?oc=5>)\n-# unmissions.org (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Después de la FPNUL, ¿qué pasa con los observadores de la ONU?](<https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3BHSmdoQUNZVWtZc20zeEliUG5jNzNhSU5RRllYYVNBbFlmT1hrMFhuVGJWZHpQR0kwN3NQRkh2aGV4Q3dQVUNjSVpMSk5qTkVLQXk4X3FlN1ZUUGRPbUpWWFNLcGctYWdvekJVWTZYNTZGY3hhN1FMZWhoYkFEQnByOA?oc=5>)\n-# Libnanews (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Violaciones sionistas en la zona de operaciones de la FPNUL en el Líbano](<https://news.google.com/rss/articles/CBMioAFBVV95cUxONnR5RG1iU1lQd0JkOUdQdTJvWVZDRktsUjVFQUd2RFNJWmxxb1BWMFBqRHQ5VFZWcHNmNElHZzJvd0FZWWNqVllyeGhnakRPSnJkQUVheENOLWxEeVV6emFwS0RxTFplU3hWY0VDb0NvTTltalotTkdqdDVudjhZMkJsdUpESlktdDdsWW9uNlNoX2tsbFMtWEVCZmljNHIw?oc=5>)\n-# www.horizons.dz (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [El Consejo de Seguridad respalda los esfuerzos de paz en el Líbano y pide la protección de la FPNUL](<https://news.google.com/rss/articles/CBMi-wNBVV95cUxNbGQ2ZlpzTWxVMDJNQ3hZZ2tPNjd3NTM4S05PU29ZN2NwVGJPNzkyYWVMRzJoVWRoY09Eakc5NThuODZ0eC1SWXlTZmY0alpaV29KMnFCNjR1X2g0aEhTMHlTUFF4V25MSW52OUxnT293TEI0dEtpZzJJaTI2ZF83R1VucHNJZ3pzYkVfRE03cnkxRlRabHRKdExkRUJZNFFXemFZV0QxZmNjN1NHbEFXSE8zNnRnSmV0RERKVEFhVkI4YkRGZ19wcWNNVXh4WUltVXp4bEdJc0ZwTmt2TnhZVGFnbUpqZ3plY2VCZ0ZIMnhkUHJtN2Qtb3BOd2xuSW9MazhwSGNDVVNQSVNfdGhLVnQ5VGJvSXBTdXhpVkQtTF9iR0x6dUJUMzk4bVhPUFF3ZkFQeFZ2LUNNWE91UjV4WmRQZ1pPb2dSSWk0cFJpWVBBdjEySWVpaEJHR2h4eHZ1VzB5M25DeFNLX1ZpcmFsV3JuelRCZ1BzRjlNajRpcVphRDNTQUttWUFHVGRiNGJVZGcxeXpsQnV4a3c0MUVDVldMb1J3TWlpSnFIaXNpcDBFekZKbm9xU2hUT0x2ZGJOZU94dlNnT0hRYjZqd2diT01SMUMycjkzTmlfNlFGYTN4d3gxMGVrRE9VclJsWGwtX1Q5ZDF2SXBqOWvSAYAEQVVfeXFMTnhIVXZJT3A2ZS0yNWdOZWk4QkxxelotX2tZU2JoYXN3UGhyX21Od0Y1UGVWYjhudnZYRU4tMmE5am5kZ3RlVHJ6VUlLNkwyaVdoMkd0SUxGZWFuUDI0SkRwM3RzZnFmc0dKc2hsTnZPMkl6aVB3REVJd183MDNMV0pFZW1Ea3JDRzdrNjhuc2FSME5kWVFGb3pEdFdoaU5WeXg0cy11ZXNnUWRWeHprT0YyYVdyUkdxRUZRbEplUlJvRkhHR3VKS3lWR1hjLTg3Ri0yV1FOcEpaRlFtaUtvNXE1OUQ3V096S3YzN2libW5YZFhQSWczQkpUQ19EUFpaWHVfVzliOHhVM19HX05BaDlGaFVRT09CRDBKUkRNdVZWWTRjeFltRU9EQTViM3pja1N2ekxlVTdEd29vYl8zSnZDRFhFS0k5dWh6WXRkR0s1WmdCQVVEX0N6X1F2SzlvZ1ctbUdZbnNhd3pVNVZSeGhSUmxTRHZBYVhTVEE4MzM5WXBrMVFNeGpkM2kxeTJlU2Z1ZW9WVHNoNWdKOHRacDNoRVlYSXVoWjhPX0xNZi1nd0FlblZMcEVtenZ5cGdFdFJKb2p4czlMRk9VX3VkRWo5bC15SzBPMmV0VWJ3MzZFWGtVRTlNVWoyQnFlX0RzZVdNRzNfR1lONkhaMHhmNEM?oc=5>)\n-# المدن (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [En su búsqueda de un papel en Oriente Medio, los europeos presionan para sustituir a los cascos azules de la ONU en el Líbano](<https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0F3Y1JvLW9wV3hKdTF6Vl93cEtyamFFWlJ6eFBMYjFpZW5jNERvNEFya1BOakpvOTZ5UFcxbzhOODlGTjBmV2tXX3U5MHd5QTRPOEt2UzM3bGZlUGNnVmNnTWJKS2lER3pGSzBrM3p2NUoxSGlTUmIwUnlaV3QwRW5kVmZzQU1vb3czckVoalV2RnlyNjFNZE1PcnhHOERabU40?oc=5>)\n-# The Washington Post (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [Mansour recibió al embajador de Estados Unidos: Es necesario aplicar los términos del Acuerdo Marco y encontrar una fórmula para la etapa posterior a ](<https://news.google.com/rss/articles/CBMipANBVV95cUxQU3dJVWVleS1IZGItZUhmMDdjWkhaS19LQW95YzhLcmdyRzhfd01uWGRGcWl5bEpyZmlJdmJuR3BJVnhsQ0kzeDJzY0FnYjFxalNYS0wzeThDWWxUcFQ4SkF5MFY1RUlZNUdhLVRqYzZFTmFxbGZPRG42c3hzQTlMYmxTSGNFbU5NaWFKNXVyanh4clUxNGdyLWxXYl9sU2M2VkwydnRFLW5iT2dyMkxQSnR1MUtWU3FxUU9PcHFQTXA0VWN3MjludjRPRy1DcFdqY2hSUWRhZGNjSjE4QVhsQ3M2cjhER1QyUW5ySE5mUWxWWGlNR0tBa016N21wM0FRdHNwUEpONE1vVlItMThJOHdpRERmZ3p3X0lKNzI4U1FWRzNFQnVlMnFsZ2ZxMFZNaXEwLUZPWjQ0dEF1VHFFanY4U1ZiUEdudDBMVGFTRWJyeXNrdldfUjdST3BrWHBGLWZjamdicWhyR0xFcFJ5cmRJX2hYMDZmc2ZtbjB5Ni0yak9aMHlmaWtKaTN1WDVtQ1ZlMEtwa3Y0ellLSEdPTEJrQWk?oc=5>)\n-# Lebanon 24 (vía Google News) · fiabilidad ?",
+"ts": 1795178098
+},
+{
+"line": "• [🚨 La ocupación provoca un incendio en la Ciudad Scout de Zoutar](<https://t.me/bintjbeilnews/200922>)\n-# Bint Jbeil News (Telegram) · fiabilidad D · Zawtar, 14,7 km al SO",
+"ts": 1795178098
 }
 ],
 "seen": {
@@ -1232,6 +1119,7 @@
 "05c08d2c89e24594": 1795072828,
 "062985b1f9306e3e": 1794699678,
 "063a068f1c4eae04": 1794686298,
+"0715a0cfc02a35e1": 1795178098,
 "078f168ebf25fc64": 1794911969,
 "07ea0e97e1a42e34": 1794739382,
 "07fc55514ca11ef7": 1794943421,
@@ -1290,6 +1178,7 @@
 "127564483b4fd41a": 1794817931,
 "13021fc35e35dddb": 1794669538,
 "134660f184f2d7b9": 1794739382,
+"135c4bbc3d5c59a6": 1795178098,
 "13ca70e1a63aea25": 1794817931,
 "14069039f64b1694": 1794686298,
 "141e5e43cbda3075": 1795106364,
@@ -1318,10 +1207,12 @@
 "1a131c7e8c448198": 1795024831,
 "1aaec4bca67c30ba": 1795129978,
 "1ad2a80e6792dc1d": 1795024831,
+"1b482832e22ead6c": 1795178098,
 "1b73ca957eff107a": 1794763512,
 "1bc42712ab5235f7": 1794686298,
 "1be6153388da5dca": 1794763512,
 "1c38cc41acfb36bd": 1794943421,
+"1c4a8ce8a174f2a3": 1795178098,
 "1c5dea2eed1fe68e": 1794911969,
 "1c6b8937487f3a8d": 1794966198,
 "1cd2715075297926": 1794911969,
@@ -1408,6 +1299,7 @@
 "340c54db043340e0": 1795147112,
 "343b3f73fa14da23": 1794817931,
 "346c6db1068d676c": 1795147112,
+"347a6e0e33df203d": 1795178098,
 "34a8ce0529ed4d62": 1794855031,
 "34f8822f0cb51452": 1794739382,
 "354ef36ad9f76b7a": 1794855031,
@@ -1417,6 +1309,8 @@
 "368b2bccbc66b97a": 1795047047,
 "368f0c45a961eef2": 1794855031,
 "36a24932de92e96d": 1795147112,
+"370bef29d59251a4": 1795178098,
+"371d68e3c83327e0": 1795178098,
 "37806d47faee577d": 1794669538,
 "37fd6f28f8f68d9c": 1794855031,
 "38440f9d33d0deae": 1794669538,
@@ -1481,8 +1375,10 @@
 "4cfc01a07f272a8c": 1794817931,
 "4d05354f815b55e0": 1795129978,
 "4d2ebac635c9f546": 1794686298,
+"4d4732362d0b94e3": 1795178098,
 "4df46db99de3dfb9": 1794993036,
 "4e4a5e2d9918756b": 1794686298,
+"4eb98eb8f102a5b7": 1795178098,
 "4ec752a1304a5ce5": 1794817931,
 "4ecda24a964d5ce7": 1794763512,
 "4ed186781d0ad707": 1795024831,
@@ -1499,9 +1395,11 @@
 "50e621d7f17ffef1": 1795072828,
 "515e457e8c59c369": 1794669538,
 "51eee36b30b5cf03": 1794943421,
+"5214df3ced21bcaa": 1795178098,
 "524b8b37a0d73ff4": 1794817931,
 "529292d17642c5f8": 1794763512,
 "52b68144367dc1b8": 1794881347,
+"53568b3e38301196": 1795178098,
 "53568d65d4156aef": 1794855031,
 "53919e0e71c7d50c": 1794855031,
 "53ab1a7eca24d628": 1794817931,
@@ -1594,6 +1492,7 @@
 "72cfa6be70e2b38d": 1794817931,
 "72e25e951bae5385": 1794669538,
 "72e6c00e0def5299": 1794646595,
+"73915f6930ff0538": 1795178098,
 "739f9b5dcff47bce": 1794817931,
 "73aaa3428dac1e09": 1794669538,
 "73d0a51a5eeb920d": 1794943421,
@@ -1604,6 +1503,7 @@
 "75455a9e2cf5e9bc": 1794739382,
 "7629c4bf729a6a83": 1795147112,
 "7636eee0b1ca9ea1": 1794763512,
+"76e0e14e730b15d3": 1795178098,
 "771ac794198327fc": 1794669538,
 "77322ddaa426e449": 1794881347,
 "7756293fec94b039": 1794699678,
@@ -1627,6 +1527,7 @@
 "7c0f11c8996ef4e0": 1794686298,
 "7c15d0f0a81fed00": 1794699678,
 "7c701e8c3c798d62": 1794855031,
+"7caca47c40a9d593": 1795178098,
 "7cda156c57fca044": 1794993036,
 "7cefd99eaad57446": 1794686298,
 "7d0c6b372cea5c37": 1794855031,
@@ -1687,6 +1588,7 @@
 "8861099b4d4e3d0b": 1795147112,
 "88ad0ee221d6b7f8": 1795047047,
 "8919fa1615bb2568": 1795024831,
+"89797f81d41cbb70": 1795178098,
 "898d9915d66bd8b0": 1795024831,
 "89f24db2f766a39e": 1794943421,
 "89fdb1e1dea5ce09": 1794686298,
@@ -1720,6 +1622,7 @@
 "9285ebc9324b8e71": 1795024831,
 "928df749016cfcd5": 1794911969,
 "92b1c47010662015": 1794739382,
+"92c2c0625441a58f": 1795178098,
 "92e2df421af717f0": 1794779796,
 "93962c6eb29fc937": 1795129978,
 "93ce3cc06c2b0f32": 1794669538,
@@ -1733,6 +1636,7 @@
 "95c96345e74318e8": 1795047047,
 "95f3233fd1b33877": 1794881347,
 "964dc6a1ce39a972": 1794669538,
+"96a408fa3a5a63c4": 1795178098,
 "96b5caaaa3f1be6d": 1794669538,
 "97131cbc35ba9931": 1795106364,
 "97623464afc43f20": 1794817931,
@@ -1778,8 +1682,10 @@
 "a29c84edea81f731": 1794911969,
 "a3640685f1ba1f40": 1794911969,
 "a4133f6b22e9a91c": 1794645385,
+"a41d2932642ea41c": 1795178098,
 "a43311f7fd03cfbc": 1794911969,
 "a43fb90a9faab80e": 1794911969,
+"a45e835fc85d450e": 1795178098,
 "a500a0384b16485d": 1795129978,
 "a50587f048e12972": 1794817931,
 "a51f6bc0accae71d": 1794855031,
@@ -1817,6 +1723,7 @@
 "ad77df193822fe5d": 1795047047,
 "ada07ed8705bee32": 1794943421,
 "adb49417b13e28ef": 1794855031,
+"ae1282bdb7aa1baf": 1795178098,
 "ae288787a6f2bfed": 1795024831,
 "ae2ee863ec5f1935": 1795047047,
 "ae606dd6ee11f9cc": 1794669538,
@@ -1848,7 +1755,9 @@
 "b36a4c016d81919b": 1794739382,
 "b36b99c41efe8db2": 1794763512,
 "b37c6bcf5afa8dbf": 1794686298,
+"b3a224fd4df25a1b": 1795178098,
 "b3fde9111c386482": 1794855031,
+"b45d2d76287261d9": 1795178098,
 "b5235a797e776de4": 1794855031,
 "b67037aef613bd6f": 1795147112,
 "b67cbc3338f533bd": 1794993036,
@@ -1877,6 +1786,7 @@
 "bb7ae74272ada15b": 1794855031,
 "bb9eeed94ee7e633": 1794669538,
 "bbc94e558081cb27": 1794966198,
+"bbff8059c03367c5": 1795178098,
 "bc2fde71f44f5952": 1794855031,
 "bc5d993f49f58042": 1795129978,
 "bcb03ea9d821763b": 1795024831,
@@ -1929,6 +1839,7 @@
 "c96a8c01ab2e8f00": 1794855031,
 "c9a83dd8be07adf8": 1794817931,
 "ca22af76e381a2b1": 1794817931,
+"ca2f61cbe1199bd2": 1795178098,
 "ca3ff849c9f75f03": 1794686298,
 "cac967068ed206df": 1794817931,
 "cb05dd9859616a28": 1794739382,
@@ -1946,6 +1857,7 @@
 "cef67bcf3ebcd8de": 1794669538,
 "cf1143b60fdced06": 1794645385,
 "cf1a51a4edc6b9a4": 1795072828,
+"cf412530377f4fb3": 1795178098,
 "cf6a73534bba047a": 1794669538,
 "cfc626a20b6fe728": 1794817931,
 "cff9fc888dab21e0": 1794669538,
@@ -2028,6 +1940,7 @@
 "e3bb177fcbc77365": 1794855031,
 "e3c959067740aa4a": 1795072828,
 "e3cb89f68d7368c3": 1794817931,
+"e4481c4e68a6d001": 1795178098,
 "e46f833552a2dcf7": 1794699678,
 "e5252529f5f6e6a3": 1794993036,
 "e651cd4075546c11": 1794993036,
@@ -2076,6 +1989,7 @@
 "f0aebe9d836f778b": 1794993036,
 "f0e7af3fb757b078": 1795072828,
 "f125e36e4c9603f7": 1794966198,
+"f15755cf04723591": 1795178098,
 "f197ca457cf7b78b": 1794943421,
 "f1ecb3b6071ab84f": 1794911969,
 "f21d788272d24e4a": 1795106364,
@@ -2083,6 +1997,7 @@
 "f2d55a3d714132fa": 1794855031,
 "f2d6ed469a602822": 1794943421,
 "f3447baa664f33d0": 1795024831,
+"f36bde80286cf5e5": 1795178098,
 "f383b4c7236b8097": 1794686298,
 "f3b89f5cc28a453d": 1794855031,
 "f442cd70401a9a8c": 1794911969,
