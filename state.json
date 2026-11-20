@@ -1,86 +1,6 @@
 {
 "ctx_titles": [
 {
-"title": "Francia debate la permanencia de las fuerzas de mantenimiento de la paz en el Líbano",
-"ts": 1795047047
-},
-{
-"title": "FPNUL: La observación sobre el terreno en el sur del Líbano continúa · Daily Beirut",
-"ts": 1795047047
-},
-{
-"title": "La FPNUL inicia su retirada del Líbano... Estas son las principales alternativas posibles para el sur del Líbano.",
-"ts": 1795047047
-},
-{
-"title": "FPNUL: Mantenemos una presencia visible sobre el terreno a lo largo de la Línea Azul para seguir de cerca la situación sobre el terreno.",
-"ts": 1795047047
-},
-{
-"title": "FPNUL: Nuestras patrullas a lo largo de la Línea Azul incluyen la observación de los acontecimientos y la notificación de cualquier violación de la Resolución 1701.",
-"ts": 1795047047
-},
-{
-"title": "Detalles de las sanciones estadounidenses contra tres libaneses, una asociación y dos empresas por sus vínculos con Hezbolá",
-"ts": 1795047047
-},
-{
-"title": "París y Washington estudian los preparativos para la retirada de la FPNUL... y Francia se mantiene firme en la referencia a la Resolución 1701.",
-"ts": 1795047047
-},
-{
-"title": "Francia se reserva los detalles de su posible presencia militar en el Líbano tras la UNIFIL",
-"ts": 1795047047
-},
-{
-"title": "La etapa posterior a la FPNUL... ¿Cuál es el escenario más probable?",
-"ts": 1795047047
-},
-{
-"title": "Heikal examina la situación humanitaria con la Cruz Roja y recibe al muftí de Marjayoun y Hasbaya",
-"ts": 1795047047
-},
-{
-"title": "¿Un socavón o un túnel?... El Ayuntamiento de Al-Duwayr aclara la situación.",
-"ts": 1795047047
-},
-{
-"title": "Ministerio de Asuntos Exteriores francés: Un vacío de seguridad tras el final de la misión de la FPNUL en el sur del Líbano solo beneficiaría a los enemigos de la paz.",
-"ts": 1795047047
-},
-{
-"title": "La FPNUL en el Líbano: de fuerza de mantenimiento de la paz a vacío tras la retirada",
-"ts": 1795047047
-},
-{
-"title": "«No hay ningún túnel en Al-Duwayr, en el sur del Líbano»... ¡El Ayuntamiento revela la verdad sobre el agujero del que se habla!",
-"ts": 1795047047
-},
-{
-"title": "El Líbano espera las consultas del Consejo de Seguridad de la próxima semana para aprobar la fuerza alternativa a la FPNUL con el respaldo de la ONU, en medio de la escalada israelí en el sur. Ejército de ocupación: Hemos destruido un túnel subterráneo de Hezbolá. Katz: No nos retiraremos del Líbano, Siria ni Gaza.",
-"ts": 1795047047
-},
-{
-"title": "En vídeo: Tragedia en Hasbaiya... ¡Dos personas se ahogan en un pozo en el mercado de Al-Khan!",
-"ts": 1795047047
-},
-{
-"title": "Defensa Civil: Recuperación de los cuerpos de dos personas que se ahogaron en un pozo destinado a recoger el alpechín en una almazara de Hasbaiya.",
-"ts": 1795047047
-},
-{
-"title": "Un nuevo mensaje decisivo de los dos presidentes al «partido»... Francia desempeña un papel muy activo para evitar el vacío en el sur.",
-"ts": 1795047047
-},
-{
-"title": "¿Quién ocupará el vacío que deje la FPNUL?",
-"ts": 1795047047
-},
-{
-"title": "Walz en Beirut para estudiar la etapa posterior a la UNIFIL... Washington reconfigura su presencia en el sur",
-"ts": 1795047047
-},
-{
 "title": "Francia advierte de un vacío de seguridad en el sur del Líbano tras el final del mandato de la FPNUL",
 "ts": 1795072828
 },
@@ -327,6 +247,42 @@
 {
 "title": "La fuerza alternativa a la FPNUL está siendo objeto de consultas entre Beirut, Washington y Nueva York",
 "ts": 1795129978
+},
+{
+"title": "Fuentes diplomáticas a «Al-Jadeed»: El Líbano debe intensificar sus gestiones en los pasillos de las Naciones Unidas para participar en la redacción de la resolución prevista, ya que la aprobación de una resolución que no tenga en cuenta sus intereses podría ser más peligrosa que el vacío que podría dejar la finalización de la misión de la FPNUL.",
+"ts": 1795147112
+},
+{
+"title": "A la espera de los resultados de la cumbre tripartita... «Tambores de guerra» en «Israel»... La campaña contra el Ejército preocupa a Berri... ¿Qué pasará después de la «FPNUL»?",
+"ts": 1795147112
+},
+{
+"title": "La batalla por la soberanía nacional tras la FPNUL: la Resolución 1701 entre el marco internacional y los riesgos de aceptar la enmienda estadounidense",
+"ts": 1795147112
+},
+{
+"title": "El Consejo de Seguridad examina la aplicación de la Resolución 1701 y reitera su apoyo a la FPNUL y a la soberanía del Líbano",
+"ts": 1795147112
+},
+{
+"title": "Atención mundial sobre Líbano... ¿Qué pasará después de la guerra?",
+"ts": 1795147112
+},
+{
+"title": "Más allá de la FPNUL... ¡Una nueva fórmula internacional para el sur entre la propuesta estadounidense y la adhesión libanesa al paraguas de las Naciones Unidas!..",
+"ts": 1795147112
+},
+{
+"title": "Aumento de la presión desde Washington en paralelo a los debates sobre la etapa posterior a la FPNUL",
+"ts": 1795147112
+},
+{
+"title": "Ecuación cuadrática",
+"ts": 1795147112
+},
+{
+"title": "«Comprensión estadounidense» de los esfuerzos de Francia por crear una fuerza alternativa a la FPNUL",
+"ts": 1795147112
 }
 ],
 "diag": {
@@ -341,56 +297,6 @@
 ]
 },
 "events": [
-{
-"body": "",
-"first_ts": 1795001695,
-"msg_id": "1572672957938012233",
-"places": [
-"Qlayaa"
-],
-"sig": "Qlayaa|aereo",
-"sources": [
-{
-"level": "B",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SNGRtUk00QWNtY0hRcVNHVm5hb2ExRHp0WjQxOWR6N0JBcnU0ck9VNGFCWE5lTXhsOUdQNV9XVEhFeGVYNk9hNjYzaw?oc=5",
-"name": "MTV Lebanon (vía Google News)",
-"origin": "Medio libanés o árabe",
-"title": "«Agencia Nacional»: Hallazgo de un dron en la zona montañosa de Al-Qulay‘a, en el distrito de Marjayoun.",
-"ts": 1795001695
-},
-{
-"level": "?",
-"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9URnBqcjNGaG5ydmtacWhaQ19BellOYnduNDVlQVV6Q0ktRmF3WWN1eGNPaEozc2dETDhMX0g4VmhocEFkNTNrc2llQnlNQQ?oc=5",
-"name": "Lebanon ON (vía Google News)",
-"origin": "Vía Google News",
-"title": "Hallazgo de un dron en la zona montañosa de Al-Qulay'a, en el distrito de Marjayoun",
-"ts": 1795002003
-}
-],
-"type": "aereo",
-"un": false
-},
-{
-"body": "El ejército israelí afirmó el miércoles que sus fuerzas han destruido en las últimas 24 horas un túnel subterráneo perteneciente a Hezbolá en Shebaa, en el sur del Líbano.\n \n «En el túnel había varios alojamientos y salas de mando, desde los que los terroristas de Hezbolá preparaban ataques terroristas destinados a causar daños a civiles israelíes y a soldados de las FDI que operaban en la zona», publicó el ejército israelí en la plataforma X.",
-"first_ts": 1795006052,
-"msg_id": "1572672964715876455",
-"places": [
-"Shebaa"
-],
-"sig": "Shebaa|otro",
-"sources": [
-{
-"level": "B",
-"link": "https://www.naharnet.com/stories/en/323865-israeli-army-says-its-forces-have-destroyed-hezbollah-tunnel-in-shebaa",
-"name": "Naharnet",
-"origin": "Medio libanés en inglés",
-"title": "El ejército israelí afirma que sus fuerzas han destruido un túnel de Hezbolá en Shebaa",
-"ts": 1795006052
-}
-],
-"type": "otro",
-"un": false
-},
 {
 "body": "Agencia Nacional de Noticias: Las afueras de las localidades de Mayfadun y Zawtar al-Sharqiya sufrieron bombardeos de artillería israelíes intermitentes.\n https://x.com/LBCI_NEWS/status/2123103453111292201 \n18 de noviembre de 2024 a las 18:18",
 "first_ts": 1795022593,
@@ -426,27 +332,6 @@
 }
 ],
 "type": "artilleria",
-"un": false
-},
-{
-"body": "",
-"first_ts": 1795012458,
-"msg_id": "1572766159936299151",
-"places": [
-"Marjayoun"
-],
-"sig": "Marjayoun|aereo",
-"sources": [
-{
-"level": "?",
-"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOeGFkZXd6ZExnR2VXYWx0YUdSY2lXa1ZkSnExZ3pOYjNYTUF5NG5LeXZSWHVpWUNCVVF1dlVjNVNCekF3R0ktVHBtTlVGUQ?oc=5",
-"name": "Lebanon ON (vía Google News)",
-"origin": "Vía Google News",
-"title": "En vídeo e imágenes: Hallazgo de un dron en la llanura de Marjayoun",
-"ts": 1795012458
-}
-],
-"type": "aereo",
 "un": false
 },
 {
@@ -715,73 +600,36 @@
 ],
 "type": "otro",
 "un": false
+},
+{
+"body": "",
+"first_ts": 1795129903,
+"msg_id": "1573185818116235369",
+"places": [],
+"sig": "UNIFIL|artilleria",
+"sources": [
+{
+"level": "A",
+"link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jbnpRTE85NkVOd0UyMVVLM2paWEFlREcxWS1ROVQzZGR3dGZsVXBnaVRySTh4cVVob3U1UGhHSTI4UXFOLWJ0blFVNVBVQ2ZTcHJZbHdpYw?oc=5",
+"name": "UN News (vía Google News)",
+"origin": "Fuente oficial",
+"title": "La FPNUL detecta violaciones del espacio aéreo y bombardeos de artillería en sus zonas de operaciones y se enfrenta a restricciones que obstaculizan sus movimientos.",
+"ts": 1795129903
+},
+{
+"level": "?",
+"link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxQZzFuUFVjckNIT1h4WlJNeUlBTndGR2FDR05hZTRFcFBnX19JNFpGVU5ZZlJTWlh5T1JIa3FoOEVqSV9icl85ZmZHVUtyMUxXRTd5Q0k3M0JjZWZxV3FnZm1aV1BqUndZR09uQkp4Rk9YZXBqdGdwdElvUkdPVlp0STJYd1RRakNRTG1qZlp6VklrelZ4S29GOGZaQi0zZUZ0d1l3ZG5BLUFWalJOWG51dF94bUpQajVUeDI3dGJJSzdvUDJHdzRQRTUxeUN5WFIteTJjN0JUR3FRU095dzVhdGlKcmZSODQ1UWItelRYRmYtNUJFbjBKdU5zWGk4a3g5ZUt6bGdOX0dKZkoySjAwVU51Y0NjMjdCOWtUc0k3UDFxRTJJS0R0Z24wTThYT3hOMXc1WC03SjU3dVBQeWVwMjJDYXUtTnI4RndXNG00bzdhSTBqdjNKd0F1Q1RMaXVPMENERk11Qkg0WFVmakswdjVUbGFMSFRCVEVWQ2J3bmtxblY2Mk9ERzdJRXdueUl1YV9SVW0tWUhwYkhPcGdBcHlPWmpGcTZ2U1pZVzhiSEVYRkdfcVU5Q1BqeE1rV0hCODFZRXV6ZFFVSE1yNld4RE1od2RlMDRaZ3hRQkZoYjFKSGFaTGh5MXVtWERnMVV3cmt4eDY5OEdJSG9NOHY0eEkzcHNfOVFDQUJVRkJyeUJOd09lQjN1bVBBVlFNYVhmRU5WRWRYS2ZhOFFGUWVGRWVSMVREdEp6em1oR2FET3V4SjhBRS1qMw?oc=5",
+"name": "شبكة مصدر الاخبارية (vía Google News)",
+"origin": "Vía Google News",
+"title": "FPNUL: Alrededor de 35 violaciones aéreas israelíes diarias y 90 incidentes de bombardeo de artillería en el sur del Líbano",
+"ts": 1795132085
+}
+],
+"type": "artilleria",
+"un": true
 }
 ],
 "pending": [
-{
-"line": "• [(Multimedia) FPNUL: La naturaleza de la fase posterior a la FPNUL “aún no está clara”](<https://news.google.com/rss/articles/CBMiekFVX3lxTFBqOHAxWG8xQ3B3T3pvMXRCOHpmeFZIczBGaVNTTXVXbTA0MnN0bVk3OHhrT0VDbW0zcXZJSVlib3N4Skl3enQwQUF2MWdhMEJBN1E5cS1yWmxoUkdlZjZNMjA4NUhDMklDSlo1ODRVSkdDVUdHeUk4d3dn?oc=5>)\n-# 新华网 (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Un conflicto franco-israelí por el Líbano... planes secretos para la era post-FPNUL](<https://news.google.com/rss/articles/CBMihgRBVV95cUxNaEllUzJjTzZ6NF82RUJfblhkSUpzTndjbWt3X09VNmV0YnVRU3R0R1JZTjAtMU1oTTY0WVhuX1lCRnRCSTFCRnpQanBNZFZIcndFWHhxYnBFRjhiWS1NWjZLZXBJTlBZa2Y2QUpNRmJ4Y3IyRzUzaTlLMk16bmNBWm5SOTNPenZzbDdkWC03YV9mc3ZKTWZDa1F2SFk0NnpBYmEzcEdIMmhwNTUzZVB1ODNMRmFuWlpTbEI2TVQwa0xhdS14VzdYalpkQjVqS3ZURk92WlVqY0txYzRfdmdSUkpmSlRFVVFRUVlGVlkzeFJWYVMwVk1CNDF5NHVBdlF6djVndWllejdkUjNtSFNpOU1MbGNQLWgwU1c1MzhGN2M3UTF4OTh2T3Y5eVRQb3djNVU0SllqQWV4Qk5BeTBZVDI4bXVoWlhRV2pfOVJBQl9Pb3JCQlRmWnpzaEtXRjk5cWxzQmpRbXYyaUVZRU5zVjJjMnpDLTJDS0Jfbzl4Vlo3cVZPYmI2SXNGRXcwT3VzU2dKYk5WLVZKekU0bTRVZDZySFBwVXpUN0llMXU2VmU4UXpWZUh6cXF2UWp2NDBmU3g5YlFQQXZJNjNkeHg2enUwaHdDbzNPaFNVWVZFSklvLS1MM2ExMGR2YTBYaGxBdmMzRXg0X2Y1T2V4R0U3WnBhRjRDdw?oc=5>)\n-# Lebanon Debate (vía Google News) · fiabilidad D",
-"ts": 1794966198
-},
-{
-"line": "• [FPNUL: La naturaleza de la próxima etapa en el sur del Líbano aún no está clara](<https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IM0ZRUENIbFRZSWhMc2Z3b1d5LW1CeVFFYjNEM3BqTkpHZkFCTGhtMTRieGVjeDl3d1pPa05ZOHgzWEZ0VzFvazUtUl9ETmc?oc=5>)\n-# سانا (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [¿Quién llenará el vacío después de la FPNUL?](<https://news.google.com/rss/articles/CBMingNBVV95cUxPUkRMZU9Ycl9BQjIydmZDMWNiaFUycUY4TktaX1BwalgyV3FJY0o3c3N5SFQ5b0NvOHlKX1pVelMyRFphamZrRzNPSTVodDRzd0Rzd1ZQelh0OElPVkFTejZrc1ExWVV1czVKdndDcW1rMEE0R1psOVN5X1BTeC05eVN4SWVERTNFcWw3OG41dnExbVhyb1dDLUtjdTgzcE1JUXRJY1czRmNfY2U4RHQwYWxHQUsxS1pENHNfbWRDNHBZdnNibTUxOHNtTjAweUdBX0w4MEk3M0phMDZ3WllGeWxwSjFfVkNueDc5YjNlT01IRk1BSWlyTGpsM29BdlJCTzJ5SDcyLWVNM3RQOV80ZHNDT2twMTV1NlVKcHBWWGJwNGlCR2VPV1dFR0hCX0h1TV9YbWQ2LVVqcTBqUEdod0loUnlrcU9UZTNPRndiUzJkZzhBLXAzLVpPd2pPWm91ZzAxTnBIR2xLZ1ZaQ0xYTzlaam12alJDb2pXSGxWMWw1WUkxZVp2MzNRLTl1SHd3WXZUYVVQYkUyTjNjYXc?oc=5>)\n-# صحيفة الخليج (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Casques bleus italiens de la FINUL : la prévention commence sur les bancs de l'école](<https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlVpeFFIMnJaR2NOWWtmQUVIdTZfUXRwVGUwYVFmSEgza0REWHNjOGVfb1ZPbE1PaFRvc1dzOHY2XzZMUnBZNS1Yd0lXUFZvaGRYWlJWQ2g2NEhWNGZyLW95elRvVzRaU2VWcG03ejZiZW81UGZmaHRiT1NkR0psWXJ4YXRKU3RCTkt1eldlWHROd1VYYzhseGFLMDhIeEQzNjN3QTk4aVplWk51VkhEbGF1UVdjVkJ6eDJmMFd6T3BZZzI5ZnZNTk9CampvQQ?oc=5>)\n-# Ministero della Difesa (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Un experto en derecho internacional advierte contra el fin de la misión de la FPNUL en el sur del Líbano: un grave error](<https://news.google.com/rss/articles/CBMiREFVX3lxTFB0ZktGYXVqR0RtZGFrS3BRZXpYN0NUREY1aTZ2UDU5UkdoaVZjLU1RR29GYkMxbXlIZ0syYy1jUWJPZlBX?oc=5>)\n-# جريدة الدستور (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [El Ministerio de Asuntos Exteriores francés a Al Arabiya: Trabajamos para evitar un vacío de seguridad en el Líbano tras el fin de la misión de la FPN](<https://news.google.com/rss/articles/CBMiygRBVV95cUxOSEIyMkFBeXR2V0Vib3dVUVY1ZnIwdW1HUTJHT1dwQ1RvU0szaXZNMEFHUUIzXzNCN3A3M0lpRDVLMnNLakZ0b3ZRaF9EOVk5Q2NMWWUtTHZRWTZHeEVjdXlGZkVlRXVpM0NNbVF6V0xlTHl4MnZ6cUdMVjNtckxqcmxnQlpTTkF1MHlOaE1IVWoxLWpMR1pCWWtiSDV6cHIyWXQwWThNWFRNb3JlWkZUSTVSX1BqRHRrOWRKTjBmNWJCekJaWXl3eUlOazdwdVlxM0kwOXZvN2VJVnFQc09ZdnpvcHV0S1VQTzVhN1R0aG1kNy1EdjF6anNmYWJ1bmVyVkplaHJ0SkV5a1RNWFlpbkt2QldtVTREV3RBMGRqb2E2U05TUDQwcWxjaVFzYm15YzVyNDgzdzdLNnNFWE1Da19wUVlUd0loU1lnUnZFeVVJeGVRVjhXcloyQzNHcW5ES1dabXE1aW1DYWdyTTQyVkExRDBQeVo4eUFjOUJPaTBBVVR5Vk16alhnZFN0TThQVFZYNC1XeW5QbTRQM013M3hYSExmNjZiZWlrSzBXZWZ1d1hLeVJnbjBIaUMzZzNUVzdTbTdRZ3M3NUluSTFZMF9RV3RPQjlaOFhpY2FVaFlIVWJ2QUxGcUNLLTVhdzBDM1UwZ1RELWJiZHR6U1hwZ181cEZ3dmhURjFaYzlSVnNOb244Um81ckYyQmhjSnVvRHoxS2hXbHVPRDY0dWdycTBZSmtZNWNzOXdrRDUzR3hTR1c5d0JHemJn?oc=5>)\n-# Lebanon 24 (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [El Ministerio de Asuntos Exteriores francés en el evento: Una propuesta para desplegar fuerzas francesas e italianas está sobre la mesa tras el final ](<https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FejNOUVo5MllaTmNFRnBRVEJ0cTRLbDhrYTB5ZGp4US16RFNkdXc3NWxseVRHNXE4N3lsTVhDNmZMLUd5Z2JMQlJxdEdpQQ?oc=5>)\n-# Lebanon ON (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Israel secuestra a dos hermanos en Shebaa y el tercero está en cautiverio desde 2025 @wissam_nasralla #LBCINoticias https://t.co/PZKiZgVXyP](<https://t.me/LBCI_NEWS/325299>)\n-# LBCI (Telegram) · fiabilidad B · Shebaa, 13,0 km al E",
-"ts": 1794966198
-},
-{
-"line": "• [Abu Shama: Estados Unidos busca una alternativa a las fuerzas de la FPNUL en el sur del Líbano](<https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OZ3NZcTJ4MWM5aUQ2SEdlb0VOODVSX0FXREdYTUQxUDNjMHktaUhwTDc2YlpZUl96YW4yLWNFZ0RtZ00?oc=5>)\n-# https://www.youlyou.com/ (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Posponer la visita de Al-Zaidi a Beirut... Vals, el día después de su visita: “Hezbolá es un tumor canceroso”.](<https://www.annahar.com/lebanon/367388/الزيدي-يكمل-الاندفاعة-الديبلوماسية-نحو-بيروت-والتز-غداة-زيارته-حزب-الله-ورم-سرطاني>)\n-# An-Nahar · fiabilidad B",
-"ts": 1794966198
-},
-{
-"line": "• [La FPNUL revela el alcance de la destrucción que Israel está llevando a cabo en el Líbano y confirma su seguimiento continuo de los acontecimientos.](<https://news.google.com/rss/articles/CBMihwRBVV95cUxNODJ6NVRrb0lNbUNST3VhSHVXMjRPMkJRMkE5TUMwcjczVHhoOXZ5b1lid1FGQ1lIdjZkbUxhWXlSNHkwSUh6U292ekkzVnplZk1jUFhwWDU5SWdEU1BCc25WNkd1aXBwWm5maFBJS1RjYWtNX3FEckkzTV9kTFZmazdPb3hfQ3VMTEFXVHVQUnV4LUV6UExWRTAwc3JHQkxnREt2VTUzOTFzRE5FOGFvX0o5QVphYUdnZGMxSExOcnpGbzQtSmh0XzhrUjFUREpEelhhZzFzOXYzMXl2WTJCTE5ucGdKV21XM1ozWGxxa2VYamV6ZzZwNllRTVFvbXBxVlliSnV1SFdVZHZYX0h5eGxvU0RaTWFCbFd5TVNGNHlobTJyYWpESVB2RGxNUGNMX0M1Sk5CdW9BTlFINW9hR0JJMjRNZVhfR1N0b3p3SGJxTDMycGFaenhlRkFZQmhDdm9xM2UwbFlQRU5ISjBGZ1llaUhtYjRNRm5uOWJWWE5hUUhxQlFxYm9ETVpnc1VYWS1hd0NtQjNhUG82Z3IzWFR1SFc1UHE3cHg1bG5va09IeFV3Ry16U1B5WVluLVhIMVVacFpXZmdEZzI4RlpfMS1TSEVRNjh1ZC1lSXJwSktCNVhxSGZXTjh5aFJzTU0xblJxU0x5T3R2cHBsdW5RTnBuVTJKdTQ?oc=5>)\n-# اليوم السابع (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Mensajes estadounidenses a Beirut. ¿Cambiará la misión de la FPNUL después de fin de año?](<https://news.google.com/rss/articles/CBMi1wRBVV95cUxQUDFkcWNxZ0QyMmY3NFU2NXhqaVlSTWxtc1ZoaFowNzk5SE5BNVQ5TU9JWWI4VUhxRHlzWDlUQkRHMnZiRTFScEQ4T3dzMzJhejVCcHpnT3hZSVNTcWt4ZnJEZ0FlelphWDczMy1SMWtaRmlUTHU1eDhFZkVqRjQxdkx2ZkRNODVJSld0NWRuTWF6Q3cxZ3pEZzRrbkowWkxoMlZ0MzBiazNUUnpQeG9SQ1kxM0h6OENyNTZVdjRQMVVsNVdmbzhMTERlcXRHNWNUQ0tZRDVFdUtTNmlzVDlzZmE5eDR4bGphb05HTGplYUxqc3AxN3A1S1diSElocDJhV0xyUzF1WlBWUjZNNWhjNjIwN1Jvd3o3VW1KZFZuTks2S1JONTFjZUVUdllsYnBvTnhNU2FKMWtjQ21BYzlwUmVxdU1YQjB3VWFXRlRTbExVUDZoLTRQZ0JtTWtXOUxhR3B2aGR2N09URHA1SlotX0JIcDQzQWZ2TUwwUXhyWjhLem93QmpjQUtraC1WLVRLNnJwdVdUc01SbmF4MzNQUjFDMS1OemZpNU5RT3RQbEhQM1FFdXdyZlEyY1VuWUhDdnpreEdsREJGNU9rcTNPVlpIbFRabEp6dm1raVZYa2lNLUpmQmlMT3JWQk1FdUxDRjRsSUM1OWtzMndSWG5GWmNFQW1aN19abFhBTVBwSDlNYW5ab0JxdVcxUEg2azA1MzNMOXdwZldIZjBydGpoUF9YMTg3U0s2Y3R1VHZVWFN4ZGVXNHpEbjJDODRrYzF3WW5ER3lfVQ?oc=5>)\n-# Shams TV (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [FPNUL y Netanyahu... ¿Los cálculos de Washington y el papel de Francia?](<https://news.google.com/rss/articles/CBMijARBVV95cUxNSXZySHA5MW5pTFRVT0ZndXIwXzNMY0VSSHE3WW9sZmhMQ0pvM2dLQUpNRDRKRjNtNTNaZTJOdTdJYmdqYVQ0NWNfQVhHOUU1QlVKZTVyRG5NTG5aam9pci1xLWtLVHJwTGVhb3FZemg4b0JtZDYyZ3VKTGRmbUNYZTlPWWhoUkhicmNXaUxMX29kaXVyOWIwZTMwbFlHWTU5MEJPdUdnM3lnVUVfNUMyWjZJakM0bk9FUTNZdXhDdmFSM29vdDBKMUFTdmlJYjNncGYwWWZhS2hua0ZpTG5VbFdtNFhqb2VKYjlxcGg2c3I3YXVwZkZaLW9RVk5salJrMG5qYlBDZDRnTk1SbnZFU1puOGJHSEdacFJZSHpsTmljcFBqTHRfNlEycU1rdVoyVm5BZHVuWnR5dFZ0LWFfRXZ4TGRQZVJOc1BXTEt2OTQ1QkhOVjlnc056NTU4YVlJVFBvX0I0MkhsQ3c3enJlU09MSHRJUGlkYzF4dF9KYXFrMEk3S1dnQ20xT0N3Nmg0UktHeTVEeTNCc3E3dVRJUTNPYXlZQk94MldTSEFYc25yNFduLVZtaWpyYzVnVzRtZE1SS3ZDNldidEFyenlCR2hvSlJlU0E0ZHV4dWMwcV9PT1d3cUtsNVMwZmJnMHZVejlsT01UVURqLVVuZW5kTGNlUVRLRHdQUy1DbQ?oc=5>)\n-# جريدة اللواء (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Waltz propone entregar las tareas de UNIFIL al ejército... y el Líbano se niega](<https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMWpRNVZLcWJNS0RFSEdVQ2VXc19BTmw4OFFCd0hkbVloWFlEbDRlcnk2TmV1QUw0aHNqSHhFQlY0Wnl3akQyTXZjVnMxV2d2M2NPMjR0OG1jR19kS05HMFdiV2FPcnNyMmhIcGg1WVBWcUh3NTRuNGNFU0dMMXR4SHRGOG1pazF6dFFDZEtiUDRCc2tDX2tKOUttN24wMWJXdnhoZkUyWFRwVE5ha290QnlPanhyRXExUUhtbjByZnp3dEMxdjExdFVUQ0tGR053ckhmaWJXVF9ETFZFUkNkOG9sd0UtdURNbEZYOUtlOFhqd2l1SVpvcVJocHZVMEIxd0ppV0tGeXJPMUdqeDRfMEs4eDdEZHhuWFhYM1VZQVMtTHZ0TkhSOEZ4cExrTTVQSWNvLUpydHBGdFU4Snl1Q0p6MWQyWWVGejJ6LWNOR2xPbW51bHpYZk9obGs?oc=5>)\n-# نافذة العرب (vía Google News) · fiabilidad ?",
-"ts": 1794966198
-},
-{
-"line": "• [Consultas para que el Consejo de Seguridad apruebe una fuerza alternativa a la FPNUL con cobertura internacional y el “Acuerdo Marco” en el centro de ](<https://news.google.com/rss/articles/CBMizwRBVV95cUxOSzRlVU84OUl3OVg3N3l5UGFLclFySGFIQzZWMVZSbTNnX3hDYURuX0t4d0pNNUVyRkZRUlJkcFFmZ1EtVC1rSWthdjZBSmlJX0VnNm9CM3pZOUV1NEl5WVRLRDAzdmsxc2E1emwwRUlxVUU5RkJNWklDM2FWczZrMzR3bWF5RmdzcVg0N0tJNnpLTk1ycmJmVHZLeWhDcTRhd3B5eG1JX2tGaXZ5T2ZrUlpzWFVyMEV1aTZGMG5ULVd2R0lhV1NsSUQ2ZFluaDhYc1lRVHJISjlQRjNqZl9SSU01aTJVNEI5T3dib3NvMmgzQ3docFNiS1psNmFYckdPcUVaQVRWZzZGcG5VZHF1WXBFN0VXYzdpcDd4TkFSd0I3azlXUktjY0VTdmpOZjZGaFpkSjI5b0tsY3NoVlJudTRqUUVpSWg2ZlBTN1piUlhXUjFqM3ZxOWxQVUk1VDNfUmVobEw2T3JVUll6bWNiNVJWd0tjWFRFQmozZFVOVk0xbk9IRWdRQVQ1U0pKaTZBV1AxSXRDXy1rei1vMC13RHNGMWJpMjJBX1ZDYUJUUXFiN1BJVTFDQThzbkNmYXlZLVA0Z050dnJMRlYtLTJmTXhjaFl1ZXJ4MVczLVBaM19veGs5SzZvX1ItUTE4b0hZQklmNnJvdFh2VTU2MEgxZlIzMHp2dnVWTW5sSG1saHRvWUFqRWRGaE9GRzJjWXRiNHYySVhjYzZ1bW43ZlR1RjZiN0V3bkc1bDN3dTRaeGdNaDBqTjR0MTdEcmRoUlE?oc=5>)\n-# Lebanon24 (vía Google News) · fiabilidad B",
-"ts": 1794993036
-},
 {
 "line": "• [Las alternativas a la FPNUL no deciden el destino de la ocupación](<https://news.google.com/rss/articles/CBMi7gJBVV95cUxQU0NMNEFQZ2h4cDcxOWRlOUI3a1YxZXFpVGhXVHlFTHVtOHJ4V05xR3Vod1k2SlhWV3oxSlVXQ3pKOGNHMEJhWkF1YThOSkxfbkJzYUZldEJ6WFdMcmZXMnY0NVd5WmxqRUxNRTRTN09KYkVoekE3clpOanZ5blUtbnJZZExZOExNSlo3ZlAzMS1xUTNudV9LaG9QYWt1Umk4WFJMWkdiaUhNMVhoNWhKdWlIbWhWT1d2dlRONndrUFRhb1dVMndaT21QYkx1T0lhVmdZZXhyaUtOZDNDLURBT0V3ZjV6elFXMkVVNFBMYzBGNHM0N0YtSVFlc1V6OGdKSy04NnRTTnJwZnJjRkQtRzRDcm5KX2xTTkVEVHRjQ0lralRzTG9uQTM5RmMtZG1mSHd3MEhyVkVoWXdyNUN4QjRKVE9XQU1tcjI0WDdQVDBpcHU3bDJ3QzVHaVUxYVhNOTNzc0lzWkhDcVdOUVE?oc=5>)\n-# annahar.com (vía Google News) · fiabilidad A",
 "ts": 1794993036
@@ -1321,6 +1169,42 @@
 {
 "line": "• [La fuerza alternativa a la FPNUL está siendo objeto de consultas entre Beirut, Washington y Nueva York](<https://news.google.com/rss/articles/CBMioAVBVV95cUxNYXpXV0owRmdiNWRpR0tpRzRXdjVvUVZVelhNRU1VS3BnLUd1U1dBa29FQUNGMVVERV9IdTV2VXRzaU56SGhmRGliMmFkNWIwR2dQUVhScUJDOWVQY2g2emtaYnMtal9kdnU2UkRuS01mbnFlY3lOQTNKekgwWFVjanRLcE10U0luUWtZS3Q5UjFQbVJ5VlpJeXo3MjB3Zk5MWGNacDREVVhHMjNlSW9NRnhodlNaYnhXTGFtaFZ2d0R1SE5ycVBwcHFJcms3OHh5WWcyZEJxczZaSVlLVUpUZ0UxREdlZ3BnSExPbTBWb2hpaWJVVElUcFNsTXFUdGlKWXdFMmVLRk1JWkxZaXh0OEx2UDR0dlhIeGxQTkc0WHFJeUNjUGhZX1pyNmdGWTZlaExBMTBEb3NRTlhTb0RWd2xlSThWajJxMTJ2QkJkYWVJMnEzeWwzRlpfWGlYMHRMbkZ4d2xIYlNkWExhMUpUdERwX1VKc1pqVGxjTjQzQm5WNi1IcS1Fb3VKY25jNkp3ektHaXNXR3pvNlZjT0JEdGgzNkpRVTNmRjJkeFBpc1FmWmU5dWtvSE9JcV9DNzRJWTg0MnE0dElyUjFpMjU1VDZRYXExVmVtenVDejU1cFQwZ1UyT2U2Vy04NlhENm5KSEY3b19qcUwxVEd4U2N0ZTZVdmQ4TFIxYWpLWlJ0WEZMVnVyZGRmNnpWSmpqYWhWdlVXNTZYTzBYX0dhMW1PQUFrLU5QZXRiNG1NS3R3OS1NS1NLUkFGSlJkTGVXQU50VnBhcEprQ1kwOTk1aWI4NHZCNWFlM3VIMmNnbkdoVUpJcjFRaXhpLVVnX29DdTh0cGdWY05EVWNUZkZiS25nc0hBQW84MElpTGFwOFgzMWI?oc=5>)\n-# جريدة اللواء (vía Google News) · fiabilidad ?",
 "ts": 1795129978
+},
+{
+"line": "• [Fuentes diplomáticas a «Al-Jadeed»: El Líbano debe intensificar sus gestiones en los pasillos de las Naciones Unidas para participar en la redacción d](<https://news.google.com/rss/articles/CBMiqAtBVV95cUxNV1NTcW1mWXhLY0NlaVg3ajJxVlVTWnNiLUJkQVI2T2x5MkR2RkF2ZktTSnR4dzJJUUpqdHdSb0MzMUdBN1NFM3J4Yk1EVlBndlk1WWJ3ZC0yb0F4cXZzWVNxQng3NS1VQUVtM2xPTTdSTlNsOHk3SXllcTJxbFQ0dTdmNXQxRzFkQVk1dkNnb1NVNE9wUDZYQXc0VjF3MS13Q3h5VnlNdnpwaEoxdDlvN0RSTVJnZ0lLV1A2UUVCTHdQRGQ3dFotdXFBYi1FV1ptWU9sM2NuWjRMZkVfZkhMRDBJWFZJRDBudi12eEx4MlAzZXZPRWlXVzJUWVE2ZTlnZm1xVE9OQnFMRm55YUltdEhzeFhnbmg5b3FPWE1oN0djeEcxYnlsQ1dHbzUyNUNnV21IOThBRFVWQkdKaElSclZFbWt0SVlKTUNMMWFiMkYzcVJFb3djMTlJeDkwNmp5aGQ0MldKUFVibk1VZjlvM1Uydk8wQUtqS05ULTBqbERhcHdKMzgzMEFBMTFSdlJqckhMdkphbUI0Xzg3NjhHTzdzN2tFcDJDQi1GbEYtSmJuV0pSU292TWRGdzczTG9NNFAxcEpkZ0tKRXpDa0s1aHUtdzJ1bkNWY1BXbnZNOUVHRzRzMXVvMDZDOGVxZmFWdFFKZFFyLUlqOG9hU1Q2UXpSdHJ6eHlPQnZJaTI4ZGhhY0lONFNlRkpvaWhLSDZQYWVpcVRoQVNYWW9wcHY5Ny1yVXVGZzZTbkJSVmRmYlpvelpzYU5hc1NtdGY0dUtMUFlXbTByRW0xSWV2WkZKblVXeUJpd3dYdk5NMEVTSmJFZ2NzdTc1dzJJOHJMTlh2QlhIUG00TzhCMFBxdWRER3psQ3U3WEdkdWxQWl96WUNTTXVJQUFfdTNURUNkcDY0VUR3M08tSm94dGJRbWY2eXh6dVFNR3BUaE9ESFVNd3JmdUZqWlJGTE5NaHhMeFZXUnB2UUdWeU4tUzREMzFBdk1oRkxCcXdad054bmpld1JCXzk0WUpmekV6aHZaWTVIdC1sUG11RVVPSHlKUGVXZnRDM1lKMzFqQjlwOFd0UXVEYWpKWW80dENzY3NQNDFlaTdhMVlheE5BU3czNGVjVmo5T2hNdTM5UGpPeXQ1ZG1XdEd4cUZpak43R1BIZDA1ZVF5ZnVidmVDRXlpMUFWM2VxYWhKeFVYR2F3S1Bya2hHVHpDNVctMm5iMzlVcllZM2Nvd0NnS1FuWXpWUXpoVVVlV1F4WWVSYzcwdHBXLWVSejkxbHY1Q1UwajFndnE3bjV4RzZNeTh2cWg3d3ZRQ0ZPTWVJc0RuRGxfcHBWQkdwNVVRTkdZS01RV00zN1ItX09STlZPazNhZjhoZ2ozR01DNF9oYjBnaWVaa1FlTVBxYWVLY0ZxTFloUjVSdXFvRFh1ODU1eGt4RFFQeWRyTkdWcVFUb0sxR29WbzVpZjdoeWlDM0FYWHAtRGd0cHYtNWF1WEZVZ1dGWnJ3Z2ZCTEtLZFliR1J6WFc1QUlZWW5LY01qQUxFVHJkT3IxbktqMTJGTXNwdTlrcktjRUdjLURvc1lFbGNZSkRKSzM5NHNzT0JIV3ZzZ2tFQTF5Vm42WnM5UTRoMHdrdndMS2V6VXhPX05fMTJlMTV1NWRUQ29PRUo3SUZtT0l2a3BhMmJWaHBwUmhIcUttT1RJTzd2YkVsQklHcEQ3U3dqakZIcEdnczQzNHRRVXFWVTV5aDdGUm1YX2gzN1dYWmczNVdVbHZkRDI2UG4zUnJGUEM3eWdfa2lFZ0pSZWg1SWdPWUNVSW9IY2NFbzVvWkVsbC1LXzRZNnhHNU9KanhXRXh3N2FpSU9NeGpqclIzVlpOc25VRDdCTk5wbUtKa1JhNEwtRU1Kb3pJODU5UDV3T0E5RHpOMUxScjgzTg?oc=5>)\n-# akhbaralyawm.com (vía Google News) · fiabilidad B",
+"ts": 1795147112
+},
+{
+"line": "• [A la espera de los resultados de la cumbre tripartita... «Tambores de guerra» en «Israel»... La campaña contra el Ejército preocupa a Berri... ¿Qué pa](<https://news.google.com/rss/articles/CBMi9gRBVV95cUxNUnNCQm9YRUpiS3BHRXBWWGRxMTZUTDFoSU53d25SU3A5RjdnV0ozWmNqU1l0Ym1tTGJvUkxLYzFZaGk4MWwzRlMwN3ZGQWVkTFdVX0VVWFl0N3hOTFVDX1ZQOXY4WW5GRlp5QnNQclM4WkJ5cEtrSkhTREtoN2RSd2lGWmJja0szYUZjSnFGZ0J4dFZPSjZjbFZjaEN1RnIya05JcGxhcV9ES1VPSnFoWmp0b21fYzViaVAyMldia3I5SEZkNDJrb2ktTkNueTNEMUwwQlVJNzFGVDdETm52ZzNKaXlPa1ptNWRMeFlXaVQzRUhham9ZS2R0TXMxOVd1TW9IOWUzM25zNGYtc0hENnRyWS1xTUs3SVQzeThfOTRCNHhTZVNxc19IOU1JMkZ2ZGdKQVNzWVBlMTNmWmxwZ1pYRXB5Tks5NWhUdjlmSHlFSVVLMjNZNUVLNUNiMGEyYTJoN3RlRGNvTm1qcHA4RHVjUjdmVEc0T0haVnBQOHRTYkhsTmtQYjlkLXRWZmxDMFRyTXhEX0J6alFYWGt2dG5Id193Mm5ndTMtVzFVR3Rad0pIS294ZDdUVV9yMzFDTkRkd0FvZGQzRmV6VU9uaDBXSFNGZkM5NUd3d3JyanJ3ZU9oSjBrYTFhTmUtVEVKbEVPNm15UnMyTGJmR1gxUDBGWnNvdkNNRlVCWEZGRXN1ODgzWnZwS3dsM1ZjODNVelhfbVhMYzVSTlVNQ25ZYzUzcjc4STFWQXFzM0hPUGczbDlfajc1dk5jdEFpUDVIV0g3QW5oSW9pU0RQVExBRXFKTFZabm9sN3JSeVNTc05meHNRVEE?oc=5>)\n-# الديار (vía Google News) · fiabilidad ?",
+"ts": 1795147112
+},
+{
+"line": "• [La batalla por la soberanía nacional tras la FPNUL: la Resolución 1701 entre el marco internacional y los riesgos de aceptar la enmienda estadounidens](<https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTjAyYmF1a2dDQXZ6UDNRcmdtZFR4YmpZaVE3el9xaUJJLUptak1GNUVIVUozdVZ0YVZKNjVmOVRuX0tSQzhvai1tVXlzWTJHR0E?oc=5>)\n-# Al-binaa Newspaper (vía Google News) · fiabilidad ?",
+"ts": 1795147112
+},
+{
+"line": "• [El Consejo de Seguridad examina la aplicación de la Resolución 1701 y reitera su apoyo a la FPNUL y a la soberanía del Líbano](<https://www.annahar.com/lebanon/368185/مجلس-الأمن-يبحث-تنفيذ-القرار-1701-ويجدد-دعمه-لليونيفيل-وسيادة-لبنان>)\n-# An-Nahar · fiabilidad B",
+"ts": 1795147112
+},
+{
+"line": "• [Atención mundial sobre Líbano... ¿Qué pasará después de la guerra?](<https://www.annahar.com/articles/annahar-writers/367979/اهتمام-عالمي-بلبنانماذا-بعد-انتها-الحرب>)\n-# An-Nahar · fiabilidad B",
+"ts": 1795147112
+},
+{
+"line": "• [Más allá de la FPNUL... ¡Una nueva fórmula internacional para el sur entre la propuesta estadounidense y la adhesión libanesa al paraguas de las Nacio](<https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RUWFnUUpKTmlOTDFSaUtFRDJJQzBENG5HSmNwLVJRelFfR29UT1VibTVRbERkUTFlYUZwZEgzdEZwRnBCN3BRQlJjcGFDX2FOdnd4Vk01NA?oc=5>)\n-# سفير الشمال (vía Google News) · fiabilidad ?",
+"ts": 1795147112
+},
+{
+"line": "• [Aumento de la presión desde Washington en paralelo a los debates sobre la etapa posterior a la FPNUL](<https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTXlDUjBZV2o5WE5JYkgwdzRIOWxWM1dVampGNlZIZGZYQUVUeUVUa2RENVdueTI3d0FoQTlGQVdzTjBBVGtlQndpRmNKX3pJbUx0WExrWUxWZmpYQ09DQ0YwTURNY0ZFYUtRcHpzcGNPRGJNdlppeW5EdkY1MTVXSFdIczh3OV8zemx5WThiS18yenBkdF9QLUNEbkNNSVl3TDF3UXQzQV93dmNfUHlZY01ral9jMmNkVWZfemxkVTZvWVZqNEpBRXF2bE53ajJzbXRNaFZ4SzFSdUJENnNsS3AtQzVHXy1wYWFZVG5HdzlCUzJJWXlCWjNPM3RWdk45M0tMZFJqb05IZ1VHQXhTVEU4S1FRRkcyOERqTjJfaDU1SDlGXzNGRGR4dUs5SzVaRFBLdFdwWm91VXB3cjBkR0RqM0M2YUJxUGtRU3NMMkFHaUtpU2dxMTQ1d2FXdw?oc=5>)\n-# نافذة العرب (vía Google News) · fiabilidad ?",
+"ts": 1795147112
+},
+{
+"line": "• [Ecuación cuadrática](<https://www.annahar.com/articles/annahar-writers/368076/معادلة-ذات-حدين>)\n-# An-Nahar · fiabilidad B",
+"ts": 1795147112
+},
+{
+"line": "• [«Comprensión estadounidense» de los esfuerzos de Francia por crear una fuerza alternativa a la FPNUL](<https://www.annahar.com/lebanon/politics/367986/تفهم-اميركي-لمساعي-فرنسا-لانشا-قوة-بديلة-لـاليونفيل>)\n-# An-Nahar · fiabilidad B · Nabatieh, 12,2 km al O",
+"ts": 1795147112
 }
 ],
 "seen": {
@@ -1359,6 +1243,7 @@
 "0914625125edf029": 1794993036,
 "091f5637f3bbe7e6": 1795024831,
 "0926ab1e92fbe6d1": 1794855031,
+"094d9a63f2a71e73": 1795147112,
 "095ad3e87cb96a76": 1794943421,
 "09cb2c58e09a6750": 1794855031,
 "0a1303d099358a2d": 1794993036,
@@ -1517,9 +1402,12 @@
 "32bf11e122ecc0a6": 1794943421,
 "32cd51586764abe5": 1795047047,
 "33288f26a2d09d2b": 1794817931,
+"334b80b45a61daeb": 1795147112,
 "33b2a0729fa12370": 1794669538,
 "33b6d94b0e3ed120": 1794739382,
+"340c54db043340e0": 1795147112,
 "343b3f73fa14da23": 1794817931,
+"346c6db1068d676c": 1795147112,
 "34a8ce0529ed4d62": 1794855031,
 "34f8822f0cb51452": 1794739382,
 "354ef36ad9f76b7a": 1794855031,
@@ -1528,6 +1416,7 @@
 "35eabdc8ef8fd65f": 1795106364,
 "368b2bccbc66b97a": 1795047047,
 "368f0c45a961eef2": 1794855031,
+"36a24932de92e96d": 1795147112,
 "37806d47faee577d": 1794669538,
 "37fd6f28f8f68d9c": 1794855031,
 "38440f9d33d0deae": 1794669538,
@@ -1700,6 +1589,7 @@
 "716f25c0907117cf": 1794669538,
 "71b194c35ecdaba5": 1794779796,
 "71b5001cef077fa1": 1795047047,
+"721451b0bc3c83a4": 1795147112,
 "7218ed89099d2fa6": 1794645864,
 "72cfa6be70e2b38d": 1794817931,
 "72e25e951bae5385": 1794669538,
@@ -1710,7 +1600,9 @@
 "742833855b5985b6": 1794993036,
 "742b6e736ca42eeb": 1794817931,
 "746d06deba27a633": 1794817931,
+"7492bd47d1d99cf9": 1795147112,
 "75455a9e2cf5e9bc": 1794739382,
+"7629c4bf729a6a83": 1795147112,
 "7636eee0b1ca9ea1": 1794763512,
 "771ac794198327fc": 1794669538,
 "77322ddaa426e449": 1794881347,
@@ -1792,6 +1684,7 @@
 "87e6b2eafce76a65": 1795047047,
 "87fe23542d1036e2": 1794669538,
 "87ffda88412d615c": 1794855031,
+"8861099b4d4e3d0b": 1795147112,
 "88ad0ee221d6b7f8": 1795047047,
 "8919fa1615bb2568": 1795024831,
 "898d9915d66bd8b0": 1795024831,
@@ -1807,6 +1700,7 @@
 "8bd44324a31e8716": 1794686298,
 "8be9294b2c9a1088": 1794669538,
 "8c105b6d69e0e1f0": 1795024831,
+"8c6e8866166b4dbb": 1795147112,
 "8c9801b864f7d406": 1794739382,
 "8dc9c0758e36fbd7": 1794739382,
 "8e7d8616c96a84e5": 1794763512,
@@ -1871,8 +1765,10 @@
 "9e29083eaf71b29e": 1794669538,
 "9e67d85fd83c7d6e": 1794686298,
 "9e77f8855069ad34": 1794669538,
+"9ed77d1a89731cc8": 1795147112,
 "9f71631e35d351dd": 1795047047,
 "9fb63b72acd123d9": 1794993036,
+"9fd42dcccd646acb": 1795147112,
 "9fdb0cc8e597e679": 1794699678,
 "a0b5a4bbe6370b8f": 1794993036,
 "a15a04f3ab675ba3": 1795047047,
@@ -1954,6 +1850,7 @@
 "b37c6bcf5afa8dbf": 1794686298,
 "b3fde9111c386482": 1794855031,
 "b5235a797e776de4": 1794855031,
+"b67037aef613bd6f": 1795147112,
 "b67cbc3338f533bd": 1794993036,
 "b6898100900d8295": 1794855031,
 "b6aa3ba312cfeea2": 1794911969,
@@ -2121,6 +2018,7 @@
 "e1cbf8537613050c": 1795024831,
 "e2134734c94caeb2": 1795106364,
 "e22845f8029243da": 1794993036,
+"e26d9a86302f8b16": 1795147112,
 "e2b3e436299c1cd2": 1794669538,
 "e2c95aaa839691a3": 1794779796,
 "e32717d9f150120c": 1794739382,
@@ -2219,6 +2117,7 @@
 "fe5b3ffaa4c27259": 1794645864,
 "fe6703a4cc997f65": 1795047047,
 "fe90135ebf5f6fdc": 1795047047,
+"fe976c9adc3c179a": 1795147112,
 "fea3ced9d0f0ea8f": 1795072828,
 "fea4b8251b85f1e8": 1794943421,
 "fea76cbf24507c9c": 1794855031,
