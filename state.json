@@ -1,58 +1,6 @@
 {
 "ctx_titles": [
 {
-"title": "Incautación de carne de Marjayoun: se encontraron 500 kg de alimentos inseguros",
-"ts": 1795572862
-},
-{
-"title": "Fuentes de MTV: El embajador Michel Issa fue sincero al decir que aún no se ha llegado a un acuerdo sobre qué entidad reemplazará a la FPNUL y que ninguna de las alternativas propuestas es convincente; Añadió que los estadounidenses están convencidos de que los libaneses",
-"ts": 1795572862
-},
-{
-"title": "La Seguridad del Estado incautó unos 500 kilogramos de carne no refrigerada en Marjayoun",
-"ts": 1795572862
-},
-{
-"title": "Líbano y Francia acuerdan continuar la presencia internacional en el sur después de la FPNUL.",
-"ts": 1795572862
-},
-{
-"title": "Presidente libanés: El reemplazo de la FPNUL debe realizarse bajo la bandera de la ONU",
-"ts": 1795572862
-},
-{
-"title": "Las fotos muestran a las fuerzas de paz de la ONU rodeadas por la devastación en el sur del Líbano ocupado por Israel.",
-"ts": 1795572862
-},
-{
-"title": "Yassin Yassin a “RED TV”: No hay esperanzas de extender el mandato de la FPNUL si no hay ninguna intención por parte de la comunidad internacional de tomar una decisión para extenderlo",
-"ts": 1795572862
-},
-{
-"title": "FPNUL: París y Beirut van contra la corriente de Israel y Washington",
-"ts": 1795572862
-},
-{
-"title": "Beirut: convergencia de opiniones con París sobre la ampliación de la FPNUL",
-"ts": 1795572862
-},
-{
-"title": "Nabil Bou Moncef a Jadal: Me temo que llegaremos a finales de diciembre, con el fin del mandato de la FPNUL, con un vacío absoluto, y el Líbano se verá obligado a coordinarse directamente con Israel.",
-"ts": 1795572862
-},
-{
-"title": "París es un secreto en Tel Aviv... ¿Qué se cuece entre Washington y Doha? Aoun: No hay vacío después de la FPNUL y no hay retirada de la exclusividad de las armas",
-"ts": 1795572862
-},
-{
-"title": "Aoun responde a la campaña: ¿Es la exclusividad de las armas una traición?... “Hezbollah” exige su arresto y agita: ¡La paciencia tiene límites!",
-"ts": 1795572862
-},
-{
-"title": "¿Una delegación parlamentaria francesa al Líbano para prepararse para el período post-FPNUL?",
-"ts": 1795572862
-},
-{
 "title": "El Líbano estudia un borrador de la fuerza alternativa a la FPNUL: acuerdo entre Estados Unidos y Francia para incorporar el «Acuerdo Marco» a la Resolución 1701.",
 "ts": 1795605638
 },
@@ -211,13 +159,31 @@
 {
 "title": "La Asociación de Mayordomos de Sidón ha lamentado el fallecimiento de Al-Sharif: Su grato recuerdo permanecerá en el corazón de todos los que lo conocieron https://t.co/vCf9g4x0jL",
 "ts": 1795638696
+},
+{
+"title": "El portavoz de la FPNUL, Tealeq Boukharil, afirma que la misión permanecerá hasta el 31 de diciembre de 2026: cómo se distribuyen 6 medios de comunicación",
+"ts": 1795662021
+},
+{
+"title": "Danon: Israel se opone al despliegue de tropas francesas en el sur del Líbano tras la retirada de la FPNUL - Entrevista",
+"ts": 1795662021
+},
+{
+"title": "El líder de Hezbolá rechaza cualquier fuerza posterior a la FPNUL que no esté bajo la autoridad de la ONU",
+"ts": 1795662021
+},
+{
+"title": "Proyecto francés para una retirada gradual y pausada de la FPNUL. Citaciones adicionales y órdenes de detención contra la «Célula del Norte».",
+"ts": 1795662021
+},
+{
+"title": "La crisis interna obstaculiza las consultas sobre una alternativa a la FPNUL bajo el auspicio de las Naciones Unidas.",
+"ts": 1795662021
 }
 ],
 "diag": {
 "fuentes_caidas": [
 "almarkazia",
-"gn_en",
-"gn_es",
 "nna_ar",
 "nna_en",
 "toi"
@@ -397,73 +363,107 @@
 ],
 "type": "otro",
 "un": false
+},
+{
+"body": "Un intenso bombardeo de artillería israelí tiene como objetivo el barrio de Jal al-Shihab, en las afueras de Kafr Tibnit - Jardali\n https://x.com/MTVLebanonNews/status/2125689557542998136 \n25 de noviembre de 2026 a las 21:34",
+"first_ts": 1795639038,
+"msg_id": "1575345515996909652",
+"places": [
+"puente de Khardali",
+"Kfar Tebnit"
+],
+"sig": "puente de Khardali|artilleria",
+"sources": [
+{
+"level": "B",
+"link": "https://t.me/MTVLebanonNews/352083",
+"name": "MTV Lebanon (Telegram)",
+"origin": "TV libanesa, línea crítica con Hezbolá",
+"title": "Intenso bombardeo de artillería israelí contra el barrio de Jal al-Shihab, en las afueras de Kafr Tibnit - Al-Khardali.",
+"ts": 1795639038
+}
+],
+"type": "artilleria",
+"un": false
+},
+{
+"body": "",
+"first_ts": 1795639803,
+"msg_id": "1575345523232210986",
+"places": [
+"Marjayoun"
+],
+"sig": "Marjayoun|artilleria",
+"sources": [
+{
+"level": "B",
+"link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNXktYnh0WjBkVmtCbTRHc0hpLW80ajBDUzQ4UlQ0MFQxUjl1eU5sLXljMC1fcW1hb0RXRFpheGlaVFFURjZiYU10d0gyOGdOTnptUjBRMlhZd3ZnX3AwcUNQbURpejVfMGNORjZfQ0VqZnFULUdrMGVoMU42NTZyMnN5N1BqNFhScmxjTDNsQUI0M2RaZ1d0VXJpckR0V0NpOVBxVUJJNnR0bXJuQWx3UmNvcjNub1Qtd0JqbWVPRkxIYlVJWjh6LUhhM2xjZFJfTjVYVHdLLUdOSGkyMFNmdThyZk94SVJUU0xwSHlvc0VLdGpqVDU0UUk2MFlhTVlhdkdJaENxQm5xUnBLeTB4c0xGQngzSkhvM1VybkpDVUY2Y0lJRENSeWhpQVBpT2J2dFoxYkFiemF3VExwWWlBOExHbEU5dV9aZEgyMy1QSTF4MW1vLWg1UnBKUVBtUQ?oc=5",
+"name": "Elnashra (vía Google News)",
+"origin": "Medio libanés o árabe",
+"title": "Bombardeo de artillería contra la llanura de Marjayoun con 4 proyectiles",
+"ts": 1795639803
+},
+{
+"level": "B",
+"link": "https://t.me/MTVLebanonNews/352085",
+"name": "MTV Lebanon (Telegram)",
+"origin": "TV libanesa, línea crítica con Hezbolá",
+"title": "Bombardeo de artillería contra la llanura de Marjayoun",
+"ts": 1795639956
+},
+{
+"level": "B",
+"link": "https://t.me/NNA_Leb/224336",
+"name": "NNA (Telegram, canal no verificado)",
+"origin": "Agencia estatal libanesa",
+"title": "Bombardeo de artillería del enemigo israelí contra la llanura de Marjayoun https://co/url/1/",
+"ts": 1795641448
+},
+{
+"level": "B",
+"link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndUFja3MzOFhEMHJDY3J3VUZoSkdKTlhYNzZsUkhlRXdyekNfckJ3QUV3Z2Jfb2psdFg4ZWo3TEpCMl9DaUUwOTdHRWRuMTg?oc=5",
+"name": "MTV Lebanon (vía Google News)",
+"origin": "Medio libanés o árabe",
+"title": "Los bombardeos de artillería han tenido como objetivo la llanura de Marjayoun.",
+"ts": 1795642228
+},
+{
+"level": "C",
+"link": "https://t.me/alakhbar_news/101171",
+"name": "Al Akhbar (Telegram)",
+"origin": "Diario libanés afín a Hezbolá",
+"title": "«Agencia Nacional»: El enemigo israelí vuelve a bombardear con artillería la llanura de Marjayoun",
+"ts": 1795643289
+}
+],
+"type": "artilleria",
+"un": false
+},
+{
+"body": "",
+"first_ts": 1795641779,
+"msg_id": "1575345529607684130",
+"places": [
+"Marjayoun",
+"Bani Hayyan",
+"Tallouseh"
+],
+"sig": "Marjayoun|aereo",
+"sources": [
+{
+"level": "C",
+"link": "https://t.me/alakhbar_news/101169",
+"name": "Al Akhbar (Telegram)",
+"origin": "Diario libanés afín a Hezbolá",
+"title": "«Agencia Nacional»: Dos incursiones israelíes en Talusa y Bani Hayyan y bombardeos de artillería contra Al-Mansuri, Wadi Zibqin y la llanura de Marj Uyun.",
+"ts": 1795641779
+}
+],
+"type": "aereo",
+"un": false
 }
 ],
 "pending": [
-{
-"line": "• [Al-Baarini: Intento de garantizar una fuerza alternativa a la FPNUL bajo la égida de las Naciones Unidas](<https://news.google.com/rss/articles/CBMiggNBVV95cUxNbzY0dGlPVnk0WVRUclUwUDBjUGR0cjFQdWJrNkE3eUZOSnd4TEt2R010cXAxai1TWUJrcHpMSWZKaVUtblRQLUtLZDJwSVo5NC11elQ0RFNCeF81MjEyUTUzTDIydjFFQUtTM3pwZm80SVp0R3BzTEk2M0daZE94SzNuT3UwWlVVUjRna1RSNks2bFBnUmJoX1ZNd2FCV1JVRERtbWRGdjFuOEZlS0VTY0JJR2lHZEJNRXVDM0RUWVhBLXZPRHQ3OG4tNFEyLTEtbDJtNFNYeHNpaXlsMVJGeHFWdlVFWVdTNTBpaV92WFhHdHBnUUZzUEFfRUw1VFhjSWV0WUNJTERPWFpJYTZLYnROWWsycFg1TnVuam04QWJqN2twRm5JdENPX0Nla0tiUWVvNjBYUGUxdktnWFZoMk45Rk9qODAzR1BTRzBodXQ2ZWNBcHJWZXZ2WEVmZDdZY182Z2lDVVEteGFFR1N5eFVfR3NhQWtpVUFZb05Ma2VZdw?oc=5>)\n-# المركزية (vía Google News) · fiabilidad B",
-"ts": 1795543293
-},
-{
-"line": "• [Resumen de prensa del 24 de noviembre: las opciones posteriores a la FPNUL](<https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmptYi1sQXpJWU16U3pGVHI2eGd3S3pwSUdmNFFuQVRKQjJ6eDJZU1hNQldMU2cyNmV4NGZqVkZ2MnczZU9PZU9vWXpHQ3NkRUk3d2hzT29meEVhVFh3WTJodXEyWUtvWWs2OU1MdFNMTnNmTm12RFhFalNBclNsc2Z4cEhyZw?oc=5>)\n-# Libnanews (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam analizaron las consultas en curso para la etapa posterior a la finalización de la misión de la FPNUL y la visita del embajador estadounid](<https://news.google.com/rss/articles/CBMiygRBVV95cUxQMVJpa3dQbXQ0QldqOWM3Zmg2R25XLUpKeDR6cU5nVUF1aUtna0NmQ1JnMFdna080ZS02VnVfRmE0TndzdVhCOFNFazE0VzRKdDk0eXRUSlB1cktYcDR2ZjFQaVVudEdfYXZGVVpDY3JfQ0RMWDhGMDNKc21LMFFCeEZrcXZaQjZ3TU1rNE9HX3l3RXRhdVdvV3VBZ0pJUnJUclQ3OTRyZ1FpdlZ0TG1GdVhrRUxtV0VwU0stbGZ0cWdhcU5nTTJkWnZlWVJvTjVsQl9takRHRGNiR3g4ZkRHVkZLd1JYTGNnZ01EM3RLVVFNUkQxX3U4ZU9nZXRlbzlZeVlHTEgwUjFPd2tXSzIwWGZMWHJTSktWNzhoTFNPSEkwRllPQ2syOUVwWG5hQlJlZ0Y1elpaUE93RkZNRHU5QmpvdHRiRWhjZEVjLXlxX2VmUi1SWkZDRU1HQlEyZ1lwN01mME80UUNWSmtPSy0weE9QTGNoTFhtX1VGakRvek5abm5kMHphMW4tUG14SGJNb3E0bU5aSmt3TkZuS3hrcWJxSVVUelZsMjhMWXh1a1p5enJSZkF1WUlTaHpmanAwRE1qQVBHRFJWYmJsN0dLUGNqTTJ2ZVUzbXNZek85RTU3WXQ4ZWwzRlp0RS15M0lnRFhDTmNkdHRpRnViYjFkalluTnJGRnVnVW9TclZRSmgxNktWSFBVQ3FfeVgwVDY1YlB2SzJ1cS0wc2xIZmZaT2pBRmZhWXJPRWNxZEx2alhIenZuRnpiN1h3?oc=5>)\n-# Lebanon 24 (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam debaten los acuerdos posteriores a la FPNUL y las medidas de seguridad para las fiestas](<https://www.lbcgroup.tv/news/lebanon-news/969413/title/en?src=rss&utm_source=TheWALL360&utm_medium=Rss-articles&utm_campaign=rss&utm_term=Rss>)\n-# LBCI (inglés) · fiabilidad B",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam analizan la etapa posterior a la UNIFIL y las medidas de seguridad durante el periodo festivo](<https://news.google.com/rss/articles/CBMizwRBVV95cUxNQmk3UllSM0gzT2hLbEIzUmdrTVoybGM4NzNjREFCTW44MzlzQ3YxUVpPRk1KSTVKMk5pQnJMQ1NtbElVZklsTmUzSVdaU0dzQWQydG5Dc1RENFZacmJpSzRKd1VOSmdTdTdsUUZELTdWXzU1d010Q2p3SDlrSjVKTXF0dFlFQzFQTmVrWVJEcGdSRmNodl9hYVBtYWhWcnRvdkFtdTA4aWpDQUhQUlVQZ045b0ZjODc2SUZUREx1bW5qOHN3ZVNuel9mNW1SMFcxODRxaE1ET3RvSDZTZHRRTGdLaE1sM2N1NU93SzhUWDUxRHFPT05OVVA2RHh2dGpxVHc1NEJnU1BhQWVzUzN0dXhKU0sxVGJqTVJlX1JWR1g3dlZ1MzVtZHlEdUx3YTllWDBqQ1pWekdsUkpzRlpOXzNQRk5MVDd4LWZUSmRGYTh6NFF1a1p1bzM0M2Ffa3UyM0xWX2t4VjZBQ3lpX1g4RU1CcG5idm90T1RLZjMxeWp4allmZ043TXlTRWdYdDlzUFBjZ0tYVktNQ0g3YklHVjNncjRyV3VTRlVoRzlrMnRiN0cta21RV2NYNjJFS3ZvZUhaaHJ4Z18wdTU1eTBFNTB2anhYbmNPZzUwbVJPYTdydXNhNFJweE95VThjRzE3aHJla0NqdDV0SDhLSTBkbi1YQ3R5azNfMHU5VmtyTTNNMXYyTHVZNU55SmFWOTNVQ1EyemtkallFVXhwMXRrOHBPbnFYV1Z0T3VTeGNwc0xtdDVzQVlZMjdQNUkybWc?oc=5>)\n-# annahar.com (vía Google News) · fiabilidad A",
-"ts": 1795543293
-},
-{
-"line": "• [El sur del Líbano tras la «FINUL»: un vacío de seguridad que amenaza con reavivar la guerra](<https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWWxpaXpVLW1zRXVRQUY2cnA3RG5zVER4M3I2ODJRajFVYkFFNGwtME42QW9Ec21qem9SMWd4MElYWEl3Sk1HRHBwNzdaOVN5aDFMRUVMbEVZNmczUUxISVk5MTlIVk0zOTNrdE1aSlpUTkk1WkluUEpnblppQ216YmFVQWU1RnVINVp6YmE1ZmhuUm5GY0RxZTMycHlINjdVYnJWMlFRVWhnWl93LWE0WFBMRGEtTnB4bC1qeFphNG1nVmdnUl9Fb1RLNno4bFhXdUd3WGE1Z3JaVERvekFGdmJXY1A5YUkxSTY1OG8yUTdnQTNadnZlbW1xNnoyeGpKRlVidnhaNFc2bnF6UWM1YXlDZGdfN0ZUWHBYSG9RLXloM0VnNDdBU29CbmhwM09pMnAtaDZ3enFtdk1CUS11NlQwMFFLQzND?oc=5>)\n-# الجزيرة نت (vía Google News) · fiabilidad B",
-"ts": 1795543293
-},
-{
-"line": "• [La etapa posterior a la FPNUL y la seguridad durante las fiestas son los temas principales de la reunión entre Aoun y Salam.](<https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CSWhtRFktSkx3WHRRSzQzYWtSTVN4NWZSb0RzLWVsX2RzZGdRNHNSX09lb0dna3l6REJUSEdCWmh1bnRUcDFGTHFVYw?oc=5>)\n-# Elsiyasa (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [La FPNUL y la seguridad, entre la ayuda y la paz](<https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMndFVktTajYzRjNmUDJvYXRXVkNiMm5aRWNfSHZuUlp4Q012SlJNVUhMWkVvREFtTGRfZzZaanljTUl2SnVRdUFjcw?oc=5>)\n-# MTV Lebanon (vía Google News) · fiabilidad B",
-"ts": 1795543293
-},
-{
-"line": "• [Más allá de la FPNUL en primer plano... ¿Qué ocurrió a puertas cerradas en Baabda entre Aoun y Salam?](<https://news.google.com/rss/articles/CBMioARBVV95cUxQMGhWUlVnTFVveDNvNVVMNkdiRmp3Zk1CaHBOMVZ4NDlhVjBKNjQ2aUgyNTNrZmhpMmNLY0dPLXFacDNXWTI0bk5mOEJVUFlhemlVMk5mRXE3bndaZWJETjFFaFZpNXNieGxrdmpYVlNiV1J3NDVxX3Y0a3JOT0RZSGljWE04NVpaSTJxZlBnLW1qRjFWenBJdVBSakJQcUZNbEhfQjNtTGdTXzMxdWZHcWMwZ3RmZ0RvenBUWm1sc0dwbUJ1b0NLU1I3aV9RM2ViXzFrSV93T3Q3d3NMMzNjQzYxaWFFcmZBLVNYQVhtZmtGOXlTNl94LUFYTkY4SlBEWGxvLUFLN0J1N3BKSVJSemt5UlVlZHhpQ1RfX3JPaDNTaVdqVGtENFNZdzNZaERjQ0ZWS3A1M205R3p6Y3BURGh2MXFMUExrR3ZEVUFpQktHWE1xeHJvV3kxbkFjQjhvVUZuTWFWSW9zSjFNYW96enV2SjN3SEN1bFZnemFwNlZRZGNjUFJHZVFYblJfYmdZclREbU84NTlRYmtmbDQyYjV2YnJlRzRlWnM1V3U3R0ZPdVdRcE96Z2J5c0Z1SV93VWp6akhKUDh5ZlFYMzRBWExvdElNM2tNU2pCY1VHVTR6RGVyVWZmUmJzdU9nWVdYRjNaMDM5WUdnWnBzRmFoOTBMSTVBdExtOUlpWTBuQTc4SEszX1pQOG5pdTNqYnNH?oc=5>)\n-# Lebanon Debate (vía Google News) · fiabilidad D",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam abordan los preparativos posteriores a la UNIFIL y la seguridad alimentaria · Daily Beirut](<https://news.google.com/rss/articles/CBMi8gNBVV95cUxPc1BMbnVoN09iQ1NwZDdDT3I1a0t1ZUhZR2dGZk9ncGdZeHdPU0dFTmxIaFVCUkZDNFNQRzJDbU9NXzVnMkxBa2swbkVKXzd5VXpNMDE1b2JMWVFaNGJKR1BMdEZ6cUNpMlpuUjNsOEtWeGRubllQX3BvX1RJRXhTSVNTRXFqQm42NjJNeEVVa1NYUlc3ZktpR3dFWTlOQldOU1JkalRIN1JFNllERllSTGJEOWZtZFVBTDctd3ctcVJnUThpbGI0V0FoR3N4QWpTaFBfdUN2RGJYR25vNlAyem5pNHJIR0h4YlBVbUxyRzhYdFNuZ19DRkxKaEJmMW0yN2k4dTg3ZEZPa2xjLWNHamxMX2NnRS03RTB5WEwxSzBrVmRQVGV0OERxSTZoeUo4a1ZyTjM5WTJtOHo4VjJ4Mk1GREVhaWo1ZTNORm1TcVZHWEk5VHVCUXJtQ1J1bnhOS21uQ3NneUhOYWRfTTZOWE9HTFBjMEJ5SFdNcTZBOUlvUXh4UFJrajl1NHF5TjV5eHVGVDR6X1N3YS1GM3JQdy11MjJfNGk2T29rZjc0S1ZMV3p3VjN1SGF3R0pwaWotdkVWU3pfTHEzV01OVGpnNW9KZjFyeGdMOW54eFdlUHhXRDdFRzJXMUsxdDlCODlMMUE?oc=5>)\n-# Daily Beirut (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [FPNUL: Nos mantendremos en nuestras posiciones en el Líbano hasta finales de 2026](<https://news.google.com/rss/articles/CBMihANBVV95cUxOQzNhQXVlZnRpd2lwSlhwS0daWkJwRDg1X1cyV1hHOHpOSGdCb25xYldPWHBxbjlXVG5PUGE3dE5XcnZWV3Jma3JaaTVfRk1ZY01WNTR5ZE4tSTdrRllqNzE3VHRweDEzUU5ydWpDVncwWHdjMFBvVkkxWDBVTGE1UE1HNGxlNDZtVEpCTWFYX0loNG9iVE4yc1NmTTJreERJSnhQZ1h1R1VpYmxyaHo3SklzblZfTTFDNnRCS29ReEF3OGtua2plaXNCTUNWM3MyVFdhZ2pGbmZLVkpaTlNodU1hRlFDbE5JV3p3N3FpRzdrY1JDcV8tb3c0ekF5MU5RdmxzcjhKM2tLTmRVODdMSzhnUUt6ZzJEdnhBLXJqZjg0MG5Va1BMeFlJbkVvTDJvX2c4SlhGSHoxNjBTQXIzNnhobzhsbGI4MFdhQmI2VzlQYnF6d0Q0QXF6WHJJOW9adHVLQzM5Ty1UYTE0RHdPVjNJTXl1ZXhtdTliVmR1RnFiam5y0gGKA0FVX3lxTE1LSTlVbnRGUGpEZElwdHJRbVFfc2c4UVFDbHlTUXlXbnZqUzU2OVg4Z2xqQTkxV0drSWxYN3dsc29QTF9lcmlxaGprVUNCRzlHcDFwUnBtVHZ4MzhBRTlWSjl5ZzNaQkN1TnUxN1hnanJxY296V0tBYmdRNmVhYkNZaGxnajZzN1VqN1pGVEFublpiT1NjYWhrbFRsVUtVVGVIQUVzS3FnZmJVam5yYmxxVDVlcmpJRkxCZDJScEJhT2JyWTJtMVFoRl9Za3VIcjYzeFR5VkZJUGp6dmVOLWw2TVphdV80bG91V0hhMVV2NjVFci1XbHB6Z0F1UmFLVjZsbF9qd2dhS2FodWZHdkpaeVU4TjU0czJBWG1HZ1NybnBjSThZZUlRQlpFcmJmcUZtaWdQU2tPS3ZtVFRDTDJ3WHRCTHRjSFRBLXV0eHl5ZG54ekRMOGZUT0NDczBzel9Wdi1ad2xPcU9Mc1F4b3FkYnBfRzRQLXdVU0EtM2ZoZ0V0RFhkRHFzQlE?oc=5>)\n-# سكاي نيوز عربية (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam analizan los desafíos en materia de seguridad y las medidas que deben adoptarse tras la retirada de la FPNUL](<https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ldHByZ2h2NW9Md3Faelh6SmNxSVRrOWZOS0QwenAtanRCY1p1d0JUcS1DckxZOFFoVzJZYkVHT3M4ZGFybGJOMEQ4ZDE?oc=5>)\n-# Ici Beyrouth (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [La FPNUL advierte de la frágil situación de la seguridad antes de su retirada en enero de 2027](<https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WejVvTUFySUczYVZrME5iMnZ0bG1rRTY4UmFYSVNxYzU2aWh5ZVRiNEx5QnZBQTNRVGM2RjZrZE5NdWNUNXJpOEc5dDRTbU5fM0ItUjZCejNDdw?oc=5>)\n-# Israel National News (vía Google News) · fiabilidad C",
-"ts": 1795543293
-},
-{
-"line": "• [Aoun y Salam debaten la fase posterior a la FPNUL](<https://www.naharnet.com/stories/en/323960-aoun-and-salam-discuss-post-unifil-phase>)\n-# Naharnet · fiabilidad B",
-"ts": 1795543293
-},
-{
-"line": "• [Sur del Líbano: ¿Quién sustituirá a la FPNUL y estallará un nuevo enfrentamiento?](<https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTZRWV8tb0EtLWFTUTVCRlY0RHlzcmFZQUFzNUdZVlR2NUxreEtfeXE0bWthU2x0SlF5RHc5aHFkal9TZ3liSHBXVUd3QUxUNEU4bm9iQmYtNFE1Nl9aTGRFRFZ3Y1hURHFlMTIzUHA2VlJkUUQxc2wzRUhjNWtmcTNSN3UwY2hDVzh3TTFQckNENlB1TXZENmszNEFNbXNQTU12NQ?oc=5>)\n-# nedaelwatan.com (vía Google News) · fiabilidad ?",
-"ts": 1795543293
-},
-{
-"line": "• [«La situación es extremadamente frágil»... La FPNUL revela datos preocupantes sobre el sur.](<https://news.google.com/rss/articles/CBMi4wNBVV95cUxQQ3VmN3ZLS1NzMVZOQjZGNzgyUnVDTjFUcXc4X0JSS0hzNm1MaDd2QnNHVzliRnZxb1FJU3REN3FBRkIwMEpVMV9YMC0wTzJ0aUNmSDQ0OXhib21mZUR4YnZSVXk4N19iZXdEMGJYRjYtZXhma0lqdVVpalg1cnNvckRiMHp2ZmNDSUdQYWdHLWlYSHlSaDRmZy00WTlwcGJYWlU0U0k1ZlFkd01YcUwxZmg5QU5HbmlPX0lPQ0R5OEtpS0xjbktURHIxUTFRSGJZelRqUkRIRWtJcWttYzRlSUduUjF1R1NKY2lmVC0tbWlpMWVlbWFpWHRKVDhEdHl4Ry04Q3pkaU9JZVA1QXQ1YS1HbGhqWHY0TFMzSmZPb2hfRFVYNUxQQ1h3TzNGZW1mUkN2UGNWdzk3ZDRWbktKSzBuTjdVVndkVkgxQ3FPV3lGUWV4WnhDNHVoT2RkR1hFWElKZDlqaEZ1M2RIN0hxYV9vd09lVUhSeF9ZX010MC1sOFhiNl9UWDJkdExVWG9SdjVuMUpjZXBITHRBdWptNHk1aDc3TGZob3BfZ2JsT0FfaTNjek1ZaGY4NVZDdzI4dDRDYkc5WGc4Rm85S2FvZFVtRGdGS1R0SUltQWtxa2tWS28?oc=5>)\n-# Lebanon Debate (vía Google News) · fiabilidad D",
-"ts": 1795543293
-},
 {
 "line": "• [El presidente libanés y su primer ministro abordan la garantía de la estabilidad en materia de seguridad, la seguridad aérea y los preparativos para l](<https://news.google.com/rss/articles/CBMikgZBVV95cUxQcndadVN2cUw0Ui1mZVVQTTRjaVdDYXNBX19OYjhyS3dOOF9pRFg0NTV0dUoxLU1Zb2dQdWRiZzEzUUFqU0hSUFdIbWR5dExvemhMOEx3aEt1WlZDdS0xRUpOOXVLOXFvd1piam9haEJoS19pVld0Wm9EMGtCWmhGUDk0cWlBcWpjQlRYSW8wRHpLLWNsUm45ZTBCNzhweXJoc0dCU3MtcFVQdFRRZ2p3OEZTUXlhT3NSQ3RjS2dwV0tac2FJWTVicGpKYnhiR0NaODZoaGQtY29pMVVPX3Bvem80R2piOWNkand4N3J5SncyVTRNVUc5eG51bHk3aUNOaV8zaTMtcEJqanVpdXBjNlRDN29mLW1Wd292WGRTMFdTQzRhLWhtaDFyOHJMQ3piWS1DRHdUeldtd0tzU19Hclo0SExZVnJZcE83MXREOGRuVU5DeVJvWndnQVhGTGtmNnRkUEo1b3FBT2R6eWZ6eS1rTkZ2WWZwclY4dDM1dUotc1B1ZHNzQ2VTVVZMUzB6YWVldUVEYTJJQnlUYXhHY2JjSzRyV3dWWXR6ZkhXYUhUUjl6dS1ncEoxMzhoMWN1TnVMR05vOUYweExndnRrZUx2RGZQaW5TTnVoa0N5VlVuUklEMDh3RmFMakYtUzh5SVNuNUZ5aExKRVU5OG0ybjl2WnhaQldJX001T2haTGJnWnNheXZkVjJrNmlRb2FmbTYtNHI0Wm5ESUFkdkw3ZV9UVHdLamY0S3JRbl8tQ0FBc2VsaDNsUnZTUV9BZ2ZpZVJrWHZ0T3h1X0ZxU2xVTjFoSEVMdGVOMGRKS0RHSXJTR2FPRW9TcW5QTHJYMTJaVmZOWi11M1JwNzBuTlE4Y2pZZTB3OUFzTkE1VDVKWGwxdzdvdURnSERuRkE2WXJuUFlTUWFBYkpfY245UXlzNXlYazk1VVZNUDN2REtrd2ZQVnFISkMtcVFWVHBzRXlzeEJJUmZCTU1RTEI4RUU1WEhNZGJzNDU5b3pMamZybHJITWwzbk1EdFp0WTVRNTBhc3c?oc=5>)\n-# اخبارك نت (vía Google News) · fiabilidad ?",
 "ts": 1795543293
@@ -863,6 +863,26 @@
 {
 "line": "• [La Asociación de Mayordomos de Sidón ha lamentado el fallecimiento de Al-Sharif: Su grato recuerdo permanecerá en el corazón de todos los que lo conoc](<https://t.me/NNA_Leb/224325>)\n-# NNA (Telegram, canal no verificado) · fiabilidad B · Taybeh, 14,2 km al SO",
 "ts": 1795638696
+},
+{
+"line": "• [El portavoz de la FPNUL, Tealeq Boukharil, afirma que la misión permanecerá hasta el 31 de diciembre de 2026: cómo se distribuyen 6 medios de comunica](<https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeUZFRS1Vb3U4bVJOTzBIVXBCVFlVUVNmT004WElQWldhdmQ2VzFLazJ2QVJ6VDM5YXdNemlTOTNpTUNXeUgxNk1IOWJoOFpZSjFXSW1QVmZPLVFNaGtDSk04UHMxSDY5S2xRaTlLcVlkbHAzX3l3MXpZSjFjakJ1V1d1bjBUcnNyd2taWi14QVQzN0YxRlRhUFFSdDdMdVpjRVBpVnFOc0JtTTF0MXZkSHNsZ0VhTGwtSkk4c0JUMkVtZWZZdXdNV0c3QXdQeWZIQlQ3T1RDOU9FRVI5bzkyazlxdw?oc=5>)\n-# NewsCord (vía Google News) · fiabilidad ?",
+"ts": 1795662021
+},
+{
+"line": "• [Danon: Israel se opone al despliegue de tropas francesas en el sur del Líbano tras la retirada de la FPNUL - Entrevista](<https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NeUN2c1h0dFExcW1HSTdtaW9SeFVWUk9hNVpnSG5VVW42YUdQZzM3OEpQcXhDMzY3SWxKbk9jbG1kZkppa2dmcDV2NUFaYWtfcmk0emI4TEZkY2Y1?oc=5>)\n-# The Jerusalem Post (vía Google News) · fiabilidad B",
+"ts": 1795662021
+},
+{
+"line": "• [El líder de Hezbolá rechaza cualquier fuerza posterior a la FPNUL que no esté bajo la autoridad de la ONU](<https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTAzdVc0TXNnZnVFZ2psSWdBR2liNDVvSFozTS0yeTFvODZPQUZFYWtHV2VvNS1XTm1jcU1jRnpVbm9ZOUdsVEJOME5fRThDRUdXU1FiYkE3X2tiNzRHYldQbVNEZnlEMWFickVZNC1iRXFmX3RwcU9fTTdBWmZFd1RFOTVvb29YREo4MEs4YnBPUnV4NHpnRGx5aExxUW4tbEt0eUhYUExzZE1OMUJr0gG0AUFVX3lxTE5JVFFGZnc3d1hBd0c3cmZ2Uzl1cFN1R05MaXIxUVFqYVAwbU9mVllHYmJkNnJGekpWbmtMUGpNYWI5MFowaTFRVDVXdEh1NVd1Tld1OTNNWUt6QWw1Qnc2R1BQeGdiQVZjTGFhU1Jkd2ZSZ0dvUzc5TmtRLTJwMl9aX1VuUWdmd0pZSFpsaEJscWJWTkgxMVlmSWZZWl8wZk05OWltQ08xNGgyMXh3OG9NaFBmaw?oc=5>)\n-# upi (vía Google News) · fiabilidad ?",
+"ts": 1795662021
+},
+{
+"line": "• [Proyecto francés para una retirada gradual y pausada de la FPNUL. Citaciones adicionales y órdenes de detención contra la «Célula del Norte».](<https://www.annahar.com/lebanon/369896/مشروع-فرنسي-لانسحاب-تدريجي-متمهل-لـاليونيفيل-استدعاات-إضافية-ومذكرات-توقيف-بحق-خلية-الشمال>)\n-# An-Nahar · fiabilidad B",
+"ts": 1795662021
+},
+{
+"line": "• [La crisis interna obstaculiza las consultas sobre una alternativa a la FPNUL bajo el auspicio de las Naciones Unidas.](<https://news.google.com/rss/articles/CBMi1wRBVV95cUxQdWRocG4yelRlclFBNnBNRjBsT3cySWxDenV6YzFDVDJvYjIxX3lwWGk2SHJ0Qk81U2g0c2xOM0tjOW9IUFF5dTgtdk1kV3RQM0tIUXMzRGxLUUg5TGQxMFUzcHdXSTl3YlMyOXhrRXBiZWZTc29TOVc5UWNYTU9aempYTlJqQTZna0w2WDhSNXJTTjlHUjVNRk5nRVZ3M3d1NnpiS3J4TFBKdk5RSko3eE9kdEtIWkttSFhaRFdoSnpBWktyc2xVQVRONnJXRHUtVWlfd1JXamZTcno5NGFiTnNjUkxTY1ZOdVM4NVUyVEJPcklpUkJqZUtEQmVtUmN1dkpZZFFaaE1EM0ZUclRscGFzYmtWYU94SElTMVg1b2kzcGdmZi0wMjlIdHdqQXZiRXNBM05XM1VtbWhOVHlrUmF3UFRUbzFWNE10X1RQYU02MmlSelBFd292R1ZwWUdXYUIxc3V5SkpjQlVydUphX2tYZC00c25VUW1EN0I4Y3JOTkkzd2xwNWhTSHN5c0Y3dFR0dDlDSUVXalpXaENScURXMFFHc0NLa1hvSlpBZmhfOU5Ebkc3MTFwNGhNM0JCWTFkNXJCeEtrd0FUa1ZZdTBpRXR5NFVtZHhfczRhdDN6QVE3SXRrc2tzZzFDckhsZFZ3cjVQR2MzcHNuT3U2M2lIbVB0MC13SmVleFpITlhEVjJCLUR4UU5KS0kzQm5OU3RfRzBzMTVPMXdQcVg3bnd1UUtTNnRzbEpRcm8zUm9RYVZQWDhUT0VpMnp3Z2V2UTNPRDBuYw?oc=5>)\n-# جريدة اللواء (vía Google News) · fiabilidad ?",
+"ts": 1795662021
 }
 ],
 "seen": {
@@ -876,7 +896,6 @@
 "02d9ebb750384f22": 1795207277,
 "0311bc90d2df12fe": 1795297553,
 "034920e0e7d3f0fe": 1795543293,
-"03cbcd2a332b5f1c": 1795047047,
 "04fa0b422889ef70": 1795543293,
 "0573a6e146f8ca3a": 1795106364,
 "05c08d2c89e24594": 1795072828,
@@ -884,13 +903,13 @@
 "0715a0cfc02a35e1": 1795178098,
 "076689a097211fa1": 1795432430,
 "07bd3f1a0bd7041e": 1795543293,
-"086e3b3b5ef209e8": 1795047047,
-"08d58014b3475f07": 1795047047,
+"08729f54710b89a5": 1795662021,
 "08ed34e6327d28ee": 1795638696,
 "0932cfed27bf88a6": 1795432430,
 "094d9a63f2a71e73": 1795147112,
 "09c10988df31b89a": 1795543293,
 "09ccb85d2edd5dcc": 1795543293,
+"09eca60eea8bb4c7": 1795662021,
 "0ab8565a0ffaed62": 1795365770,
 "0aedc681863bcbb6": 1795250871,
 "0b3f24458523b0d5": 1795365770,
@@ -898,7 +917,6 @@
 "0bf6ce16dee67d12": 1795278342,
 "0d171ebd3661d92e": 1795365770,
 "0d1776c183820dcf": 1795543293,
-"0d70c9bd2c8d0501": 1795047047,
 "0dbbe56911806549": 1795473605,
 "0e2e06d21fe1b7c9": 1795106364,
 "0e4cac3e212494c0": 1795207277,
@@ -912,6 +930,7 @@
 "11763959c09e6cda": 1795106364,
 "1195fb24b8b26fe7": 1795473605,
 "1197e1f45274e774": 1795572862,
+"121285bb3eeb6f8f": 1795662021,
 "12bdbe05b483fe69": 1795365770,
 "12f586e94ecf5765": 1795297553,
 "1352a041a884b6fb": 1795638696,
@@ -923,8 +942,6 @@
 "13e1bcd042849e37": 1795605638,
 "141e5e43cbda3075": 1795106364,
 "14a4756da6d25950": 1795337352,
-"14b6aa70d7185060": 1795047047,
-"14f365eccb2134f8": 1795047047,
 "14f451a1c11ebdbe": 1795543293,
 "15277aa13b87fbb2": 1795106364,
 "1538c199c9ab14b7": 1795543293,
@@ -940,15 +957,16 @@
 "175e54bfa3c17c6f": 1795543293,
 "17c4c77049821e01": 1795225472,
 "17db3a1c84aaee15": 1795605638,
+"180d10aaf1a4c868": 1795662021,
 "18223051363af55e": 1795207277,
 "182e74cda3710b09": 1795297553,
 "18674873e4c16a9a": 1795365770,
-"18cc1b79e3abef35": 1795047047,
 "18d6db477c06b8ca": 1795638696,
 "18ea4d7df33a9f22": 1795337352,
 "19289d0973fd413e": 1795250871,
 "195ac67baaee8489": 1795129978,
 "19e6562d295e447d": 1795250871,
+"19eac5bf3e36d37d": 1795662021,
 "19ff95c59ffa0963": 1795072828,
 "1a24eb740cbb08dc": 1795278342,
 "1aaa047e2907e97d": 1795337352,
@@ -967,6 +985,7 @@
 "1f6e4e1fa01f507e": 1795278342,
 "1f75114aafe6dd36": 1795337352,
 "202a660a4b25c8b9": 1795473605,
+"207ec41c6d9ea9a9": 1795662021,
 "20cdd447fb193599": 1795365770,
 "20ee4e2b300ca3f6": 1795278342,
 "21812e2394125d56": 1795543293,
@@ -980,7 +999,6 @@
 "230dcef4af07d85f": 1795543293,
 "23232ed6f0535f71": 1795605638,
 "2368340550f4d496": 1795432430,
-"23aa834c6a477521": 1795047047,
 "2419baa2fc19c061": 1795250871,
 "24ebb28c5074e2b9": 1795365770,
 "253be58c66625ab4": 1795337352,
@@ -996,12 +1014,11 @@
 "2b05c2af35b24a89": 1795543293,
 "2b1f2de0942b4665": 1795250871,
 "2b85960ed4c17ff7": 1795385150,
+"2c61a7e3cb580284": 1795662021,
 "2ca739ed976fd1c7": 1795473605,
-"2e02bb946987acd0": 1795047047,
 "2ea7bb675d266dba": 1795225472,
 "2efd65c630098d36": 1795207277,
 "2f2fc69dffd261b5": 1795297553,
-"2f3acbc1233e192a": 1795047047,
 "2f414957762fd1cc": 1795278342,
 "2f87cd9fd3365cfd": 1795250871,
 "303648394502db5f": 1795278342,
@@ -1009,11 +1026,9 @@
 "3062470f0d82820e": 1795572862,
 "30b4db502c129670": 1795638696,
 "31311cdd6dac197d": 1795072828,
-"31af02f7714d1552": 1795047047,
 "322ae31964fb02d0": 1795365770,
 "3240ed1f25189bce": 1795250871,
 "324cd241839cb7e1": 1795543293,
-"32cd51586764abe5": 1795047047,
 "32f8f93e859612aa": 1795337352,
 "334b80b45a61daeb": 1795147112,
 "33d5fb33f7e45a19": 1795311590,
@@ -1026,7 +1041,7 @@
 "35790e1146a9a431": 1795543293,
 "35eabdc8ef8fd65f": 1795106364,
 "360819842eb80d76": 1795605638,
-"368b2bccbc66b97a": 1795047047,
+"368af0d9151e5913": 1795662021,
 "368d24639b7e92cb": 1795543293,
 "36a24932de92e96d": 1795147112,
 "36a7a68cc61622fc": 1795250871,
@@ -1060,6 +1075,7 @@
 "3f9cc2131fab1354": 1795072828,
 "3faa3c1850c1e093": 1795072828,
 "3faf6daa7ebb3b53": 1795638696,
+"3fdc0e018e51030c": 1795662021,
 "3fe451f11d6f67a4": 1795207277,
 "40381f23f0c5f62b": 1795297553,
 "403b4cc96ca66625": 1795207277,
@@ -1071,7 +1087,6 @@
 "42a9339db58dd8bc": 1795207277,
 "431543ba8c1d7b50": 1795543293,
 "43175a490d5f1004": 1795207277,
-"4345bac647ad0647": 1795047047,
 "438a817f7248eb76": 1795572862,
 "43a03ea2d5919157": 1795432430,
 "43fbc852de0147d5": 1795337352,
@@ -1089,14 +1104,12 @@
 "48079a1bd88ea8be": 1795365770,
 "49e60783d8d4f21d": 1795297553,
 "4ae2f8085c8d6b5d": 1795106364,
-"4af4722f55801692": 1795047047,
 "4b928b420c5b1582": 1795638696,
 "4bba8255352a24bc": 1795543293,
 "4bd51b9e50ed0668": 1795543293,
 "4c552b0197270471": 1795572862,
 "4c5f1062ab474d8e": 1795543293,
 "4c65af0efd4cc0b5": 1795297553,
-"4c79adca82d6146a": 1795047047,
 "4c84af4c9a070a8c": 1795605638,
 "4cac995a1176c0bd": 1795365770,
 "4ccad9adb16d4cde": 1795638696,
@@ -1121,6 +1134,7 @@
 "5072e58453bf3bed": 1795365770,
 "509936389484c65c": 1795543293,
 "50e621d7f17ffef1": 1795072828,
+"51282ed8452486a8": 1795662021,
 "514f96dc65a50054": 1795501466,
 "5214df3ced21bcaa": 1795178098,
 "52c45d4a448c5f67": 1795473605,
@@ -1129,21 +1143,21 @@
 "540b480570df182e": 1795543293,
 "543c298d3522a0c9": 1795106364,
 "5444ba04d420ae2f": 1795365770,
+"54a4db259dd2ec06": 1795662021,
 "54d62d9a5c3246fa": 1795605638,
 "551251ecfae21bb8": 1795605638,
 "5544627ab07ca5d9": 1795297553,
 "5602c2179133b694": 1795072828,
 "5633ac586d86d1e7": 1795278342,
 "56b6fb8b3d916931": 1795605638,
+"56b8f5852692e6b1": 1795662021,
 "56f6cec5d66ca415": 1795337352,
 "57b6cad07a9a140e": 1795106364,
-"57d2036dd303ee17": 1795047047,
 "58ae30f8e751ce06": 1795432430,
 "5980d2a8af9188ac": 1795501466,
 "599df69e53e2306f": 1795385150,
 "59ef9237f04af5c4": 1795207277,
 "5a35ba2ad9770f65": 1795432430,
-"5a4ca4f75bd32b46": 1795047047,
 "5a6d5bcbd133d823": 1795106364,
 "5a75126b0383f1f0": 1795278342,
 "5ad72b8b66d464a4": 1795572862,
@@ -1151,7 +1165,6 @@
 "5b32ff70a118abe0": 1795543293,
 "5b622bc16ee7d10b": 1795543293,
 "5bae8bc5a5f07f50": 1795278342,
-"5bc6830a58314949": 1795047047,
 "5bff612cbb457bee": 1795207277,
 "5c0af0ae8f3578f0": 1795106364,
 "5c0b61ed9bcef9fd": 1795106364,
@@ -1175,7 +1188,6 @@
 "618591ebe3686762": 1795337352,
 "61e797915ba658b6": 1795225472,
 "6240481a11e5689b": 1795207277,
-"627eba178969b3a5": 1795047047,
 "6293dadb11639e84": 1795250871,
 "63ea277cee282130": 1795473605,
 "6422a85fae42752d": 1795207277,
@@ -1208,7 +1220,6 @@
 "6ffd67ab764359af": 1795365770,
 "70beddeb60336651": 1795365770,
 "710b33eb17ccf665": 1795365770,
-"71b5001cef077fa1": 1795047047,
 "71d7609f38f696eb": 1795278342,
 "71de60d5031330f3": 1795365770,
 "71e4f1b4c67ab711": 1795543293,
@@ -1244,16 +1255,13 @@
 "7ef7b1e19ccf51e4": 1795106364,
 "7f1e6a7b8d9bb985": 1795297553,
 "7f6cb037e55ef9af": 1795365770,
-"809dccf7e245bd95": 1795047047,
 "81696978faf4e24a": 1795278342,
 "81759f6c24fefb2d": 1795543293,
 "81919ab682d0ded9": 1795365770,
 "81d8bf5caa7a35a8": 1795297553,
 "8242fc72b029443a": 1795129978,
 "82607916da136ef6": 1795278342,
-"828010181c94e06c": 1795047047,
 "831c1b175ec316ca": 1795278342,
-"838934bc366cf867": 1795047047,
 "83cb3ff050e05750": 1795278342,
 "8480ce8ea65e72cd": 1795337352,
 "8489bad284da5099": 1795106364,
@@ -1266,11 +1274,9 @@
 "86e427db3072b700": 1795572862,
 "8770be38d67c8b8d": 1795501466,
 "87a7f1489bfd1c60": 1795543293,
-"87e6b2eafce76a65": 1795047047,
 "880d3bed693483bd": 1795501466,
 "884e81b40a2f0b4d": 1795207277,
 "8861099b4d4e3d0b": 1795147112,
-"88ad0ee221d6b7f8": 1795047047,
 "8937d420bbe2f922": 1795365770,
 "89797f81d41cbb70": 1795178098,
 "8acd234b21376753": 1795543293,
@@ -1309,7 +1315,6 @@
 "952c0f6101d3cc62": 1795543293,
 "953d6563b489bff1": 1795106364,
 "9551713faa4ca82f": 1795432430,
-"95c96345e74318e8": 1795047047,
 "965a546c1601cfb3": 1795638696,
 "96a408fa3a5a63c4": 1795178098,
 "96f474c689d32c0f": 1795432430,
@@ -1321,9 +1326,8 @@
 "985409878b15dfc9": 1795365770,
 "986a349219de29ee": 1795207277,
 "98bf75636e4f8a9d": 1795106364,
+"98d4c0ab32f557ba": 1795662021,
 "98fd753d4573a702": 1795225472,
-"993a69028d361b38": 1795047047,
-"99a7c12b17aa8290": 1795047047,
 "9b28c8af25df2e13": 1795432430,
 "9bcdabe9f13067f8": 1795225472,
 "9cfe6d4e2666d07b": 1795207277,
@@ -1333,13 +1337,11 @@
 "9ed77d1a89731cc8": 1795147112,
 "9ef1fae7918884a7": 1795278342,
 "9f4ec0c3f945c214": 1795501466,
-"9f71631e35d351dd": 1795047047,
 "9fa2a987670ed9cc": 1795543293,
 "9fabbbceb2c1ee54": 1795605638,
 "9fd42dcccd646acb": 1795147112,
 "a041b552bf661d35": 1795638696,
 "a0f53eaa581cc6ef": 1795501466,
-"a15a04f3ab675ba3": 1795047047,
 "a16b785610d82207": 1795605638,
 "a18c6b4282acad51": 1795207277,
 "a190e734fcd2cdc9": 1795207277,
@@ -1351,6 +1353,7 @@
 "a2a0738abbc108ff": 1795337352,
 "a2a75ea166a599e0": 1795543293,
 "a2a7bba1159e83f3": 1795278342,
+"a2ca04b0073e2852": 1795662021,
 "a3426b4436cd2161": 1795473605,
 "a41d2932642ea41c": 1795178098,
 "a45e835fc85d450e": 1795178098,
@@ -1385,10 +1388,8 @@
 "acb818ada94f2a61": 1795432430,
 "ace142ef974144d3": 1795638696,
 "ad4484ce4219470b": 1795473605,
-"ad77df193822fe5d": 1795047047,
 "adf5f39d17526ced": 1795543293,
 "ae1282bdb7aa1baf": 1795178098,
-"ae2ee863ec5f1935": 1795047047,
 "ae44ab96709defa3": 1795473605,
 "ae638f0093395cd8": 1795365770,
 "ae8ecad1df972fd1": 1795572862,
@@ -1401,7 +1402,6 @@
 "b04f7f241e43b300": 1795501466,
 "b09424500f722c06": 1795106364,
 "b0c3d5bee259cc51": 1795072828,
-"b0c59fb0be50db09": 1795047047,
 "b12f93d0cf3886a0": 1795072828,
 "b19ae133cf4969c5": 1795432430,
 "b1f8071edaa3f076": 1795129978,
@@ -1409,10 +1409,10 @@
 "b244b1d6c04f150b": 1795278342,
 "b284d70189752809": 1795207277,
 "b28528672c572f3b": 1795106364,
-"b29ecb926f4aeda5": 1795047047,
 "b2de9d3645107184": 1795297553,
 "b32d76771f5b3010": 1795225472,
 "b351fafeee31b5b7": 1795572862,
+"b37e5fed3c9e3f13": 1795662021,
 "b37f7c84d942bd94": 1795297553,
 "b38f4302ebbdde48": 1795250871,
 "b3988120513fb3d7": 1795605638,
@@ -1428,7 +1428,6 @@
 "b72202d8204d0a52": 1795543293,
 "b7332d1d2bd71ca9": 1795129978,
 "b740a1b875f6a9cf": 1795543293,
-"b7463bd28dfc60c3": 1795047047,
 "b7b20ed386fe427b": 1795278342,
 "b7b84f11ac3bb13b": 1795543293,
 "b7f115f922b5f809": 1795278342,
@@ -1470,7 +1469,6 @@
 "c7a7a57e56f3169d": 1795605638,
 "c7e4e045a4a4a879": 1795072828,
 "c8016e9b8a821938": 1795638696,
-"c816b2ae41c07e9d": 1795047047,
 "c84929db4689f8f1": 1795473605,
 "c877cefcac9a661d": 1795278342,
 "c9026f54ea3ce82e": 1795385150,
@@ -1479,11 +1477,9 @@
 "ca6f62433626722b": 1795605638,
 "cb54947497ac2cc5": 1795572862,
 "cb56977c82b641b7": 1795605638,
-"cb6807b7b43defd3": 1795047047,
 "cc1323f1d5944dc8": 1795337352,
 "cd65ff9574a358db": 1795572862,
 "cd66829e726b4914": 1795543293,
-"cdf50265901c03a3": 1795047047,
 "ce63406d40ddb371": 1795250871,
 "ce9761c21238ee9e": 1795072828,
 "ced34164650874c1": 1795605638,
@@ -1506,16 +1502,14 @@
 "d3af471bbf5684bf": 1795572862,
 "d4095474bf9bc52e": 1795297553,
 "d41090be1c3fa1d9": 1795572862,
+"d44f71acdc15f825": 1795662021,
 "d465a3dfd194bd8d": 1795543293,
 "d4ddf25d6c0966f1": 1795638696,
 "d7393f40a70d8396": 1795207277,
-"d7f69b3f174ec158": 1795047047,
 "d8cfc26e5162931e": 1795572862,
 "da2d1daafff87bd4": 1795501466,
 "da3596cdb7531923": 1795365770,
-"da9bfaef508f0dd6": 1795047047,
 "da9ccfdf403bb1b0": 1795106364,
-"db24378eb8e916cb": 1795047047,
 "db3208433d539e4e": 1795543293,
 "db3662dd3a1c5b03": 1795432430,
 "db6c43d3a9df8013": 1795605638,
@@ -1530,7 +1524,6 @@
 "de51e33e137eab2f": 1795473605,
 "de84edec21a8de74": 1795572862,
 "de89eb882e41d94c": 1795543293,
-"df55b428e8077cc5": 1795047047,
 "dfb1ddfbaad7f33f": 1795501466,
 "dffdbd599f90f23e": 1795432430,
 "e019727d8bce93e2": 1795543293,
@@ -1561,13 +1554,13 @@
 "e83f9c796d65405f": 1795572862,
 "e8727353fe75929a": 1795129978,
 "e884f9b100e10797": 1795501466,
+"e8d928d3666ae5ce": 1795662021,
 "e9cfb23f86b31715": 1795572862,
 "e9e4f783eba40a01": 1795311590,
 "ea3bbe93cb99917e": 1795106364,
 "eada5a51c93e5a3a": 1795129978,
 "eb6d0f5bc9a56046": 1795543293,
 "ec0267725e8d6543": 1795543293,
-"ec0ad3f796249158": 1795047047,
 "ecb3cadd7dd7edfa": 1795129978,
 "ece3a24d73d54ba5": 1795072828,
 "ed181bf7626597ec": 1795129978,
@@ -1576,11 +1569,11 @@
 "ede513c775c5f71b": 1795106364,
 "ee8625e9338319f6": 1795543293,
 "eec8ea10d3441ca3": 1795473605,
+"eed3d86291f6cd32": 1795662021,
 "ef23c2a5fe050ccf": 1795385150,
 "efaa8b9d8db246f0": 1795543293,
 "eff26939b6d7e5aa": 1795072828,
 "f00729c5ec5d8e7e": 1795297553,
-"f03682545ad730ab": 1795047047,
 "f0e7af3fb757b078": 1795072828,
 "f152f86d8c2263a3": 1795365770,
 "f15755cf04723591": 1795178098,
@@ -1604,19 +1597,18 @@
 "f7db46598994b464": 1795278342,
 "f845f297d74d08f2": 1795432430,
 "f894d2d9bb76e6b3": 1795278342,
-"f8a582b852194ca5": 1795047047,
 "f971e4c9b18c7269": 1795106364,
 "f97fb2a0122320a4": 1795543293,
 "fa9db3aa7efb1b73": 1795473605,
 "fad0e15be82c301b": 1795572862,
 "fb3a8d72ed085ebe": 1795572862,
 "fc5efa975c3dd41a": 1795385150,
+"fd66c849fb2304cc": 1795662021,
+"fd7773df756b4c16": 1795662021,
 "fdc465d2c5d02d1c": 1795129978,
 "fdd6a77c03370e97": 1795207277,
 "fdf49220320bd5fa": 1795473605,
 "fe4a27c77b83b186": 1795365770,
-"fe6703a4cc997f65": 1795047047,
-"fe90135ebf5f6fdc": 1795047047,
 "fe976c9adc3c179a": 1795147112,
 "fea3ced9d0f0ea8f": 1795072828,
 "ff7e9622f59fe142": 1795207277
